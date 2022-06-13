@@ -1,0 +1,1508 @@
+Applicant ID,Position,Application Date,Stage Name,Applicant Status,OwnerName,Country,Applicant Name,Salary Expectations
+5117,Technical Writer,9/10/2019,Application,open,Howard Wolowitz,India,Sebastian  Balytskiy,"$1,300"
+5118,Technical Writer,9/10/2019,Application,open,Howard Wolowitz,France,Oleksiy   Pasternak,$500
+5119,Office Manager,9/10/2019,Application,open,Howard Wolowitz,Sweeden,Iryna   Dutta,$600
+5073,Financial Controller,9/9/2019,Application,open,Howard Wolowitz,United States,kajal  Strembitskiy,"$3,300"
+5074,Front-End Developer,9/9/2019,Application,open,Leslie Winkle,Sweeden,Michael  Pirowski,"$1,000"
+5075,Data Analyst,9/9/2019,Application,open,Howard Wolowitz,Spain,Nick   Khetia,"$3,900"
+5076,Office Manager,9/9/2019,Application,open,Howard Wolowitz,Ukraine,Yuliia  Novachenko,$600
+5107,Technical Writer,9/9/2019,Application,open,Howard Wolowitz,South Korea,Iryna  Jumabekov,$400
+5109,Data Analyst,9/9/2019,Application,open,Howard Wolowitz,India,Agata   Ali muhammed,"$2,200"
+5110,Technical Writer,9/9/2019,Application,open,Howard Wolowitz,Spain,Vira   Ilczyniak,"$2,000"
+5116,Technical Writer,9/9/2019,Application,open,Howard Wolowitz,United States,Alexander   Gehrhardt,$900
+5071,Technical Writer,9/8/2019,Profile review,open,Leonard Hofstadter,South Korea,Ana   Martynenko,"$2,300"
+5072,Full Stack Engineer,9/8/2019,Application,open,Howard Wolowitz,South Korea,Denis  Shevchenko,"$1,300"
+5069,Technical Writer,9/7/2019,Profile review,open,Leonard Hofstadter,Singapore,Zarah Maureen  Birisic,"$1,000"
+5070,Front-End Developer,9/7/2019,Profile review,open,Leslie Winkle,Canada,Erkan  Kochubey,"$2,400"
+5063,Technical Writer,9/6/2019,Profile review,open,Leslie Winkle,Spain,Vasileios  Anishina,"$1,000"
+5064,Technical Writer,9/6/2019,Profile review,open,Leslie Winkle,Spain,Krystal    Ajuobi,"$1,300"
+5065,Full Stack Node JS Engineer,9/6/2019,Profile review,open,Sheldon Cooper,South Korea,Joshua  Liashenko,$800
+5066,Technical Writer,9/6/2019,Application,lost,Leslie Winkle,United States,Priyanka   Popovskaya,"$2,300"
+5067,Data Analyst,9/6/2019,Profile review,open,Leonard Hofstadter,Germany,Claudia  Rapheal,"$2,000"
+5057,Full Stack Engineer,9/5/2019,Application,lost,Leslie Winkle,France,Lukasz  Yavorska,$300
+5058,Front-End Developer,9/5/2019,Profile review,open,Leslie Winkle,Spain,Ana   AYOOLA,"$1,700"
+5059,Front-End Developer,9/5/2019,Application,lost,Leslie Winkle,Sweeden,Sergii  Zakhozhyi,"$2,900"
+5060,Technical Writer,9/5/2019,Profile review,open,Leonard Hofstadter,Germany,Elias  Ponedilok,$700
+5061,Front-End Developer,9/5/2019,Application,lost,Leslie Winkle,Poland,Petya  Vogelsang,"$3,300"
+5062,Technical Writer,9/5/2019,Profile review,open,Leonard Hofstadter,Singapore,Magdalena  Palli,"$1,400"
+5051,Data Analyst,9/4/2019,Profile review,open,Leonard Hofstadter,France,Nikolay  Zientarski,$400
+5052,Front-End Developer,9/4/2019,Application,lost,Leslie Winkle,France,Karyna  Barrientos,"$1,600"
+5053,Front-End Developer,9/4/2019,Application,lost,Leslie Winkle,Singapore,Marek  Duklewski,"$2,900"
+5054,Full Stack Engineer,9/4/2019,Application,lost,Leslie Winkle,Spain,Joanna   Rowe,"$2,000"
+5055,Full Stack Engineer,9/4/2019,Application,lost,Leslie Winkle,Singapore,Paula  Krystian,"$1,800"
+5056,Front-End Developer,9/4/2019,Profile review,open,Leslie Winkle,Germany,Iryna  Doroschenko,"$1,600"
+5044,Full Stack Node JS Engineer,9/3/2019,Test task,open,Sheldon Cooper,Germany,Dmytro  Krzysztofek,"$1,600"
+5045,Technical Writer,9/3/2019,Profile review,open,Leonard Hofstadter,Netherlands,Gonçalo  Bielanska,$500
+5046,Front-End Developer,9/3/2019,Application,lost,Leslie Winkle,India,Sahashri  Lipina,"$1,000"
+5047,Technical Writer,9/3/2019,Profile review,open,Leonard Hofstadter,India,Fatih  Matsko,"$1,100"
+5048,Office Manager,9/3/2019,Profile review,open,Leonard Hofstadter,France,Michał  Maksymets,$500
+5049,Office Manager,9/3/2019,Profile review,open,Leonard Hofstadter,Singapore,Alexandru   Mozolevskaya,$300
+5050,Financial Controller,9/3/2019,Test task,open,Stuart Bloom,India,Olga   Akauba,"$2,500"
+5015,Technical Writer,9/2/2019,Profile review,open,Leonard Hofstadter,Poland,Dmytro  singh,"$6,000"
+5016,Data Analyst,9/2/2019,Test task,open,Leonard Hofstadter,Poland,Svitlana   Victorino,"$1,300"
+5018,Technical Writer,9/2/2019,Profile review,open,Leonard Hofstadter,Brazil,Oleh   Ocalewicz,"$1,300"
+5019,Financial Controller,9/2/2019,Profile review,lost,Stuart Bloom,Singapore,"Workers Solutions,  Jere","$3,300"
+5020,Front-End Developer,9/2/2019,Application,lost,Leslie Winkle,United Kingdom,Haikal  Chikunova,$300
+5014,Financial Controller,9/1/2019,Test task,open,Stuart Bloom,Canada,Taras   Shemet,"$1,400"
+5012,Financial Controller,8/31/2019,Test task,open,Stuart Bloom,India,Dmitriy   Uridia,"$2,300"
+5013,Technical Writer,8/31/2019,Profile review,open,Leonard Hofstadter,United States,Daria  Korta,"$2,000"
+5004,Office Manager,8/30/2019,Profile review,lost,Leslie Winkle,Netherlands,DawidC  Lytvynov,$600
+5006,Full Stack Engineer,8/30/2019,Test task,open,Sheldon Cooper,Brazil,Anatolii  Visco,"$2,300"
+5007,Technical Writer,8/30/2019,Profile review,open,Stuart Bloom,Spain,Kostyantyn  Stasko,"$1,000"
+5008,Technical Writer,8/30/2019,Profile review,open,Leonard Hofstadter,Ukraine,Inga  Maksymets,$500
+5009,Data Analyst,8/30/2019,Profile review,lost,Leonard Hofstadter,Germany,Vladislav  Nikitiuk,$700
+5010,Front-End Developer,8/30/2019,Profile review,open,Leslie Winkle,Brazil,Sergey  Oyon,"$1,600"
+5011,Office Manager,8/30/2019,Profile review,open,Leonard Hofstadter,United Kingdom,Armstrong  Buderkevych,"$1,300"
+4986,Technical Writer,8/29/2019,Profile review,open,Leonard Hofstadter,Poland,Elvira  wisniowski,$200
+4987,Front-End Developer,8/29/2019,Test task,open,Leslie Winkle,Singapore,Oleksii  Ranjan Behera,"$2,100"
+4988,Technical Writer,8/29/2019,Profile review,open,Leonard Hofstadter,Spain,Tamir  Rybchenko,$200
+4989,Technical Writer,8/29/2019,Profile review,open,Leonard Hofstadter,Ukraine,Ranjeeta  Gupta Gupta,$200
+4990,Full Stack Node JS Engineer,8/29/2019,Profile review,lost,Sheldon Cooper,Poland,Dmitriy  Savliuk,"$3,300"
+4991,Front-End Developer,8/29/2019,Profile review,open,Leslie Winkle,United Kingdom,Renat  Polukhin,$700
+4992,Technical Writer,8/29/2019,Profile review,lost,Leslie Winkle,Spain,Akshi   PAUL,"$1,000"
+4998,Office Manager,8/29/2019,Test task,open,Leslie Winkle,Spain,Irakli   Arosemena,$300
+4999,Full Stack Node JS Engineer,8/29/2019,Test task,open,Sheldon Cooper,Netherlands,Elvira  Velychko,"$2,000"
+5000,Financial Controller,8/29/2019,Profile review,lost,Stuart Bloom,Germany,Larry  Horizon,"$3,300"
+5001,Office Manager,8/29/2019,Test task,open,Leslie Winkle,India,Maksym  Hernandez,$800
+5002,Technical Writer,8/29/2019,Profile review,open,Leonard Hofstadter,United Kingdom,Ewa  Żukowska,$400
+4972,Full Stack Engineer,8/28/2019,Test task,open,Sheldon Cooper,United Kingdom,Nikolay  Stechenko,"$1,200"
+4973,Data Analyst,8/28/2019,Profile review,lost,Leonard Hofstadter,South Korea,Olia  Rachwalski,"$1,800"
+4974,Financial Controller,8/28/2019,Test task,open,Stuart Bloom,India,Anna   Kujawa,"$2,300"
+4975,Technical Writer,8/28/2019,Profile review,open,Leonard Hofstadter,Singapore,Jake  Arisah,$200
+4976,Technical Writer,8/28/2019,Profile review,lost,Leonard Hofstadter,Spain,Ulan  Hanko,"$1,000"
+4977,Technical Writer,8/28/2019,Profile review,lost,Leonard Hofstadter,Singapore,Katarzyna  Maksimenko,"$1,200"
+4978,Technical Writer,8/28/2019,Profile review,lost,Leonard Hofstadter,Sweeden,Mykola  N,"$2,200"
+4979,Technical Writer,8/28/2019,Profile review,open,Leonard Hofstadter,Singapore,Artem  Armens,$200
+4980,Financial Controller,8/28/2019,Test task,open,Stuart Bloom,Poland,Anshu   Krukovets,"$2,900"
+4981,Technical Writer,8/28/2019,Profile review,open,Leonard Hofstadter,Singapore,Harshal   Santana,$300
+4982,Technical Writer,8/28/2019,Profile review,open,Leonard Hofstadter,Brazil,Tamara  Gordienco,$100
+4983,Technical Writer,8/28/2019,Profile review,lost,Leslie Winkle,Netherlands,sonal  Zhuravlova,$300
+4984,Technical Writer,8/28/2019,Profile review,open,Leonard Hofstadter,United States,Weronika  Mikłas,$300
+4985,Technical Writer,8/28/2019,Profile review,open,Leonard Hofstadter,Ukraine,Aleana  Conti,$700
+4944,Technical Writer,8/27/2019,Profile review,lost,Leonard Hofstadter,United States,Olena    Konovalova,"$2,900"
+4950,Technical Writer,8/27/2019,Profile review,lost,Leslie Winkle,Ukraine,M.suleman  Hnidenko,$300
+4951,Financial Controller,8/27/2019,Profile review,lost,Stuart Bloom,Poland,Oleksandr  Tantono,"$7,800"
+4952,Front-End Developer,8/27/2019,Application,lost,Leslie Winkle,France,Vadzim   Kret,$300
+4953,Data Analyst,8/27/2019,Test task,open,Leonard Hofstadter,United Kingdom,Yurii  Emmanuel Imeh,"$1,200"
+4955,Full Stack Node JS Engineer,8/27/2019,Application,lost,Leslie Winkle,Singapore,Konrad  Kammer,"$1,200"
+4956,Full Stack Engineer,8/27/2019,Test task,open,Sheldon Cooper,Netherlands,Oleksandr   Sobko,"$2,000"
+4958,Financial Controller,8/27/2019,Test task,open,Stuart Bloom,Sweeden,Sergey  Sysak,"$2,800"
+4965,Office Manager,8/27/2019,Profile review,open,Leslie Winkle,Canada,Sergey  Markowski,$700
+4966,Data Analyst,8/27/2019,Test task,open,Leonard Hofstadter,Netherlands,Daniel   Dyda,"$2,500"
+4967,Financial Controller,8/27/2019,Test task,open,Stuart Bloom,France,Natalia  Samarets,"$1,600"
+4968,Financial Controller,8/27/2019,Profile review,open,Stuart Bloom,Sweeden,Andrey  Al Nasser,"$4,900"
+4970,Financial Controller,8/27/2019,Test task,open,Stuart Bloom,Netherlands,Andrew  Boryszanski,"$2,900"
+4971,Financial Controller,8/27/2019,Test task,lost,Stuart Bloom,India,Artūrs  Ryzhov,"$1,500"
+4927,Financial Controller,8/26/2019,Profile review,lost,Stuart Bloom,Singapore,Travis   Papoutsellis,"$2,100"
+4928,Data Analyst,8/26/2019,Profile review,lost,Leonard Hofstadter,Sweeden,Paulina  Babilia,"$2,000"
+4929,Data Analyst,8/26/2019,Profile review,lost,Leonard Hofstadter,France,Sebastian  Davydchuk,"$2,100"
+4930,Full Stack Engineer,8/26/2019,Application,lost,Leslie Winkle,Sweeden,Michael  Gapanyuk,"$1,300"
+4931,Office Manager,8/26/2019,Application,lost,Leslie Winkle,Netherlands,Ivan  Markowski,"$1,300"
+4932,Office Manager,8/26/2019,Application,lost,Leslie Winkle,Sweeden,Marek  Prokopenko,"$1,000"
+4933,Full Stack Node JS Engineer,8/26/2019,Test task,open,Sheldon Cooper,United Kingdom,shunu  Kuzmina,"$1,800"
+4934,Full Stack Node JS Engineer,8/26/2019,Profile review,lost,Sheldon Cooper,United States,Olha  Yefimova,"$1,300"
+4935,Technical Writer,8/26/2019,Profile review,lost,Leonard Hofstadter,Canada,Diana  Troukha Troukhan,"$1,900"
+4936,Data Analyst,8/26/2019,Profile review,lost,Leonard Hofstadter,United States,Gayane  Morya,"$1,400"
+4937,Full Stack Engineer,8/26/2019,Test task,open,Sheldon Cooper,South Korea,Jamie  Korneiko,"$2,900"
+4938,Technical Writer,8/26/2019,Profile review,lost,Leonard Hofstadter,Spain,Eugene   Augustyn,"$2,300"
+4939,Full Stack Engineer,8/26/2019,Application,lost,Leslie Winkle,Poland,Ebi  Rotuska,$800
+4940,Data Analyst,8/26/2019,Profile review,lost,Leonard Hofstadter,France,Paulina  Durkalec,"$2,000"
+4942,Office Manager,8/26/2019,RPI,open,Leslie Winkle,Germany,Ulan  Tyshchenko,$300
+4943,Front-End Developer,8/26/2019,Profile review,open,Leslie Winkle,France,Volodymyr  Hordii,"$3,600"
+4924,Financial Controller,8/25/2019,Test task,lost,Stuart Bloom,Ukraine,Andriy  Ly,"$2,900"
+4925,Financial Controller,8/25/2019,Test task,open,Stuart Bloom,India,Krzysztof  Tsaruk,"$2,000"
+4926,Full Stack Engineer,8/25/2019,Application,lost,Leslie Winkle,Canada,Сергей  Maksymets,"$1,500"
+4917,Data Analyst,8/24/2019,Profile review,lost,Leonard Hofstadter,Brazil,Goran  Serbin,"$1,000"
+4918,Technical Writer,8/24/2019,Profile review,lost,Leonard Hofstadter,South Korea,Feby Elsa  DRUBKOWSKI,$700
+4920,Technical Writer,8/24/2019,Profile review,open,Leonard Hofstadter,Sweeden,Akhilesh   Shymanel,$600
+4921,Office Manager,8/24/2019,Application,lost,Leslie Winkle,Canada,Yana  Pirus,$500
+4912,Financial Controller,8/23/2019,Test task,open,Stuart Bloom,Singapore,Anastasia  Czarnik,"$1,800"
+4913,Financial Controller,8/23/2019,Profile review,lost,Stuart Bloom,Sweeden,Lukasz  Savliuk,"$1,300"
+4914,Financial Controller,8/23/2019,Profile review,lost,Stuart Bloom,South Korea,Marco  Meimin Meimin,"$2,600"
+4916,Front-End Developer,8/23/2019,Application,lost,Leslie Winkle,United States,Rima  Athimoolam,"$1,600"
+4863,Data Analyst,8/22/2019,Test task,open,Leonard Hofstadter,Sweeden,Łukasz  Azam Ansari,"$2,000"
+4872,Financial Controller,8/22/2019,Profile review,lost,Stuart Bloom,Sweeden,Tymur  Jere,"$1,000"
+4881,Data Analyst,8/22/2019,Profile review,lost,Leonard Hofstadter,India,Anna  Mahato,$800
+4901,Technical Content Writer,8/22/2019,Profile review,lost,Leslie Winkle,India,Elena   Waterman,"$1,100"
+4902,Financial Controller,8/22/2019,Test task,lost,Stuart Bloom,United Kingdom,Aleksandra  Horizon,"$2,900"
+4782,Front-End Developer,8/21/2019,Test task,open,Leslie Winkle,South Korea,Arletta  Wtulich,"$1,800"
+4783,Data Analyst,8/21/2019,Profile review,lost,Leonard Hofstadter,Singapore,Kateryna   Jodlowski,"$1,000"
+4784,Front-End Developer,8/21/2019,Test task,open,Leslie Winkle,Ukraine,Denis  Klochko,"$1,300"
+4785,Front-End Developer,8/21/2019,Application,lost,Leslie Winkle,Ukraine,Alexis  Vovnenko,"$4,900"
+4832,Data Analyst,8/21/2019,Profile review,lost,Leonard Hofstadter,Germany,Aleksander  Bhagat,"$2,300"
+4833,Financial Controller,8/21/2019,Test task,lost,Stuart Bloom,Poland,Witold   Thompson,"$3,600"
+4835,Financial Controller,8/21/2019,Test task,open,Stuart Bloom,Brazil,Alicja  Zientarski,"$2,900"
+4770,Front-End Developer,8/20/2019,Test task,open,Leslie Winkle,United Kingdom,Srivalli   Ramirez,"$1,200"
+4771,Full Stack Node JS Engineer,8/20/2019,Full Day,open,Sheldon Cooper,Poland,Zaal  Ivanenko,"$1,600"
+4762,Front-End Developer,8/19/2019,Profile review,open,Leslie Winkle,Poland,Yevhen   Abdul Rahman,"$2,800"
+4763,Data Analyst,8/19/2019,Test task,lost,Leonard Hofstadter,France,Marta  Novachenko,"$1,900"
+4764,Front-End Developer,8/19/2019,Application,lost,Leslie Winkle,United Kingdom,Maksym  Loseva,"$6,000"
+4768,Data Analyst,8/19/2019,Profile review,lost,Leonard Hofstadter,Poland,Edyta  Lyakh,$700
+4769,Full Stack Node JS Engineer,8/19/2019,Full Day,open,Sheldon Cooper,Ukraine,Monika  Gelenidze,"$2,900"
+4759,Front-End Developer,8/18/2019,Profile review,open,Leslie Winkle,India,Anastasiia  Makhaev,"$2,300"
+4760,Technical Content Writer,8/18/2019,Profile review,lost,Leonard Hofstadter,Brazil,Kseniia  Morrow,$300
+4761,Technical Content Writer,8/18/2019,Profile review,lost,Leonard Hofstadter,India,Luis Fernando Castro  Pınar,$300
+4756,Data Analyst,8/17/2019,Profile review,lost,Leonard Hofstadter,Poland,Vadim  Kucherenko,"$3,300"
+4758,Front-End Developer,8/17/2019,Application,lost,Leslie Winkle,United Kingdom,Oleg  Patel,$500
+4752,Full Stack Node JS Engineer,8/16/2019,Application,lost,Sheldon Cooper,United Kingdom,Supratim  Ганопольскька,"$3,900"
+4754,Front-End Developer,8/16/2019,Application,lost,Leslie Winkle,United States,Shubham  Michalik,"$1,700"
+4755,Data Analyst,8/16/2019,Profile review,lost,Leonard Hofstadter,Germany,Steven  Mikhailouskaya,"$3,000"
+4746,Front-End Developer,8/15/2019,Application,lost,Leslie Winkle,Poland,Olga  Khodyriev,"$6,000"
+4747,Full Stack Node JS Engineer,8/15/2019,Application,lost,Sheldon Cooper,Germany,Yevhen  Zymovets,$800
+4749,Front-End Developer,8/15/2019,Test task,lost,Sheldon Cooper,Poland,Vanda  Gothi,"$1,100"
+4750,Data Analyst,8/15/2019,Test task,open,Leonard Hofstadter,Singapore,Marcin  Jafarov,"$1,800"
+4751,Data Analyst,8/15/2019,Test task,open,Leonard Hofstadter,Singapore,Christopher   Polishchuk,"$1,000"
+4737,Data Analyst,8/14/2019,Profile review,lost,Leonard Hofstadter,Sweeden,Tushar   Khomyarchuk,"$6,000"
+4738,Full Stack Engineer,8/14/2019,Application,lost,Sheldon Cooper,Poland,Jasher  Kasian,$500
+4745,Data Analyst,8/14/2019,Test task,open,Leonard Hofstadter,United States,Oleg  Watkinson,"$1,300"
+4734,Front-End Developer,8/13/2019,Application,lost,Leslie Winkle,Spain,Anton  Ampong,"$2,400"
+4735,Full Stack Engineer,8/13/2019,Application,lost,Sheldon Cooper,Brazil,Urfa Ghazanfar   Rymanov,"$2,400"
+4723,Financial Controller,8/12/2019,Test task,open,Stuart Bloom,United Kingdom,John  Raveendran,"$2,900"
+4724,Front-End Developer,8/12/2019,Application,lost,Leslie Winkle,Poland,Zeeshan  Szyszka,"$1,600"
+4725,Data Analyst,8/12/2019,Profile review,lost,Leonard Hofstadter,Germany,Lukasz  Panimatchenko,"$2,000"
+4726,Data Analyst,8/12/2019,Profile review,lost,Leonard Hofstadter,United Kingdom,Willian Gustavo  Majewski,$500
+4728,Front-End Developer,8/12/2019,Profile review,lost,Sheldon Cooper,Netherlands,Iuliia  Kochubey,"$3,600"
+4729,Technical Content Writer,8/12/2019,Profile review,lost,Leslie Winkle,Singapore,Malgorzata  Pasko,$300
+4730,Data Analyst,8/12/2019,Profile review,lost,Leonard Hofstadter,France,Okan  Verkunich,"$1,300"
+4731,Full Stack Engineer,8/12/2019,Application,lost,Leslie Winkle,United States,Mykyta  Durvin,"$4,900"
+4722,Financial Controller,8/11/2019,Profile review,lost,Stuart Bloom,Ukraine,Vladimir  Jafarov,"$3,300"
+4713,Full Stack Engineer,8/9/2019,RPI,open,Sheldon Cooper,France,Anna  Saifulin,"$2,600"
+4714,Front-End Developer,8/9/2019,Application,lost,Leslie Winkle,France,Evgeni   Jishkariani,$700
+4715,Full Stack Node JS Engineer,8/9/2019,Test task,lost,Sheldon Cooper,United Kingdom,Denis  Adithela,"$2,600"
+4716,Full Stack Engineer,8/9/2019,Profile review,lost,Sheldon Cooper,Brazil,Sergiy  Zdorik,$500
+4706,Front-End Developer,8/8/2019,Application,lost,Leslie Winkle,Netherlands,Stanislav  Zientarski,"$1,100"
+4707,Technical Content Writer,8/8/2019,Profile review,lost,Leonard Hofstadter,South Korea,Kamila  Herashchenko,"$1,200"
+4709,Front-End Developer,8/8/2019,Application,lost,Leslie Winkle,Canada,Oleksandra  Didyk,"$1,600"
+4710,Full Stack Engineer,8/8/2019,RPI,lost,Sheldon Cooper,Spain,Sergey  Pirow,"$2,300"
+4711,Full Stack Engineer,8/8/2019,Profile review,open,Howard Wolowitz,India,Ilya  YILMAZLAR,"$4,600"
+4712,Data Analyst,8/8/2019,Profile review,lost,Leonard Hofstadter,United Kingdom,Stanislav  Galytska,"$2,700"
+4695,Data Analyst,8/7/2019,Profile review,lost,Leonard Hofstadter,India,Alex  Moroz,"$1,600"
+4696,Full Stack Node JS Engineer,8/7/2019,Test task,lost,Sheldon Cooper,Canada,Nataliia  Makowska,"$1,300"
+4697,Data Analyst,8/7/2019,Test task,lost,Leonard Hofstadter,South Korea,Bartosz  Korneiko,"$1,500"
+4698,Front-End Developer,8/7/2019,Profile review,lost,Leslie Winkle,United States,Andriy   Gupta,"$1,000"
+4703,Full Stack Engineer,8/7/2019,Profile review,lost,Sheldon Cooper,United Kingdom,Anatolii  Tatura,"$1,000"
+4704,Full Stack Node JS Engineer,8/7/2019,Application,lost,Leslie Winkle,Germany,Riza  Majcher,"$2,000"
+4705,Data Analyst,8/7/2019,Profile review,lost,Leonard Hofstadter,Spain,Aleksander  Volontyr,$500
+4688,Link Building and Outreach Specialist,8/6/2019,Application,lost,Raj Koothrappali,Poland,Artur  Mastro,"$1,000"
+4689,Data Analyst,8/6/2019,Profile review,lost,Leonard Hofstadter,Brazil,Irakli  Anurina,"$1,000"
+4690,Data Analyst,8/6/2019,Profile review,lost,Leonard Hofstadter,Poland,Miłosz  Symonenko,$700
+4691,Data Analyst,8/6/2019,Profile review,lost,Leonard Hofstadter,Poland,Inga  Ocalewicz,$800
+4692,Full Stack Node JS Engineer,8/6/2019,Application,lost,Leslie Winkle,Ukraine,sonal  Majcher,"$3,100"
+4693,Front-End Developer,8/6/2019,Profile review,lost,Sheldon Cooper,Canada,Marwan  Hihiniak,"$3,300"
+4694,Front-End Developer,8/6/2019,Application,lost,Leslie Winkle,Singapore,Barbara  Tierieshchienko,$500
+4678,Full Stack Engineer,8/5/2019,Test task,lost,Sheldon Cooper,Brazil,Taras  Leusenko,"$2,400"
+4679,Full Stack Engineer,8/5/2019,Application,lost,Leslie Winkle,United States,Levan   Nassirova,"$2,000"
+4680,Data Analyst,8/5/2019,Profile review,lost,Leonard Hofstadter,Singapore,Tereza   Popovskaya,"$1,000"
+4687,Data Analyst,8/5/2019,Full Day,open,Leonard Hofstadter,Spain,Daniel  Ilczyniak,"$1,400"
+4677,Full Stack Engineer,8/3/2019,Application,lost,Leslie Winkle,Netherlands,Natalya   Bruce,"$1,200"
+4673,Data Analyst,8/2/2019,Profile review,lost,Leonard Hofstadter,Sweeden,RENA  Kopacki,$800
+4674,Financial Controller,8/2/2019,Profile review,lost,Stuart Bloom,Spain,Tamir  Tahir Mubeen,"$3,800"
+4676,Full Stack Engineer,8/2/2019,Application,lost,Leslie Winkle,India,Josefina Tous  Patel  Patel,"$1,300"
+4654,Front-End Developer,8/1/2019,Full Day,lost,Leslie Winkle,Poland,Manuel  Soni,"$1,400"
+4659,Data Analyst,8/1/2019,Test task,lost,Leonard Hofstadter,Germany,Makeda   Larina,"$1,700"
+4661,Full Stack Node JS Engineer,8/1/2019,Test task,lost,Leslie Winkle,United States,Pavel  Kurmak,"$2,400"
+4651,Full Stack Engineer,7/31/2019,Test task,lost,Sheldon Cooper,Spain,Yuriy  Bondarets,"$2,600"
+4652,Link Building And Outreach Specialist,7/31/2019,Profile review,lost,Stuart Bloom,Brazil,Ivica  kukani,$700
+4653,Front-End Developer,7/31/2019,Application,lost,Leslie Winkle,Germany,Tomasz  Melnychuk,$300
+4647,Front-End Developer,7/30/2019,Profile review,lost,Leslie Winkle,Singapore,lokesh  Tatura,"$2,800"
+4648,Data Analyst,7/30/2019,Test task,lost,Leonard Hofstadter,United States,Kirill  Ampong,"$2,600"
+4649,Data Analyst,7/30/2019,Profile review,lost,Leonard Hofstadter,Ukraine,Kseniya  Gordienco,"$1,400"
+4650,Recruiter,7/30/2019,Test task,lost,Leonard Hofstadter,Ukraine,Gareth   Blair,"$1,500"
+4638,Recruiter,7/29/2019,Profile review,lost,Stuart Bloom,United Kingdom,Kamil  Wiatrowski,"$1,000"
+4643,Link Building And Outreach Specialist,7/29/2019,Profile review,lost,Stuart Bloom,Brazil,Vasileios  Rudenko,$300
+4644,Link Building And Outreach Specialist,7/29/2019,Profile review,lost,Stuart Bloom,Ukraine,Olga  Govindamma,$300
+4645,Full Stack Engineer,7/29/2019,Profile review,lost,Sheldon Cooper,South Korea,Mertcan  Figueiredo,$700
+4634,Full Stack Engineer,7/28/2019,Full Day,lost,Sheldon Cooper,Netherlands,Sathish  Yatskevych,"$3,100"
+4635,Recruiter,7/28/2019,Profile review,lost,Stuart Bloom,India,Anastasia  Ras,"$2,000"
+4636,Front-End Developer,7/28/2019,Profile review,lost,Leslie Winkle,Ukraine,Bogusia  Dmytruk,"$1,800"
+4637,Recruiter,7/28/2019,Profile review,lost,Leonard Hofstadter,Poland,Olga  Kurian,"$1,800"
+4630,Front-End Developer,7/27/2019,Test task,lost,Leslie Winkle,Ukraine,Luis Andres   Matysiak,$900
+4631,Data Analyst,7/27/2019,Test task,lost,Leonard Hofstadter,Brazil,Michał  mosam,"$1,600"
+4632,Recruiter,7/27/2019,Test task,lost,Leonard Hofstadter,Poland,Maksym  Damian,$700
+4633,Full Stack Engineer,7/27/2019,Application,lost,Leslie Winkle,Brazil,Aleksandr  Espiritu,"$1,600"
+4625,Data Analyst,7/26/2019,Profile review,lost,Leonard Hofstadter,Singapore,Karolina  Pushkar,"$1,000"
+4626,Link Building And Outreach Specialist,7/26/2019,Profile review,lost,Stuart Bloom,United States,Estee  Gavrikov,"$1,000"
+4627,Link Building And Outreach Specialist,7/26/2019,Test task,lost,Stuart Bloom,South Korea,Olha  Saez Gallego,$800
+4628,Full Stack Engineer,7/26/2019,Offer,won,Sheldon Cooper,Spain,Yaroslav   Abuhasna,"$2,900"
+4629,Data Analyst,7/26/2019,Profile review,lost,Leonard Hofstadter,United Kingdom,Ivica  Khodyriev,"$1,000"
+4623,Link Building And Outreach Specialist,7/25/2019,Profile review,lost,Stuart Bloom,United Kingdom,Ivan  Kravets,$800
+4528,Full Stack Node JS Engineer,7/24/2019,Test task,lost,Leslie Winkle,United Kingdom,Ruslana  Pervykh,$900
+4529,Link Building And Outreach Specialist,7/24/2019,Offer,won,Stuart Bloom,United States,Rajeswari  Galytska,$900
+4530,Front-End Developer,7/24/2019,Test task,lost,Leslie Winkle,Canada,Zaal  Smith,$800
+4531,Front-End Developer,7/24/2019,Test task,lost,Sheldon Cooper,United Kingdom,Karyna  Mylkus,"$2,600"
+4532,Recruiter,7/24/2019,Profile review,lost,Leonard Hofstadter,Singapore,Nikolay  Smilsky,$700
+4533,Full Stack Node JS Engineer,7/24/2019,Profile review,lost,Sheldon Cooper,Spain,Dmytro  Khrabrov,"$3,100"
+4534,Full Stack Engineer,7/24/2019,Offer,won,Sheldon Cooper,Brazil,Eva  Thomson,"$2,300"
+4535,Data Analyst,7/24/2019,Profile review,lost,Leonard Hofstadter,Sweeden,Inna  Lazzeretti,"$3,300"
+4472,Data Analyst,7/23/2019,RPI,open,Leonard Hofstadter,Poland,Burhanuddin  Kanswal,"$1,300"
+4473,Data Analyst,7/23/2019,Test task,lost,Leonard Hofstadter,Germany,Tadeusz   Jishkariani,"$1,300"
+4474,Data Analyst,7/23/2019,Profile review,lost,Leonard Hofstadter,Germany,Jamie  Nazarenko,"$1,000"
+4475,Front-End Developer,7/23/2019,Application,lost,Leslie Winkle,Ukraine,Michael  Djamanbalaev,"$1,000"
+4526,Operations Manager,7/23/2019,Profile review,lost,Stuart Bloom,Poland,Alvaro   Akauba,$700
+4527,Front-End Developer,7/23/2019,Test task,lost,Leslie Winkle,Singapore,Mubeen Tahir  Belagod,"$1,100"
+4459,Recruiter,7/22/2019,Profile review,lost,Leonard Hofstadter,Netherlands,Klaudia  Cohen,"$3,800"
+4460,Full Stack Engineer,7/22/2019,Application,lost,Leslie Winkle,France,Vitaliy  Avasiloy,"$5,600"
+4461,Link Building And Outreach Specialist,7/22/2019,Test task,lost,Stuart Bloom,Netherlands,Natasha  Kamath,$700
+4462,Operations Manager,7/22/2019,Profile review,lost,Stuart Bloom,Netherlands,Nick  Kovalevska,$800
+4463,Link Building And Outreach Specialist,7/22/2019,Test task,lost,Stuart Bloom,France,Sergey  Fortune,$500
+4464,Operations Manager,7/22/2019,Profile review,lost,Stuart Bloom,India,M.suleman  Martynenko,"$1,000"
+4466,Data Analyst,7/22/2019,Profile review,lost,Leonard Hofstadter,Brazil,Priyanka  Klacz,"$2,900"
+4467,Full Stack Engineer,7/22/2019,Profile review,lost,Sheldon Cooper,Poland,Mikhail  Plevako,"$3,900"
+4468,Recruiter,7/22/2019,Test task,lost,Leonard Hofstadter,Ukraine,Alexander  Bieliakov,"$1,200"
+4469,Operations Manager,7/22/2019,Profile review,lost,Stuart Bloom,Canada,Eugene  Antnonova,"$4,200"
+4470,Recruiter,7/22/2019,Test task,lost,Leonard Hofstadter,France,Larisa   Kolodochka,"$1,000"
+4471,Link Building And Outreach Specialist,7/22/2019,Profile review,lost,Stuart Bloom,Netherlands,Mukesh Kumar  Jankowska,$500
+4457,Operations Manager,7/21/2019,Profile review,lost,Stuart Bloom,Poland,Nikita   Barnaś,"$4,200"
+4458,Link Building And Outreach Specialist,7/21/2019,Profile review,lost,Stuart Bloom,United Kingdom,Tatyana   Sharma,$200
+4453,Recruiter,7/20/2019,Profile review,lost,Stuart Bloom,Brazil,Roman  Sulimova,"$2,300"
+4454,Link Building And Outreach Specialist,7/20/2019,Profile review,lost,Stuart Bloom,Germany,Javier  Pipita,$500
+4455,Link Building And Outreach Specialist,7/20/2019,Profile review,lost,Stuart Bloom,Ukraine,Suebpong  AYOOLA,"$1,000"
+4456,Full Stack Node JS Engineer,7/20/2019,Application,lost,Leslie Winkle,India,Valerii   Augustyn,$800
+4448,Operations Manager,7/19/2019,Profile review,lost,Stuart Bloom,Sweeden,alperen  Vasylyeva,"$2,300"
+4452,Junior Designer,7/19/2019,Profile review,lost,Sheldon Cooper,France,Olena  Filkovskyi,$600
+4432,Operations Manager/Project Manager,7/18/2019,Profile review,lost,Stuart Bloom,Poland,David Iakobidze  Wold,"$2,600"
+4439,Link Building And Outreach Specialist,7/18/2019,Profile review,lost,Stuart Bloom,Netherlands,Bimo  Negrín,$300
+4440,Link Building And Outreach Specialist,7/18/2019,Test task,lost,Stuart Bloom,Canada,Scott  Ievdokymenko,$700
+4441,Full Stack Engineer,7/18/2019,Test task,lost,Leslie Winkle,France,Antonina  Saleh,$300
+4442,Data Analyst,7/18/2019,Test task,lost,Leonard Hofstadter,South Korea,Yulia  Pnivchuk,$900
+4443,Link Building And Outreach Specialist,7/18/2019,Profile review,lost,Stuart Bloom,Netherlands,Tim  Dunn,$400
+4444,Link Building And Outreach Specialist,7/18/2019,Test task,lost,Stuart Bloom,Poland,Joshua  Bessonova,$500
+4446,Link Building And Outreach Specialist,7/18/2019,Profile review,lost,Stuart Bloom,Netherlands,Jamie   Hrynchuk,"$3,500"
+4414,Link Building And Outreach Specialist,7/17/2019,Profile review,lost,Stuart Bloom,France,Anna   Bezuhla,"$1,100"
+4416,Recruiter,7/17/2019,Profile review,lost,Stuart Bloom,Spain,Patrick   Shyringovska,"$1,400"
+4424,Full Stack Node JS Engineer,7/17/2019,Offer,lost,Leslie Winkle,Singapore,Ana   Ronenko,"$2,400"
+4429,Link Building And Outreach Specialist,7/17/2019,Profile review,lost,Stuart Bloom,Sweeden,Elena  Iliew,$700
+4430,Operations Manager,7/17/2019,Profile review,lost,Stuart Bloom,United States,Igor  Blair,$700
+4368,Data Analyst,7/16/2019,Profile review,lost,Leonard Hofstadter,Poland,Olha  Kachmaryk,"$1,200"
+4370,Operations Manager,7/16/2019,Profile review,lost,Stuart Bloom,India,Rick  Larina,"$1,000"
+4383,Data Analyst,7/16/2019,Test task,lost,Leonard Hofstadter,France,Anita  Gustavo Veiga,"$1,600"
+4384,Product Manager,7/16/2019,Test task,lost,Sheldon Cooper,France,Vladyslav  Chikhiro,"$2,000"
+4408,Link Building And Outreach Specialist,7/16/2019,Test task,lost,Stuart Bloom,Netherlands,Przemek  Motsukh,"$1,300"
+4410,Full Stack Engineer,7/16/2019,Application,lost,Leslie Winkle,France,Arushi  Athimoolam,"$6,000"
+4411,Data Analyst,7/16/2019,Profile review,lost,Leonard Hofstadter,South Korea,Olga  Truskavetska,$800
+4412,Recruiter,7/16/2019,Test task,lost,Leonard Hofstadter,United Kingdom,Vladislav  Rodionova,"$1,600"
+4358,Full Stack Engineer,7/15/2019,Test task,lost,Sheldon Cooper,Germany,Viktoriia  Dudzińska,"$2,900"
+4359,Recruiter,7/15/2019,Profile review,lost,Stuart Bloom,Poland,Magdalena  Dhalkari Dhalkari,"$1,900"
+4361,Operations Manager,7/15/2019,Profile review,lost,Stuart Bloom,Poland,Cher  Geval,"$1,100"
+4362,Operations Manager,7/15/2019,Profile review,lost,Stuart Bloom,Singapore,Patrycja  Mozolevskaya,"$1,600"
+4363,Operations Manager,7/15/2019,Test task,lost,Stuart Bloom,France,Fagun  Conti,"$4,200"
+4364,Full Stack Node JS Engineer,7/15/2019,Application,lost,Leslie Winkle,India,Mykhailo  Klimek,"$3,900"
+4355,Full Stack Node JS Engineer,7/14/2019,Test task,lost,Leslie Winkle,United Kingdom,Harshal    Rai,"$1,000"
+4356,Data Analyst,7/14/2019,Test task,lost,Leonard Hofstadter,France,Azamat  Kovero,"$2,300"
+4357,Recruiter,7/14/2019,Profile review,lost,Stuart Bloom,United Kingdom,Dmitry  Portugalskaya,"$1,800"
+4354,Full Stack Engineer,7/13/2019,Test task,lost,Leslie Winkle,India,Robert  Butova,"$2,000"
+4350,Link Building And Outreach Specialist,7/12/2019,Profile review,lost,Stuart Bloom,United Kingdom,Mayuri  Hanko,"$6,000"
+4351,Recruiter,7/12/2019,Profile review,lost,Stuart Bloom,United Kingdom,Egor  Marchenko,$800
+4352,Link Building And Outreach Specialist,7/12/2019,Prescreen call,lost,Stuart Bloom,Canada,Lina   Patel,$800
+4353,Operations Manager,7/12/2019,Profile review,lost,Stuart Bloom,South Korea,Serhiy  Usachev,$700
+4340,Data Analyst,7/11/2019,Profile review,lost,Leonard Hofstadter,Singapore,Hanna  Krociel,"$1,000"
+4347,Data Analyst,7/11/2019,Profile review,lost,Leonard Hofstadter,Singapore,Diego   Reshetnik,$500
+4348,Operations Manager,7/11/2019,Test task,lost,Stuart Bloom,France,Nataliia  Murphy,$700
+4315,Front-End Developer,7/10/2019,Test task,lost,Leslie Winkle,Netherlands,Ulan  Khomyarchuk,"$2,200"
+4316,Data Analyst,7/10/2019,Profile review,lost,Leonard Hofstadter,Poland,Mary  wisniowski,"$1,600"
+4323,Data Analyst,7/10/2019,Profile review,lost,Leonard Hofstadter,Germany,Michael  Omelchenko,$700
+4324,Data Analyst,7/10/2019,Profile review,lost,Leonard Hofstadter,United States,Denis  Siddique Parhyar,"$1,300"
+4325,Data Analyst,7/10/2019,Profile review,lost,Leonard Hofstadter,India,Koshlendra  Baranovska,"$1,000"
+4338,Operations Manager,7/10/2019,Test task,lost,Stuart Bloom,South Korea,Siddhartha  Simmons,$700
+4339,Front-End Developer,7/10/2019,Test task,lost,Leslie Winkle,Brazil,Aaron Noel De  Atamanyuk,"$1,600"
+4302,Operations Manager,7/9/2019,Profile review,lost,Stuart Bloom,Singapore,Diógenes  Kondrashyna,"$2,600"
+4303,Full Stack Engineer,7/9/2019,Test task,lost,Leslie Winkle,Spain,Robert  Ignasik,"$1,300"
+4304,Data Analyst,7/9/2019,Profile review,lost,Leonard Hofstadter,Canada,Jakub  Narayan Timilsina,"$1,000"
+4305,Recruiter,7/9/2019,RPI,lost,Leonard Hofstadter,United Kingdom,Tihmene Hordii,"$1,600"
+4306,Data Analyst,7/9/2019,Profile review,lost,Leonard Hofstadter,Germany,andrey  Saez Gallego,"$2,200"
+4309,Operations Manager,7/9/2019,Full Day,open,Stuart Bloom,Ukraine,Olha  Parmar,"$2,000"
+4311,Recruiter,7/9/2019,Profile review,lost,Stuart Bloom,Ukraine,Denys  Korobochkina,$500
+4312,Full Stack Engineer,7/9/2019,Application,lost,Leslie Winkle,India,Anna  Florek,"$2,500"
+4313,Full Stack Engineer,7/9/2019,Test task,lost,Sheldon Cooper,South Korea,Sylwia   Andrews,"$1,000"
+4314,Data Analyst,7/9/2019,Profile review,lost,Leonard Hofstadter,South Korea,Artem  Borys,$700
+4295,Link Building And Outreach Specialist,7/8/2019,Prescreen call,lost,Stuart Bloom,Germany,Dmitriy  Tierieshchienko,$500
+4297,Recruiter,7/8/2019,Test task,lost,Leonard Hofstadter,Ukraine,Anna   Chimombe,$700
+4299,Front-End Developer,7/8/2019,Test task,lost,Leslie Winkle,Germany,Aleksandra  Cali,"$2,100"
+4300,Operations Manager,7/8/2019,Test task,lost,Stuart Bloom,Netherlands,Arkadiy   Waterman,"$1,000"
+4301,Full Stack Node JS Engineer,7/8/2019,Profile review,lost,Leslie Winkle,Canada,Jakub  Shevchenko,"$4,200"
+4287,Recruiter,7/7/2019,Offer,won,Leonard Hofstadter,Sweeden,Ivan  Filatov,"$1,000"
+4288,Operations Manager,7/7/2019,Profile review,lost,Stuart Bloom,France,Halyna   Kumar,"$1,600"
+4289,Operations Manager,7/7/2019,Test task,lost,Stuart Bloom,Germany,Denys  Bratkovskaya,"$1,000"
+4290,Front-End Developer,7/7/2019,Application,lost,Leslie Winkle,Ukraine,Anton  Pohrebniyak,"$3,300"
+4284,Data Analyst,7/6/2019,Profile review,lost,Leonard Hofstadter,France,Vitaly  Hundeyin,"$1,000"
+4285,Data Analyst,7/6/2019,Profile review,lost,Leonard Hofstadter,Singapore,Hanna  Stavrianaki,"$1,300"
+4286,Data Analyst,7/6/2019,Profile review,lost,Leonard Hofstadter,Canada,Karina  Honcharuk,$500
+4274,Operations Manager,7/5/2019,Profile review,lost,Stuart Bloom,Singapore,Katarzyna  Saleh,"$1,100"
+4275,Data Analyst,7/5/2019,Profile review,lost,Leonard Hofstadter,Ukraine,Aleksandra  Sushchuk,"$2,900"
+4276,Data Analyst,7/5/2019,Test task,lost,Leonard Hofstadter,France,Elnur  Zak,"$1,600"
+4277,Data Analyst,7/5/2019,Profile review,lost,Leonard Hofstadter,Spain,Aiyub   Burdenyuk,"$2,000"
+4278,Recruiter,7/5/2019,Test task,lost,Leonard Hofstadter,Brazil,Mary   Chimombe,"$1,300"
+4279,Link Building And Outreach Specialist,7/5/2019,Profile review,lost,Stuart Bloom,South Korea,Denis  SINHA,$400
+4280,Front-End Developer,7/5/2019,Test task,lost,Leslie Winkle,Netherlands,Kalpit  Koshyk,"$1,600"
+4282,Operations Manager,7/5/2019,Test task,lost,Stuart Bloom,Canada,Hanna   Kret,"$2,000"
+4283,Full Stack Engineer,7/5/2019,Application,lost,Leslie Winkle,Poland,Philip  Belbachir,"$2,900"
+4255,Full Stack Node JS Engineer,7/4/2019,Test task,lost,Leslie Winkle,South Korea,Valeriya  Levada,"$2,300"
+4256,Front-End Developer,7/4/2019,RPI,lost,Leslie Winkle,Germany,Aman  Martynenko,"$1,100"
+4257,Data Analyst,7/4/2019,Test task,lost,Leonard Hofstadter,Canada,Larry  Hall,"$2,000"
+4258,Recruiter,7/4/2019,Profile review,lost,Stuart Bloom,Netherlands,Marcos  Casimiro,"$2,000"
+4265,Operations Manager,7/4/2019,Test task,lost,Stuart Bloom,Poland,Ashish  Tokar,"$1,600"
+4266,Operations Manager,7/4/2019,Profile review,lost,Stuart Bloom,South Korea,Oleksandra  Biely,"$3,300"
+4268,Operations Manager,7/4/2019,Full Day,lost,Stuart Bloom,United Kingdom,Willian Gustavo  Hassan Hassan,"$2,000"
+4269,Recruiter,7/4/2019,Profile review,lost,Raj Koothrappali,Ukraine,Andrii  Majewski,"$3,300"
+4270,Front-End Developer,7/4/2019,Test task,lost,Leslie Winkle,Netherlands,Chaz  Iliew,"$1,200"
+4233,Front-End Developer,7/3/2019,Application,lost,Leslie Winkle,France,Aleksandra  Ruchała,$400
+4250,Data Analyst,7/3/2019,Test task,lost,Leonard Hofstadter,United States,Andrii  Kovero,"$1,300"
+4251,Front-End Developer,7/3/2019,Application,lost,Leslie Winkle,United States,Vira    Obrzut,"$2,500"
+4252,Front-End Developer,7/3/2019,Application,lost,Leslie Winkle,Singapore,Uri  Abyzov,"$6,000"
+4253,Front-End Developer,7/3/2019,Application,lost,Leslie Winkle,Brazil,Tomasz  Walczak,$700
+4254,Full Stack Node JS Engineer,7/3/2019,Application,lost,Leslie Winkle,United Kingdom,Karolina  Nwanganga,"$1,000"
+4213,Operations Manager,7/2/2019,Profile review,lost,Stuart Bloom,Ukraine,Andriy   Gupta,$800
+4215,Operations Manager,7/2/2019,Profile review,lost,Stuart Bloom,Canada,Alessandro  Snelson,"$1,300"
+4216,Front-End Developer,7/2/2019,Test task,lost,Leslie Winkle,United Kingdom,Ranjeeta   Pacholczyk,"$1,600"
+4217,Recruiter,7/2/2019,Profile review,lost,Raj Koothrappali,Ukraine,Olga  N,$800
+4228,Operations Manager,7/2/2019,Profile review,lost,Stuart Bloom,Poland,Mariia  Naidenko,"$1,400"
+4229,Operations Manager,7/2/2019,Test task,lost,Stuart Bloom,United States,Arkadiy  Maximov,$800
+4231,Operations Manager,7/2/2019,Test task,lost,Stuart Bloom,Brazil,Tomasz  Bondarets,"$2,000"
+4232,Recruiter,7/2/2019,Prescreen call,lost,Raj Koothrappali,South Korea,Natalia   Zdybel,"$1,400"
+4201,Front-End Developer,7/1/2019,Application,lost,Leslie Winkle,Netherlands,Alvaro  Gavryshchuk,"$1,500"
+4202,Recruiter,7/1/2019,Test task,lost,Raj Koothrappali,Ukraine,Andrei  Mandzak,"$1,000"
+4203,Front-End Developer,7/1/2019,Application,lost,Leslie Winkle,United Kingdom,Vadim   Mikhalevskaya,$300
+4205,Operations Manager,7/1/2019,Profile review,lost,Stuart Bloom,United States,Nab D  Geval,"$2,000"
+4189,Recruiter,6/30/2019,Prescreen call,lost,Stuart Bloom,Germany,Anton   Jesus,"$1,600"
+4190,Product Designer,6/30/2019,Application,open,Howard Wolowitz,Singapore,Olga  Korneiko,"$2,400"
+4188,Full Stack Engineer,6/29/2019,Application,lost,Leslie Winkle,Germany,Paweł  Babenko,"$2,000"
+4129,Recruiter,6/27/2019,Profile review,lost,Raj Koothrappali,United States,Kalpit  Gafinov,"$2,000"
+4162,Full Stack Node JS Engineer,6/27/2019,Application,lost,Leslie Winkle,Netherlands,Igor  tsitsyura,$500
+4083,Recruiter,6/26/2019,Profile review,lost,Raj Koothrappali,South Korea,Andrew   khan,"$2,300"
+4120,Recruiter,6/26/2019,Test task,lost,Raj Koothrappali,Canada,Christos  Jimenez,"$1,300"
+4056,Full Stack Engineer,6/25/2019,Application,lost,Leslie Winkle,Ukraine,Mahmoud  Mahato,"$1,000"
+4066,Full Stack Engineer,6/25/2019,Application,lost,Leslie Winkle,Spain,Aleksander  Kucherenko,"$1,000"
+4027,Recruiter,6/24/2019,Profile review,lost,Stuart Bloom,Canada,Ayyaz  Moroz,"$1,200"
+4053,Recruiter,6/24/2019,Profile review,lost,Raj Koothrappali,Canada,Krzysztof   Ali muhammed,"$1,000"
+4023,Full Stack Node JS Engineer,6/23/2019,Application,lost,Leslie Winkle,Sweeden,Artem  Yevstratenko,"$1,600"
+4024,Recruiter,6/23/2019,Profile review,lost,Raj Koothrappali,India,Roman   Jain,$600
+4025,Front-End Developer,6/23/2019,Application,lost,Leslie Winkle,France,Mikhail  Omurbekov,"$2,300"
+4022,Full Stack Engineer,6/22/2019,Application,lost,Leslie Winkle,Netherlands,Andriy  Lyakh,"$5,200"
+4015,Recruiter,6/21/2019,Profile review,lost,Raj Koothrappali,France,karthikeyan  Lisovol,"$1,600"
+4017,Recruiter,6/21/2019,Profile review,lost,Raj Koothrappali,South Korea,Junaid    Yu,"$2,000"
+4018,Full Stack Engineer,6/21/2019,Application,lost,Leslie Winkle,Poland,Monika  Govindamma,"$6,500"
+4012,Recruiter,6/20/2019,Test task,lost,Raj Koothrappali,Spain,Delton  Mishchenko,"$1,200"
+4013,Recruiter,6/20/2019,Profile review,lost,Raj Koothrappali,India,Alicja  Vladymyrov,"$1,600"
+4014,Recruiter,6/20/2019,Profile review,lost,Raj Koothrappali,Sweeden,Kate   Kucher,"$1,300"
+4008,Full Stack Node JS Engineer,6/19/2019,Application,lost,Leslie Winkle,United States,Natalia  Sereda,"$1,000"
+4010,Front-End Developer,6/19/2019,Application,lost,Leslie Winkle,Spain,Aaron Noel De  Gupta,"$6,000"
+4011,Recruiter,6/19/2019,Profile review,lost,Raj Koothrappali,Spain,Ganna  Pervykh,"$1,200"
+4006,Recruiter,6/18/2019,Test task,lost,Raj Koothrappali,Spain,Anastasiia  Zubchenko,"$1,300"
+4002,Recruiter,6/17/2019,Profile review,lost,Raj Koothrappali,Singapore,Tania  Baskar,$800
+4005,Front-End Developer,6/17/2019,Application,lost,Leslie Winkle,Netherlands,Dmytro  Maruniak,"$6,000"
+3999,Recruiter,6/16/2019,Test task,lost,Raj Koothrappali,Germany,Karina  Estrella Estrella - Sieczkowska,$700
+4000,Data Analyst,6/16/2019,Application,lost,Leslie Winkle,Poland,Viktoriia   Merkieieva,"$6,000"
+4001,Front-End Developer,6/16/2019,Application,lost,Leslie Winkle,France,Ibrahim   Pankratov,"$2,600"
+3996,Full Stack Engineer,6/14/2019,Application,lost,Leslie Winkle,Poland,Ibrahim   Shaposhnikov,"$2,000"
+3997,Front-End Developer,6/14/2019,Application,lost,Leslie Winkle,India,Carlos  Klacz,$400
+3998,Recruiter,6/14/2019,Test task,lost,Raj Koothrappali,France,Yuriy  Strukov,$800
+3991,Data Analyst,6/13/2019,Application,lost,Leslie Winkle,Netherlands,Paulina  Ludwin,"$2,000"
+3992,Data Analyst,6/13/2019,Application,lost,Leslie Winkle,Poland,Raghu  Ciarniello,"$1,000"
+3993,Recruiter,6/13/2019,Profile review,lost,Raj Koothrappali,Singapore,Eryk  ilile,"$2,000"
+3994,Front-End Developer,6/13/2019,Test task,lost,Leslie Winkle,Poland,Iryna   Szczęsny,"$1,300"
+3982,Front-End Developer,6/12/2019,Application,lost,Leslie Winkle,Sweeden,Katarzyna  HANDZEL,"$3,300"
+3983,Recruiter,6/12/2019,Profile review,lost,Raj Koothrappali,France,Victoria  Pancheshnyy,"$6,000"
+3984,Data Analyst,6/12/2019,Application,lost,Leslie Winkle,United Kingdom,Mykhaylo   Martynenko,"$1,600"
+3985,Recruiter,6/12/2019,Test task,lost,Leslie Winkle,Ukraine,Jesus  Filipko,"$1,400"
+3986,Product Manager,6/12/2019,Application,lost,Sheldon Cooper,Ukraine,Oluwafemi  Trukhan,"$1,000"
+3987,Data Analyst,6/12/2019,Application,lost,Leslie Winkle,United States,utkarsh   Duda,"$3,300"
+3988,Data Analyst,6/12/2019,Application,lost,Leslie Winkle,Poland,Iryna  Rajib Hassan,"$1,000"
+3989,Product Manager,6/12/2019,Application,lost,Sheldon Cooper,Spain,Daria  Mylkus,"$6,000"
+3990,Product Manager,6/12/2019,Application,lost,Sheldon Cooper,India,Mariusz  Vladymyrov,"$5,600"
+3975,Data Analyst,6/11/2019,Application,lost,Leslie Winkle,Netherlands,Oksana  taha mohamed taha,"$2,900"
+3976,Data Analyst,6/11/2019,Test task,lost,Leslie Winkle,United States,Chaita  Pidtykan,"$1,500"
+3977,Full Stack Engineer,6/11/2019,Profile review,lost,Sheldon Cooper,Netherlands,Mariusz  Beliyeva,"$6,500"
+3978,Data Analyst,6/11/2019,Application,lost,Leslie Winkle,Ukraine,Anton  Kozłowski,$700
+3979,Data Analyst,6/11/2019,Application,lost,Leslie Winkle,Canada,Viacheslav  Kompaniets,"$1,000"
+3980,Recruiter,6/11/2019,Profile review,lost,Raj Koothrappali,Brazil,Anatolii  Bibik,"$3,300"
+3962,Front-End Developer,6/10/2019,Application,lost,Leslie Winkle,Spain,Sebastian  Rajan,$100
+3963,Recruiter,6/10/2019,Test task,lost,Leslie Winkle,Spain,Dmitry  Yankovska,$800
+3964,Front-End Developer,6/10/2019,Application,lost,Leslie Winkle,United Kingdom,Farid  Siwek,"$3,900"
+3965,Product Manager,6/10/2019,Application,open,Howard Wolowitz,South Korea,Eva  Kliś,"$2,700"
+3966,Data Analyst,6/10/2019,Application,lost,Leslie Winkle,Sweeden,Kemal  Kubacka,"$3,900"
+3967,Front-End Developer,6/10/2019,Application,lost,Leslie Winkle,United States,Mariia  kukani,"$1,300"
+3968,Recruiter,6/10/2019,Profile review,lost,Raj Koothrappali,Poland,Suren  Tereshenko,"$1,000"
+3969,Product Manager,6/10/2019,Application,open,Howard Wolowitz,Ukraine,Janusz  Volkova,"$2,300"
+3970,Data Analyst,6/10/2019,Application,lost,Leslie Winkle,United States,Oleksandr  Kumar,"$8,500"
+3973,Product Manager,6/10/2019,Application,open,Howard Wolowitz,United States,Agustín  Kosorukov,"$2,600"
+3974,Data Analyst,6/10/2019,Application,lost,Leslie Winkle,Ukraine,Tamir  Mota,"$6,000"
+3958,Recruiter,6/9/2019,Prescreen call,lost,Leslie Winkle,Netherlands,Dmytro  Yachnytskyi,"$1,400"
+3959,Full Stack Engineer,6/9/2019,Profile review,lost,Sheldon Cooper,Singapore,Pavlo  Yaroshenko,"$2,400"
+3960,Full Stack Engineer,6/9/2019,Test task,lost,Leslie Winkle,Singapore,Vincent  Kaszulanis,"$2,600"
+3961,Recruiter,6/9/2019,Test task,lost,Leslie Winkle,United States,Richard  Armens,"$1,600"
+3956,Data Analyst,6/8/2019,Application,lost,Leslie Winkle,Ukraine,Nataliia  Gluhovskiy,$500
+3957,Recruiter,6/8/2019,Test task,lost,Leslie Winkle,Germany,Brian  Shankar,$700
+3953,Recruiter,6/7/2019,Profile review,lost,Raj Koothrappali,Spain,Edyta  Stadnichenko,"$6,000"
+3954,Full Stack Engineer,6/7/2019,Full Day,lost,Sheldon Cooper,France,Daryna   Sanchez,"$2,100"
+3955,Product Manager,6/7/2019,Application,open,Howard Wolowitz,Singapore,Paulina  Maruffi,"$3,300"
+3945,Data Analyst,6/6/2019,Test task,lost,Leslie Winkle,South Korea,Volodymyr  Dudzińska,"$6,000"
+3946,Recruiter,6/6/2019,Application,lost,Leslie Winkle,France,Maryna  Polishchuk,"$3,900"
+3947,Full Stack Node JS Engineer,6/6/2019,Application,lost,Leslie Winkle,Netherlands,Andrey  Ciarniello,$700
+3948,Recruiter,6/6/2019,Profile review,lost,Leslie Winkle,Poland,Shivam Gupta   Chimombe,"$1,600"
+3950,Recruiter,6/6/2019,Profile review,lost,Raj Koothrappali,Ukraine,Yevhen  Romanov,"$1,300"
+3951,Recruiter,6/6/2019,Application,lost,Leslie Winkle,Germany,Peter  Oriekhova,"$2,100"
+3952,Data Analyst,6/6/2019,Application,lost,Leslie Winkle,United States,Nina  Larionov,"$4,700"
+3941,Recruiter,6/5/2019,Application,lost,Leslie Winkle,Spain,Kuba  Gavryshchuk,$700
+3942,Recruiter,6/5/2019,Application,lost,Leslie Winkle,South Korea,Volodymyr  Holoborodko,"$2,400"
+3943,Recruiter,6/5/2019,Application,lost,Leslie Winkle,Singapore,hardik  Moskalenko,"$1,500"
+3944,Front-End Developer,6/5/2019,Test task,lost,Leslie Winkle,Singapore,Adebowale  Arosemena,"$1,600"
+3933,Data Analyst,6/4/2019,Application,lost,Leslie Winkle,Sweeden,Malhar  Masalsky,"$1,300"
+3935,Front-End Developer,6/4/2019,Test task,lost,Leslie Winkle,Canada,Caitlin   Lozano,"$1,500"
+3936,Data Analyst,6/4/2019,Test task,lost,Leslie Winkle,United States,Polina  Jankowska,"$1,100"
+3937,Recruiter,6/4/2019,Test task,lost,Leslie Winkle,Spain,Elena  Abisai,"$1,000"
+3938,People Operations Intern,6/4/2019,Test task,lost,Raj Koothrappali,Singapore,Bimo   Aitchison,$300
+3939,Recruiter,6/4/2019,Test task,lost,Leslie Winkle,Sweeden,Mariusz   Mass,"$1,300"
+3940,Product Manager,6/4/2019,Application,open,Howard Wolowitz,United States,Arina  Omelchenko,"$1,500"
+3922,Chief Operating Officer,6/3/2019,Profile review,lost,Raj Koothrappali,Germany,Kate   Avrakh,"$1,600"
+3923,Recruiter,6/3/2019,Application,lost,Raj Koothrappali,Poland,Vladislav  Pankratova,"$1,600"
+3924,Full Stack Node JS Engineer,6/3/2019,Test task,lost,Leslie Winkle,Canada,Victoria  Khan,"$2,000"
+3925,Recruiter,6/3/2019,Prescreen call,lost,Leslie Winkle,France,Kateryna  Hardubej,"$1,200"
+3926,Front-End Developer,6/3/2019,Test task,lost,Leslie Winkle,India,Karolina  Wąsowicz,"$1,300"
+3927,Product Manager,6/3/2019,Application,lost,Sheldon Cooper,India,Daria  Klepacki,"$4,400"
+3928,Recruiter,6/3/2019,Test task,lost,Leslie Winkle,Spain,Andrei  Foryś,$700
+3929,People Operations Intern,6/3/2019,Offer,won,Raj Koothrappali,United Kingdom,Victoria  Ramakrishnan,$300
+3930,People Operations Intern,6/3/2019,Offer,won,Raj Koothrappali,Brazil,Alessandro  Shamrai,$300
+3931,Front-End Developer,6/3/2019,Culture fit / Skill Matrix,lost,Sheldon Cooper,Netherlands,Anastasiia  Czeczek,"$2,600"
+3932,Recruiter,6/3/2019,Profile review,lost,Leslie Winkle,Singapore,Karolina  Tummolo,"$2,000"
+3918,Recruiter,6/2/2019,Profile review,lost,Leslie Winkle,Singapore,Kirill  Pidtykan,"$2,000"
+3919,Chief Operating Officer,6/2/2019,Profile review,lost,Raj Koothrappali,Canada,Andrey  Gyrenko,"$6,000"
+3920,Front-End Developer,6/2/2019,Application,lost,Leslie Winkle,Singapore,Klaudia  Jafarov,"$2,700"
+3921,Front-End Developer,6/2/2019,Application,lost,Leslie Winkle,Germany,Klaudia  Gorovoy,"$1,800"
+3914,Data Analyst,6/1/2019,Application,lost,Leslie Winkle,Brazil,Brindha  Kucherenko,"$6,000"
+3915,Full Stack Engineer,6/1/2019,Culture fit / Skill Matrix,lost,Sheldon Cooper,Canada,Oleksandr  Gilbertson,"$2,900"
+3916,Technical Content Writer,6/1/2019,Application,lost,Leslie Winkle,Germany,Shemika  Sharma,$300
+3917,Chief Operating Officer,6/1/2019,Profile review,lost,Raj Koothrappali,Brazil,Hassan   Mazhar,"$3,300"
+3909,Data Analyst,5/31/2019,Application,lost,Leslie Winkle,Spain,Kostya  Doshi Doshi,"$5,900"
+3911,Full Stack Engineer,5/31/2019,Test task,lost,Leslie Winkle,Netherlands,Mikołaj  Jungiewicz,"$1,000"
+3912,Operations Manager,5/31/2019,Profile review,lost,Raj Koothrappali,India,Szymon  Filipko,"$1,300"
+3905,Full Stack Node JS Engineer,5/30/2019,Test task,lost,Leslie Winkle,South Korea,Alina  Ivantsov,"$1,000"
+3906,Operations Manager,5/30/2019,Profile review,lost,Raj Koothrappali,Canada,Sagar  Deev,"$1,300"
+3907,Product Manager,5/30/2019,Application,lost,Sheldon Cooper,France,Aleksander  Haleniuk,"$6,000"
+3908,Data Analyst,5/30/2019,Application,lost,Leslie Winkle,United Kingdom,Vitaliy  Shumylo,"$6,000"
+3895,Operations Manager,5/29/2019,Profile review,lost,Raj Koothrappali,United States,Iuliia  Buka,"$1,600"
+3896,Front-End Developer,5/29/2019,Application,lost,Leslie Winkle,Germany,Danny  Bakalo,"$4,600"
+3897,Data Analyst,5/29/2019,Test task,lost,Leslie Winkle,France,Liubov  sultan,"$2,300"
+3898,Chief Operating Officer,5/29/2019,Profile review,lost,Raj Koothrappali,Ukraine,Viktoriia  Rotuska,"$1,700"
+3899,Recruiter,5/29/2019,Application,lost,Leslie Winkle,South Korea,Marrin-Boyd    Bahloul,"$2,300"
+3900,Recruiter,5/29/2019,Test task,lost,Leslie Winkle,Spain,Boris  Nizhegorodov,"$1,200"
+3901,Operations Manager,5/29/2019,Profile review,lost,Raj Koothrappali,United Kingdom,Timothy  Amanowicz,"$2,300"
+3902,Chief Operating Officer,5/29/2019,Profile review,lost,Raj Koothrappali,South Korea,Dominik  Braučs,"$3,300"
+3903,Chief Operating Officer,5/29/2019,Profile review,lost,Raj Koothrappali,Sweeden,Anna   KN,"$6,000"
+3904,Chief Operating Officer,5/29/2019,Profile review,lost,Raj Koothrappali,South Korea,Paulina  Miskiv,"$7,800"
+3884,Front-End Developer,5/28/2019,Application,lost,Leslie Winkle,Poland,Anastasia  Konrat,"$4,600"
+3885,Front-End Developer,5/28/2019,Application,lost,Leslie Winkle,Ukraine,Anna  Kolisnichenko,"$1,300"
+3886,Data Analyst,5/28/2019,Application,lost,Leslie Winkle,France,Yurii  Atsem,$700
+3887,Data Analyst,5/28/2019,Test task,lost,Leslie Winkle,United Kingdom,vladislav  sikora,"$1,200"
+3888,Recruiter,5/28/2019,Test task,lost,Leslie Winkle,Brazil,Daniel  Sivakov,"$1,000"
+3889,Recruiter,5/28/2019,Application,lost,Leslie Winkle,Netherlands,Oleksandr  Poole,$500
+3891,Technical Content Writer,5/28/2019,Application,lost,Leslie Winkle,United Kingdom,Sebastian  Gołąb,"$6,000"
+3892,Recruiter,5/28/2019,Application,lost,Leslie Winkle,South Korea,Mario  Ras,"$5,200"
+3893,Recruiter,5/28/2019,Test task,lost,Leslie Winkle,Brazil,Yury  Łagodzińska,"$1,700"
+3894,Front-End Developer,5/28/2019,Application,lost,Leslie Winkle,India,Ayyaz  Iuzikov,"$1,300"
+3871,Chief Operating Officer,5/27/2019,Profile review,lost,Raj Koothrappali,Brazil,Iryna  ilile,"$2,000"
+3872,Recruiter,5/27/2019,Test task,lost,Leslie Winkle,Netherlands,Sagar  Grashchenko,"$2,000"
+3873,Data Analyst,5/27/2019,Test task,lost,Leslie Winkle,Sweeden,Ilya  Jimenez,"$1,700"
+3874,Technical Content Writer,5/27/2019,Application,lost,Leslie Winkle,Brazil,Evgeniy  Pałdia,"$1,300"
+3875,Front-End Developer,5/27/2019,Application,lost,Leslie Winkle,South Korea,Oluwafemi   Aitchison,"$6,900"
+3876,Data Analyst,5/27/2019,Application,lost,Leslie Winkle,United States,Svyatoslav  Alphons Jose,"$2,100"
+3877,Technical Content Writer,5/27/2019,Application,lost,Leslie Winkle,India,Sergey  Chumachenko,"$2,600"
+3878,Chief Operating Officer,5/27/2019,Profile review,lost,Raj Koothrappali,India,Kyle  Zak,"$4,900"
+3879,Technical Content Writer,5/27/2019,Application,lost,Leslie Winkle,Spain,Aleksandra  Saladra,"$1,000"
+3881,Product Manager,5/27/2019,Application,open,Howard Wolowitz,South Korea,Alicja  SHPAK,"$3,200"
+3882,Recruiter,5/27/2019,Application,lost,Leslie Winkle,Brazil,Alyona  Gómez,"$3,100"
+3883,Front-End Developer,5/27/2019,Test task,lost,Leslie Winkle,Singapore,Victoria  Sudan,"$1,600"
+3865,Data Analyst,5/26/2019,Application,lost,Leslie Winkle,Netherlands,Volodymyr  Poliakova,"$3,300"
+3866,Full Stack Engineer,5/26/2019,Application,lost,Leslie Winkle,Sweeden,Caitlin   Pacholczyk,"$3,300"
+3867,Data Analyst,5/26/2019,Application,lost,Leslie Winkle,Ukraine,Olia   Fortune,"$6,000"
+3869,Recruiter,5/26/2019,Application,lost,Leslie Winkle,Singapore,Richard   Palinchak,"$2,600"
+3870,Product Manager,5/26/2019,Application,lost,Sheldon Cooper,Sweeden,Nataliia  Yerin,"$1,000"
+3861,Technical Content Writer,5/25/2019,Application,lost,Leslie Winkle,Ukraine,Pavlo  Kovtun,"$1,500"
+3862,Technical Content Writer,5/25/2019,Application,lost,Leslie Winkle,Spain,Anton  Jafarov,"$1,600"
+3863,Front-End Developer,5/25/2019,Application,lost,Leslie Winkle,United Kingdom,Oksana  Staśko,"$2,000"
+3864,Recruiter,5/25/2019,Profile review,lost,Leslie Winkle,Canada,Arun   Morales,"$1,600"
+3853,Front-End Developer,5/24/2019,Application,lost,Leslie Winkle,United Kingdom,Anthony  Haleniuk,"$3,500"
+3854,Technical Content Writer,5/24/2019,Application,lost,Leslie Winkle,Sweeden,Vicentiu Cristian  Zymovets,"$1,300"
+3855,Technical Content Writer,5/24/2019,Application,lost,Leslie Winkle,India,Steven  khan,"$6,000"
+3856,Recruiter,5/24/2019,Test task,lost,Leslie Winkle,United Kingdom,Piyush   Pertsovsky,$800
+3857,Recruiter,5/24/2019,Test task,lost,Leslie Winkle,Canada,Srivalli  Osmonov,"$1,400"
+3858,Data Analyst,5/24/2019,Application,lost,Leslie Winkle,France,Oksana  Makowska,"$4,200"
+3859,Product Manager,5/24/2019,Application,lost,Sheldon Cooper,United Kingdom,Andrii  Shah,"$4,200"
+3860,Recruiter,5/24/2019,Test task,lost,Leslie Winkle,Germany,Nab D  Anderson,"$1,300"
+3845,Front-End Developer,5/23/2019,Application,lost,Leslie Winkle,Singapore,Travis  Filatov,"$2,900"
+3846,Recruiter,5/23/2019,Profile review,lost,Leslie Winkle,Ukraine,Farid  Malenkov,"$2,500"
+3847,Front-End Developer,5/23/2019,Application,lost,Leslie Winkle,Brazil,Alexis  Bakhteyev,"$1,600"
+3848,Data Analyst,5/23/2019,Application,lost,Leslie Winkle,Ukraine,Roxana   Filipko,"$1,300"
+3849,Data Analyst,5/23/2019,Application,lost,Leslie Winkle,Ukraine,Mateusz  Pidtykan,"$6,000"
+3850,Operations Manager,5/23/2019,Profile review,lost,Raj Koothrappali,Germany,Mariia  Polishchuk,"$1,000"
+3851,Recruiter,5/23/2019,Test task,lost,Leslie Winkle,Canada,Reah  Dumitru,"$2,000"
+3835,Operations Manager,5/22/2019,Test task,lost,Raj Koothrappali,Spain,Anastasia  Semakov,"$1,300"
+3836,Recruiter,5/22/2019,Application,lost,Leslie Winkle,France,Michał  Levada,"$2,000"
+3837,Front-End Developer,5/22/2019,Application,lost,Leslie Winkle,Sweeden,Polina  Furzland,"$2,100"
+3838,Recruiter,5/22/2019,Application,lost,Leslie Winkle,United Kingdom,Raghu  Savchuk,"$2,600"
+3839,Chief Operating Officer,5/22/2019,Profile review,lost,Raj Koothrappali,Germany,Kateryna    Sharma,"$6,000"
+3840,Chief Operating Officer,5/22/2019,Prescreen call,lost,Raj Koothrappali,Netherlands,Nick   Quadri,"$2,300"
+3841,Data Analyst,5/22/2019,Application,lost,Leslie Winkle,Netherlands,Samat  Arosemena,$900
+3842,Recruiter,5/22/2019,RPI,lost,Leslie Winkle,South Korea,Gabriel  Cheek,"$1,200"
+3843,Product Manager,5/22/2019,Application,open,Howard Wolowitz,United States,Marc   Kolodziej,"$3,300"
+3826,Recruiter,5/21/2019,Profile review,lost,Leslie Winkle,Spain,Kirill  Lakomy,"$2,100"
+3827,Recruiter,5/21/2019,Profile review,lost,Leslie Winkle,India,Ebi  Kozłowski,"$3,300"
+3828,Data Analyst,5/21/2019,Application,lost,Leslie Winkle,Germany,Monika  Nesterenko,"$2,300"
+3830,Front-End Developer,5/21/2019,Application,lost,Leslie Winkle,India,Svitlana   Augustyn,"$6,000"
+3832,Data Analyst,5/21/2019,Application,lost,Leslie Winkle,France,Artem  Blasse Blasse,"$2,900"
+3833,Data Analyst,5/21/2019,Application,lost,Leslie Winkle,Singapore,Maksim  Agrawal,"$3,900"
+3834,Full Stack Node JS Engineer,5/21/2019,Test task,lost,Leslie Winkle,France,Haikal  Korshun,"$1,900"
+3814,Full Stack Node JS Engineer,5/20/2019,RPI,lost,Sheldon Cooper,France,Mertcan  Ghosh,$700
+3815,Technical Content Writer,5/20/2019,Application,lost,Leslie Winkle,Poland,Olga  Maitland,"$1,000"
+3816,Technical Content Writer,5/20/2019,Application,lost,Leslie Winkle,Netherlands,Eugenia  Li,"$2,000"
+3817,Recruiter,5/20/2019,Application,lost,Leslie Winkle,India,Oleksandr  Szpyrka,"$2,300"
+3818,Recruiter,5/20/2019,Test task,lost,Leslie Winkle,South Korea,Nardo  Jarosz,"$1,000"
+3819,Front-End Developer,5/20/2019,Test task,lost,Leslie Winkle,Poland,Alexandru  Naprienko,"$2,600"
+3820,Technical Content Writer,5/20/2019,Application,lost,Leslie Winkle,Netherlands,Yury  Kopylov,$800
+3821,Operations Manager,5/20/2019,Profile review,lost,Raj Koothrappali,Germany,Keifer  Ronenko,"$2,000"
+3822,Operations Manager,5/20/2019,Profile review,lost,Raj Koothrappali,Canada,Gideon Collins  Forma,"$1,600"
+3823,Recruiter,5/20/2019,Test task,lost,Leslie Winkle,South Korea,Ksenia  Gul,"$2,100"
+3824,Data Analyst,5/20/2019,Application,lost,Leslie Winkle,Netherlands,Khrystyna  Amoah,"$3,600"
+3825,Recruiter,5/20/2019,Application,lost,Leslie Winkle,Spain,Mamta  Sankowska Sankowska,"$6,000"
+3811,Chief Operating Officer,5/19/2019,Profile review,lost,Raj Koothrappali,United States,Shahzaib  Iliew,"$3,300"
+3812,Technical Content Writer,5/19/2019,Application,lost,Leslie Winkle,Ukraine,Corrie  Hundeyin,"$6,000"
+3813,Technical Content Writer,5/19/2019,Application,lost,Leslie Winkle,Ukraine,Filip  azam Ali,"$3,300"
+3806,Product Manager,5/18/2019,Application,lost,Sheldon Cooper,Sweeden,Urszula  Lycouris,"$6,000"
+3807,Recruiter,5/18/2019,Profile review,lost,Leslie Winkle,France,Natalya  Skitiboh,"$1,600"
+3808,Full Stack Engineer,5/18/2019,Profile review,lost,Sheldon Cooper,Germany,Magdalena  Novikov,"$2,000"
+3809,Product Manager,5/18/2019,Application,open,Howard Wolowitz,Poland,Yana  Sergienko,"$3,300"
+3810,Front-End Developer,5/18/2019,Application,lost,Leslie Winkle,India,Olena  Ciechanowski,"$5,700"
+3801,Recruiter,5/17/2019,Test task,lost,Leslie Winkle,South Korea,Michał  Joniec,"$1,800"
+3802,Product Manager,5/17/2019,Application,open,Howard Wolowitz,Germany,Kamil   Tereshenko,"$4,600"
+3803,Operations Manager,5/17/2019,Profile review,lost,Raj Koothrappali,Sweeden,Eugene  Lysenko,"$1,300"
+3804,Technical Content Writer,5/17/2019,Application,lost,Leslie Winkle,Poland,Danny  Moreno,$900
+3805,Chief Operating Officer,5/17/2019,Profile review,lost,Raj Koothrappali,South Korea,Alexander  Synychych,"$1,800"
+3796,Recruiter,5/16/2019,Application,lost,Leslie Winkle,Germany,Corrie  Shport,"$2,900"
+3797,Technical Content Writer,5/16/2019,Application,lost,Stuart Bloom,Canada,Magdalena  Fernandes,"$1,600"
+3798,Technical Content Writer,5/16/2019,Application,lost,Leslie Winkle,Brazil,Przemyslaw  Kocharian,$300
+3799,Recruiter,5/16/2019,Test task,lost,Leslie Winkle,Singapore,Aramais  Horst,"$1,000"
+3800,Data Analyst,5/16/2019,Test task,lost,Leslie Winkle,France,Elena  Rajan,"$1,600"
+3783,Recruiter,5/15/2019,Application,lost,Leslie Winkle,India,Ber  Skvoznikova,"$6,000"
+3784,Technical Content Writer,5/15/2019,Application,lost,Leslie Winkle,Spain,Oleksandr  Atamanyuk,"$1,300"
+3785,Data Analyst,5/15/2019,Application,lost,Leslie Winkle,France,Mariusz  Justice,$500
+3786,Recruiter,5/15/2019,Test task,lost,Leslie Winkle,Singapore,Andriy  Mirylo,"$1,600"
+3787,Front-End Developer,5/15/2019,Test task,lost,Leslie Winkle,Sweeden,Manuel  Ewane,"$1,000"
+3788,Recruiter,5/15/2019,Application,lost,Leslie Winkle,Singapore,Krzysztof  Gosek,"$2,200"
+3789,Technical Content Writer,5/15/2019,Application,lost,Leslie Winkle,United Kingdom,Stanislav  Volkova,"$6,000"
+3790,Operations Manager,5/15/2019,Profile review,lost,Raj Koothrappali,Poland,Karolina  Tummolo,"$2,000"
+3792,Technical Content Writer,5/15/2019,Application,lost,Leslie Winkle,France,Shubhanga  Kasapbas,$500
+3793,Full Stack Node JS Engineer,5/15/2019,Application,lost,Leslie Winkle,Spain,Inna  Kennedy,"$2,600"
+3794,Data Analyst,5/15/2019,Application,lost,Leslie Winkle,Spain,Sergey  Kujawa,"$1,300"
+3773,Operations Manager,5/14/2019,Profile review,lost,Raj Koothrappali,Singapore,Anna   Gosek,$800
+3774,Data Analyst,5/14/2019,Application,lost,Leslie Winkle,Singapore,Ivan  Zapisotskyi,"$2,000"
+3775,Full Stack Engineer,5/14/2019,Offer,won,Sheldon Cooper,Ukraine,Alina  Sushchuk,"$2,900"
+3776,Operations Manager,5/14/2019,Profile review,lost,Raj Koothrappali,United Kingdom,Vitaliy  Havryliuk,"$1,300"
+3777,Technical Content Writer,5/14/2019,Application,lost,Leslie Winkle,Spain,Anna  Fediaiev,$200
+3778,Recruiter,5/14/2019,Application,lost,Leslie Winkle,United Kingdom,Maksim  Polishchuk,"$2,200"
+3779,Full Stack Node JS Engineer,5/14/2019,Profile review,lost,Leslie Winkle,India,Tania  Arinushkina,"$1,600"
+3781,Operations Manager,5/14/2019,Profile review,lost,Raj Koothrappali,India,Andrii   Akauba,"$2,900"
+3782,Data Analyst,5/14/2019,Application,lost,Leslie Winkle,South Korea,Barbara  Taran,"$4,900"
+3760,Data Analyst,5/13/2019,Application,lost,Leslie Winkle,Poland,Yulia  Dam,"$1,000"
+3761,Data Analyst,5/13/2019,Application,lost,Leslie Winkle,Canada,Irene   Patel,"$1,300"
+3764,Chief Operating Officer,5/13/2019,Profile review,lost,Raj Koothrappali,Canada,Volodymyr  Hryban,"$3,300"
+3765,Recruiter,5/13/2019,Application,lost,Leslie Winkle,United States,Alina  Skorupa,"$2,100"
+3767,Full Stack Engineer,5/13/2019,Application,lost,Leslie Winkle,United States,Eryk  Wilson,"$3,900"
+3768,Data Analyst,5/13/2019,Application,lost,Leslie Winkle,Germany,John   Gapanyuk,"$6,000"
+3769,Front-End Developer,5/13/2019,Application,lost,Leslie Winkle,United States,Elena  Matukiewicz,"$1,300"
+3770,Technical Content Writer,5/13/2019,Application,lost,Leslie Winkle,Singapore,Priyanka  Buderkevych,$500
+3771,Full Stack Engineer,5/13/2019,Test task,lost,Sheldon Cooper,Sweeden,Marco  Sudan,"$2,900"
+3772,Operations Manager,5/13/2019,Profile review,lost,Raj Koothrappali,Poland,Andriy  Zapisotskyi,"$1,300"
+3757,Product Manager,5/12/2019,Application,lost,Sheldon Cooper,Poland,Marco  Kujawa,"$1,000"
+3758,Data Analyst,5/12/2019,Test task,lost,Leslie Winkle,India,Ritesh  Wysocki,"$1,800"
+3759,Product Manager,5/12/2019,Application,open,Howard Wolowitz,Poland,Viktoriia  Polishchuk,"$1,200"
+3753,Full Stack Engineer,5/11/2019,Application,lost,Leslie Winkle,Poland,Yurii  Chu,"$6,000"
+3754,Data Analyst,5/11/2019,Test task,lost,Leslie Winkle,South Korea,Vicentiu Cristian  Ilyash,"$1,900"
+3755,Operations Manager,5/11/2019,Profile review,lost,Raj Koothrappali,United Kingdom,Olga  Pidtykan,"$2,300"
+3756,Technical Content Writer,5/11/2019,Application,lost,Leslie Winkle,India,Eduard  Novachenko,"$2,600"
+3741,Recruiter,5/10/2019,Application,lost,Leslie Winkle,Ukraine,Kamil   Kvashuk,"$2,000"
+3742,Product Manager,5/10/2019,Application,open,Howard Wolowitz,France,Marina  Zehmke,"$2,400"
+3744,Recruiter,5/10/2019,Application,lost,Leslie Winkle,United States,Kuba  Bodlev,"$1,000"
+3746,Technical Content Writer,5/10/2019,Application,lost,Leslie Winkle,France,Olia   Brańka,"$2,000"
+3747,Operations Manager,5/10/2019,Profile review,lost,Raj Koothrappali,United States,Ivica  Nashkolnyi,"$6,000"
+3748,Full Stack Engineer,5/10/2019,Application,lost,Leslie Winkle,Brazil,Oleh  Yavorska,"$2,300"
+3749,Technical Content Writer,5/10/2019,Application,lost,Leslie Winkle,South Korea,Mehul  Komarova,$700
+3750,Product Manager,5/10/2019,Application,lost,Sheldon Cooper,Poland,Evgen  Burnier de Castro,"$1,000"
+3751,Recruiter,5/10/2019,Application,lost,Leslie Winkle,Brazil,Inga  Pınar,"$5,900"
+3723,Technical Content Writer,5/9/2019,Application,lost,Leslie Winkle,United Kingdom,Natalia  Atere,"$2,600"
+3724,Full Stack Engineer,5/9/2019,Application,lost,Leslie Winkle,United Kingdom,Michał  Pirowski,"$2,600"
+3725,Chief Operating Officer,5/9/2019,Profile review,lost,Raj Koothrappali,Spain,Sergey  Shamim,"$2,900"
+3726,Technical Content Writer,5/9/2019,Application,lost,Leslie Winkle,India,Aravind  Maul,"$1,100"
+3727,Data Analyst,5/9/2019,Test task,lost,Leslie Winkle,Netherlands,Vira  Didyk,"$1,600"
+3728,Full Stack Engineer,5/9/2019,Application,lost,Leslie Winkle,Poland,Tetiana   kudale,"$6,000"
+3729,Front-End Developer,5/9/2019,Application,lost,Leslie Winkle,Germany,Farid  Didukh,$200
+3730,Front-End Developer,5/9/2019,Application,lost,Leslie Winkle,Germany,Yevhen  Ковтун,$900
+3731,Front-End Developer,5/9/2019,Application,lost,Leslie Winkle,United States,Chelsy  Janiszewski,$900
+3732,Technical Content Writer,5/9/2019,Application,lost,Leslie Winkle,Brazil,Ashish  Kazungu Woods,"$1,300"
+3733,Data Analyst,5/9/2019,Application,lost,Leslie Winkle,Sweeden,kajal  Sysak,"$6,000"
+3734,Technical Content Writer,5/9/2019,Application,lost,Leslie Winkle,Brazil,Olena  Tustanovska,$300
+3736,Front-End Developer,5/9/2019,Application,lost,Leslie Winkle,Germany,Michel  Usen,"$2,000"
+3737,Front-End Developer,5/9/2019,Application,lost,Leslie Winkle,Brazil,Brindha  Kravets,$800
+3738,Technical Content Writer,5/9/2019,Application,lost,Leslie Winkle,Poland,Nikolay  Drugova,"$2,900"
+3740,Recruiter,5/9/2019,Application,lost,Leslie Winkle,Poland,Anton   Velasco,$800
+3713,Data Analyst,5/8/2019,Application,lost,Leslie Winkle,India,Sebastian  Fleszar,"$2,100"
+3714,Data Analyst,5/8/2019,Application,lost,Leslie Winkle,Germany,Arushi  Murphy,"$1,000"
+3715,Recruiter,5/8/2019,Application,lost,Leslie Winkle,Canada,Precious  Haziyev,"$1,000"
+3716,Front-End Developer,5/8/2019,Application,lost,Leslie Winkle,Germany,Vasileios  Ivashkiv,"$2,000"
+3717,Technical Content Writer,5/8/2019,Profile review,lost,Leslie Winkle,Brazil,Malgorzata   Abdul Rahman,"$1,000"
+3718,Product Manager,5/8/2019,Application,open,Howard Wolowitz,United Kingdom,Olha  Atila,"$1,600"
+3719,Technical Content Writer,5/8/2019,Application,lost,Leslie Winkle,South Korea,Viktoriia  Pulia,$500
+3720,Front-End Developer,5/8/2019,Application,lost,Leslie Winkle,United States,Jeremy  Dmytruk,"$1,000"
+3721,Data Analyst,5/8/2019,Profile review,lost,Leslie Winkle,Netherlands,Olena  Zdzieba,"$1,800"
+3722,Product Manager,5/8/2019,Application,open,Howard Wolowitz,United States,Magdalena  Геннадиевич,"$2,500"
+3711,Technical Content Writer,5/7/2019,Application,lost,Leslie Winkle,United States,Elisa  Starovit,"$1,200"
+3712,Product Manager,5/7/2019,Application,open,Howard Wolowitz,South Korea,Semyon  Pushkina,"$2,600"
+3708,Operations Manager,5/6/2019,Profile review,lost,Raj Koothrappali,Poland,Soumya Ranjan  Vasylyeva,$800
+3709,Recruiter,5/6/2019,Application,lost,Leslie Winkle,Poland,Alan  Ahieieva,"$2,000"
+3710,Recruiter,5/6/2019,Application,lost,Leslie Winkle,Brazil,Tushar   Ivashkiv,"$1,000"
+3703,Recruiter,5/4/2019,Application,lost,Leslie Winkle,United States,Elnur   Munshi,"$1,000"
+3704,Data Analyst,5/4/2019,Application,lost,Leslie Winkle,United States,Igor   Zhuravlova,"$1,400"
+3706,Technical Content Writer,5/4/2019,Profile review,lost,Leslie Winkle,Germany,Anna  Filipska,$500
+3707,Technical Content Writer,5/4/2019,Application,lost,Leslie Winkle,France,Sathish  Wolf,"$1,500"
+3697,Recruiter,5/3/2019,Application,lost,Leslie Winkle,Germany,Anton  Elsa Varghese,"$2,100"
+3698,Recruiter,5/3/2019,Application,lost,Leslie Winkle,Netherlands,Viktor  Carter,"$2,600"
+3699,Data Analyst,5/3/2019,Profile review,lost,Leslie Winkle,Germany,Olia  Durvin,$500
+3700,Technical Content Writer,5/3/2019,Application,lost,Leslie Winkle,Poland,Junaid    Vasylenko,$700
+3701,Chief Operating Officer,5/3/2019,Test task,lost,Raj Koothrappali,United Kingdom,Katarzyna   Maruffi,"$2,000"
+3702,Technical Content Writer,5/3/2019,Profile review,lost,Leslie Winkle,United Kingdom,Agata  Jackson,"$1,000"
+3689,Data Analyst,5/2/2019,Profile review,lost,Leslie Winkle,Sweeden,Tetiana  Kitaigorodsky,"$1,200"
+3690,Recruiter,5/2/2019,Application,lost,Leslie Winkle,United States,Vladislav  Kyrychenko,"$1,900"
+3691,Technical Content Writer,5/2/2019,Application,lost,Leslie Winkle,United States,Todor  Abisai,"$1,300"
+3692,Recruiter,5/2/2019,Application,lost,Leslie Winkle,Spain,Artūrs   Rai,"$1,800"
+3693,Recruiter,5/2/2019,Application,lost,Leslie Winkle,Germany,Elias  Furzland,"$6,000"
+3695,Recruiter,5/2/2019,Application,lost,Leslie Winkle,India,Kelvin  Demczyńska,"$2,000"
+3696,Data Analyst,5/2/2019,Profile review,lost,Leslie Winkle,India,Michał  Khrabrov,$500
+3684,Data Analyst,5/1/2019,Profile review,lost,Leslie Winkle,United Kingdom,Anastasia  Klochko,"$3,100"
+3685,Operations Manager,5/1/2019,Test task,lost,Raj Koothrappali,United States,Vladimir  Mulikov,$500
+3686,Data Analyst,5/1/2019,Test task,lost,Leslie Winkle,Spain,John  Ryszawy,"$1,600"
+3687,Data Analyst,5/1/2019,Test task,lost,Leslie Winkle,United Kingdom,Yuliia  Belinskyi,"$2,900"
+3688,Operations Manager,5/1/2019,Test task,lost,Raj Koothrappali,France,Oleksandra   Adam,"$1,600"
+3677,Product Manager,4/30/2019,Application,lost,Sheldon Cooper,France,Dmytro  Jackson,"$9,800"
+3679,Technical Content Writer,4/30/2019,Application,lost,Leslie Winkle,Brazil,Ibrahim   Dykaniuk,$300
+3680,Data Analyst,4/30/2019,Profile review,lost,Leslie Winkle,Ukraine,Luis Andres   Khodyriev,"$2,600"
+3681,Data Analyst,4/30/2019,Profile review,lost,Leslie Winkle,Poland,Alex  Esipov,"$1,600"
+3682,Recruiter,4/30/2019,Application,lost,Leslie Winkle,Spain,Polina  Weinreich,"$2,000"
+3674,Data Analyst,4/29/2019,Profile review,lost,Leslie Winkle,Spain,Nicholas  Staśko,$700
+3675,Front-End Developer,4/29/2019,Test task,lost,Leslie Winkle,Brazil,Caitlin   Sowa,"$2,300"
+3676,Operations Manager,4/29/2019,Profile review,lost,Raj Koothrappali,Canada,Olena  Baraniuk,$900
+3673,Full Stack Engineer,4/28/2019,Application,lost,Leslie Winkle,United States,Gian Luca  Novachenko,"$6,000"
+3671,Full Stack Engineer,4/26/2019,Profile review,lost,Sheldon Cooper,Spain,Urszula  Oriekhova,"$4,200"
+3672,Product Manager,4/26/2019,Application,open,Howard Wolowitz,Ukraine,Victoria  Nallathambi,"$2,900"
+3669,Full Stack Engineer,4/25/2019,Application,lost,Leslie Winkle,United Kingdom,Mikita  Kaya,"$4,600"
+3664,Front-End Developer,4/24/2019,Application,lost,Leslie Winkle,Singapore,Olena  Liaukeviciute,"$2,900"
+3665,Front-End Developer,4/24/2019,Test task,lost,Leslie Winkle,Sweeden,Seyide  Babilia,"$1,300"
+3666,Operations Manager,4/24/2019,Offer,won,Raj Koothrappali,Spain,Michael  Kurzewski,"$1,000"
+3662,Operations Manager,4/23/2019,Profile review,lost,Raj Koothrappali,Sweeden,Dmitriy  Susiak,"$3,000"
+3663,Front-End Developer,4/23/2019,Test task,lost,Leslie Winkle,Netherlands,Mykhailo  Zakhozhyi,"$2,100"
+3661,Front-End Developer,4/22/2019,Test task,lost,Leslie Winkle,Singapore,VladaV  Zhukov,"$2,200"
+3659,Front-End Developer,4/21/2019,Application,lost,Leslie Winkle,United Kingdom,Samuel  Furzland,"$1,600"
+3658,Full Stack Engineer,4/20/2019,Application,lost,Leslie Winkle,Singapore,Onat  Turbant,"$3,300"
+3655,Operations Manager,4/19/2019,Offer,lost,Raj Koothrappali,Ukraine,Yuliia   Bosenko,$900
+3656,Front-End Developer,4/19/2019,Application,lost,Leslie Winkle,Brazil,Sergey  Bounegru,"$1,000"
+3657,Front-End Developer,4/19/2019,Application,lost,Leslie Winkle,Germany,Anna  Czerkawski,"$1,800"
+3645,Operations Manager,4/18/2019,Profile review,lost,Raj Koothrappali,Ukraine,Nikita  Pulia,"$1,200"
+3646,Front-End Developer,4/18/2019,Test task,lost,Leslie Winkle,Netherlands,Anton   Kuznetsov,"$1,000"
+3647,Operations Manager,4/18/2019,Profile review,lost,Raj Koothrappali,Netherlands,Joanna  Troukha Troukhan,"$2,600"
+3649,Data Analyst,4/18/2019,Profile review,lost,Leslie Winkle,France,Valentyn  Muntian,$400
+3650,Technical Content Writer,4/18/2019,Profile review,open,Stuart Bloom,Ukraine,Kyle  Huk,$700
+3651,Operations Manager,4/18/2019,Profile review,lost,Raj Koothrappali,France,Krzysztof  Kennedy,$800
+3653,Data Analyst,4/18/2019,Profile review,lost,Leslie Winkle,Germany,Maja  Sobieraj,"$1,200"
+3654,Operations Manager,4/18/2019,Profile review,lost,Raj Koothrappali,Singapore,Nazariy  Yarych,"$6,000"
+3638,Data Analyst,4/17/2019,Profile review,lost,Leslie Winkle,France,Vishal  Rehman,"$3,900"
+3639,Data Analyst,4/17/2019,Profile review,lost,Leslie Winkle,Brazil,Jake  Jackson,"$3,300"
+3640,Data Analyst,4/17/2019,Profile review,lost,Leslie Winkle,Canada,Liudmyla  Yuzkiv,"$1,300"
+3641,Front-End Developer,4/17/2019,Application,lost,Leslie Winkle,United States,Piotr   Shchukin,"$1,000"
+3642,Data Analyst,4/17/2019,Profile review,lost,Leslie Winkle,Brazil,Yuliia  Volkovska,"$1,300"
+3643,Front-End Developer,4/17/2019,Application,lost,Leslie Winkle,Canada,Valerii  Yevstratenko,$500
+3644,Front-End Developer,4/17/2019,Application,lost,Leslie Winkle,Sweeden,Denys  Małek,"$1,000"
+3628,Data Analyst,4/16/2019,Application,lost,Leslie Winkle,India,Olena  Arharov,"$1,000"
+3632,Technical Content Writer,4/16/2019,Profile review,lost,Leslie Winkle,India,Andrew  Ludwin,"$1,200"
+3633,Operations Manager,4/16/2019,Application,lost,Leslie Winkle,Ukraine,Bartosz  HANDZEL,"$4,400"
+3635,Data Analyst,4/16/2019,Profile review,lost,Leslie Winkle,Poland,Farid  Kumar Naresh,"$6,000"
+3636,Data Analyst,4/16/2019,Test task,lost,Leslie Winkle,Spain,Brad  Ocalewicz,"$2,000"
+3637,Chief Operating Officer,4/16/2019,Profile review,lost,Raj Koothrappali,Netherlands,Stanislav  Mikhailouskaya,"$3,900"
+3624,Front-End Developer,4/15/2019,RPI,lost,Leslie Winkle,Ukraine,Jakub  Babbitt,"$2,300"
+3626,Full Stack Engineer,4/15/2019,Application,lost,Leslie Winkle,Ukraine,M.suleman  Khodyriev,"$2,600"
+3627,Technical Content Writer,4/15/2019,Application,lost,Leslie Winkle,France,Heidi  Nesterenko,"$1,200"
+3622,Data Analyst,4/14/2019,Profile review,lost,Leslie Winkle,Netherlands,Travis   Melnyk,"$5,200"
+3623,Product Manager,4/14/2019,Application,open,Howard Wolowitz,South Korea,Karina   Mohler,"$2,800"
+3620,Operations Manager,4/13/2019,Application,lost,Leslie Winkle,Sweeden,Artem   Jakubiczka,"$3,300"
+3621,Data Analyst,4/13/2019,Application,lost,Leslie Winkle,Poland,Farid  Alphons Jose,"$2,600"
+3613,Data Analyst,4/12/2019,Test task,lost,Leslie Winkle,Poland,Dmytro  Aslan,$700
+3614,Chief Operating Officer,4/12/2019,Profile review,lost,Raj Koothrappali,India,Natalia  Blasse Blasse,"$6,500"
+3615,Data Analyst,4/12/2019,Test task,lost,Leslie Winkle,France,Julia  Liberski,"$1,000"
+3616,Front-End Developer,4/12/2019,Profile review,lost,Leslie Winkle,India,Eugene  Martyniuk,"$2,600"
+3617,Operations Manager,4/12/2019,Application,lost,Leslie Winkle,South Korea,Oleksandra  Martynenko,"$1,600"
+3619,Front-End Developer,4/12/2019,Application,lost,Leslie Winkle,Spain,Taras  Samarets,"$1,000"
+3607,Data Analyst,4/11/2019,Profile review,lost,Leslie Winkle,France,Piotr  Omelchenko,"$1,600"
+3608,Product Manager,4/11/2019,Application,open,Howard Wolowitz,United Kingdom,Arkadiy  Vakilov,"$2,400"
+3609,Full Stack Engineer,4/11/2019,Application,lost,Leslie Winkle,Brazil,Max  Levitsky,"$1,300"
+3610,Data Analyst,4/11/2019,Profile review,lost,Leslie Winkle,France,Mudita  Huynh,"$2,000"
+3611,Operations Manager,4/11/2019,Application,lost,Leslie Winkle,Netherlands,Marcin  Borzykh,"$1,300"
+3612,Data Analyst,4/11/2019,Profile review,lost,Leslie Winkle,Ukraine,Jaideep  Sowa,"$1,600"
+3603,Data Analyst,4/10/2019,Profile review,lost,Leslie Winkle,Ukraine,Alina  Nahid  Khan,"$1,500"
+3604,Product Manager,4/10/2019,Application,open,Howard Wolowitz,United States,Aramais  Kunin,"$2,600"
+3605,Operations Manager,4/10/2019,Application,lost,Leslie Winkle,Canada,Tamara  Nashkolnyi,"$6,000"
+3606,Front-End Developer,4/10/2019,Application,lost,Leslie Winkle,Spain,Victoria  Kliś,"$1,400"
+3594,Data Analyst,4/9/2019,Profile review,lost,Leslie Winkle,India,Nicholas  Tereschenko,"$1,000"
+3596,Product Manager,4/9/2019,Application,lost,Sheldon Cooper,Germany,Oleksandra  Rapheal,"$3,900"
+3597,Operations Manager,4/9/2019,Application,lost,Leslie Winkle,Spain,Lyudmyla  Zhukov,"$1,300"
+3598,Operations Manager,4/9/2019,Application,lost,Leslie Winkle,Ukraine,olexandr  Zhylina,"$1,200"
+3599,Chief Operating Officer,4/9/2019,Profile review,lost,Raj Koothrappali,United States,Kirill  Burdenyuk,"$5,900"
+3600,Data Analyst,4/9/2019,Test task,lost,Leslie Winkle,Ukraine,Mohsin  Levko,"$1,500"
+3587,Data Analyst,4/8/2019,Profile review,lost,Leslie Winkle,Germany,Sana  Zybort,"$1,300"
+3588,Technical Content Writer,4/8/2019,Application,lost,Leslie Winkle,Germany,Viktor   Waterman,"$6,000"
+3589,Front-End Developer,4/8/2019,Test task,lost,Leslie Winkle,Ukraine,Atul  Burnier de Castro,"$2,300"
+3590,Product Manager,4/8/2019,Application,open,Howard Wolowitz,Spain,Priyanka  wisniowski,"$3,100"
+3591,Data Analyst,4/8/2019,Test task,lost,Leslie Winkle,Canada,Bullet   Tykhonova,"$2,000"
+3592,Operations Manager,4/8/2019,Application,lost,Leslie Winkle,Sweeden,Iryna  Pałdia,"$1,000"
+3593,Technical Content Writer,4/8/2019,Profile review,lost,Leslie Winkle,Poland,Dmytro  Priyadharshini  M,"$1,000"
+3582,Product Manager,4/7/2019,Application,open,Howard Wolowitz,Ukraine,Vita  Hardubej,"$2,600"
+3583,Full Stack Engineer,4/7/2019,Application,lost,Leslie Winkle,Singapore,Marcin  Hanko,"$2,000"
+3584,Data Analyst,4/7/2019,Profile review,lost,Leslie Winkle,Brazil,Michał  Urzyńska,$900
+3585,Data Analyst,4/7/2019,Profile review,lost,Leslie Winkle,Brazil,Vsevolod  Raza Sherazi,"$5,900"
+3586,Full Stack Engineer,4/7/2019,Application,lost,Leslie Winkle,Netherlands,Renata  Węcki,"$2,300"
+3576,Product Manager,4/5/2019,Application,open,Howard Wolowitz,South Korea,Nakkeeran  Ciechanowski,"$2,300"
+3577,Front-End Developer,4/5/2019,Application,lost,Leslie Winkle,Germany,Alice  Palii,"$1,100"
+3578,Product Manager,4/5/2019,Application,open,Howard Wolowitz,France,Ana   Merkieieva,"$2,600"
+3579,Chief Operating Officer,4/5/2019,Profile review,lost,Raj Koothrappali,Canada,Elina  Vrkic,"$3,300"
+3580,Chief Operating Officer,4/5/2019,Profile review,lost,Raj Koothrappali,Spain,Mateusz  Eid,"$2,600"
+3581,Technical Content Writer,4/5/2019,Application,lost,Leslie Winkle,Netherlands,Vinay  Pidmohylniy,"$4,400"
+3567,Technical Content Writer,4/4/2019,Application,lost,Leslie Winkle,Sweeden,Natalya   Melnykovych,$200
+3568,Data Analyst,4/4/2019,Profile review,lost,Leslie Winkle,Spain,Artem   Martin,"$1,200"
+3569,Data Analyst,4/4/2019,Profile review,lost,Leslie Winkle,Canada,Ines  Poberezhnyi,$800
+3570,Front-End Developer,4/4/2019,Application,lost,Leslie Winkle,Spain,Karolina  Stasko,$600
+3571,Operations Manager,4/4/2019,Profile review,lost,Raj Koothrappali,Poland,Miłosz  Krasnobaieva,"$1,200"
+3572,Front-End Developer,4/4/2019,Application,lost,Leslie Winkle,Brazil,Yuliia  Shemet,$500
+3573,Data Analyst,4/4/2019,Test task,lost,Leslie Winkle,Sweeden,Artem  Primov,"$1,500"
+3575,Full Stack Engineer,4/4/2019,Profile review,lost,Sheldon Cooper,Ukraine,MUHAMMAD NAEEM  Krociel,"$1,600"
+3562,Front-End Developer,4/3/2019,Application,lost,Leslie Winkle,Singapore,Olesia   Raveendran,"$2,300"
+3563,Technical Content Writer,4/3/2019,Profile review,lost,Leslie Winkle,Spain,Yaroslav  Loseva,"$1,100"
+3564,Data Analyst,4/3/2019,Test task,lost,Leslie Winkle,Spain,Mariia  Campos,"$2,700"
+3566,Data Analyst,4/3/2019,Profile review,lost,Leslie Winkle,South Korea,Yurii  Krovvidi,$600
+3551,Data Analyst,4/2/2019,Application,lost,Leslie Winkle,South Korea,Natalia  Ruvinov,"$1,000"
+3552,Operations Manager,4/2/2019,Application,lost,Leslie Winkle,Germany,Alexander  Cieńciała,"$2,000"
+3553,Front-End Developer,4/2/2019,Application,lost,Leslie Winkle,Netherlands,Dmytro  Sanderska,$400
+3554,Data Analyst,4/2/2019,Application,lost,Leslie Winkle,Netherlands,MALGORZATA   Kumar Melath,$400
+3555,Front-End Developer,4/2/2019,Application,lost,Leslie Winkle,United States,Sergey  Voloshyn,$700
+3556,Data Analyst,4/2/2019,Application,lost,Leslie Winkle,Poland,Dmytro  Miskiv,$500
+3557,Operations Manager,4/2/2019,Application,lost,Leslie Winkle,Netherlands,Ivan  Szewczyk,"$2,900"
+3559,Data Analyst,4/2/2019,Application,lost,Leslie Winkle,Germany,Hardik  Sanderska,"$3,600"
+3560,Data Analyst,4/2/2019,Application,lost,Leslie Winkle,Spain,Lyudmyla  Prokopenko,"$1,000"
+3544,Front-End Developer,4/1/2019,Application,lost,Leslie Winkle,Spain,Kirill  Haleniuk,$200
+3545,Data Analyst,4/1/2019,Profile review,lost,Leslie Winkle,Germany,Alex   Thompson,"$1,000"
+3546,Chief Operating Officer,4/1/2019,Profile review,lost,Raj Koothrappali,Spain,Mendhie Emmanuel   Shchukin,"$6,500"
+3547,Data Analyst,4/1/2019,Application,lost,Leslie Winkle,Singapore,Alex   Palinchak,"$2,600"
+3548,Operations Manager,4/1/2019,Profile review,lost,Raj Koothrappali,United States,Miguel  Chrupcala,"$1,500"
+3550,Front-End Developer,4/1/2019,Application,lost,Leslie Winkle,Singapore,Kelvin  Tytarenko,"$1,300"
+3543,Data Analyst,3/31/2019,Profile review,lost,Leslie Winkle,Brazil,Syed   Shcherbakan,"$1,200"
+3538,Front-End Developer,3/30/2019,Application,lost,Leslie Winkle,Netherlands,Tetiana  Morais Gouveia,"$1,300"
+3539,Operations Manager,3/30/2019,Profile review,lost,Raj Koothrappali,Brazil,Yulia   Abuhasna,"$2,000"
+3541,Operations Manager,3/30/2019,Profile review,lost,Raj Koothrappali,India,Avanish  Bunakov,$800
+3531,Data Analyst,3/29/2019,Profile review,lost,Leslie Winkle,France,Oleksii  Egiazaryan,"$1,300"
+3532,Operations Manager,3/29/2019,Test task,lost,Raj Koothrappali,Singapore,Olga  Hromovyi,"$1,200"
+3533,Operations Manager,3/29/2019,Profile review,lost,Raj Koothrappali,Poland,Evgeniy  Santana,"$4,300"
+3534,Data Analyst,3/29/2019,Profile review,lost,Leslie Winkle,India,Natalia  Anderson,"$2,000"
+3535,Data Analyst,3/29/2019,Profile review,lost,Leslie Winkle,Ukraine,Krzysztof  Morozov,"$1,400"
+3536,Chief Operating Officer,3/29/2019,Profile review,lost,Raj Koothrappali,Canada,Yevhen   Poliakova,"$3,900"
+3537,Technical Content Writer,3/29/2019,Profile review,open,Stuart Bloom,Sweeden,Tyson  Efimov,"$1,100"
+3521,Data Analyst,3/28/2019,Test task,lost,Leslie Winkle,South Korea,Karol  Hughes,$800
+3522,Chief Operating Officer,3/28/2019,Profile review,lost,Raj Koothrappali,Brazil,Vasyl  Gudzenko,"$6,500"
+3523,Data Analyst,3/28/2019,Profile review,lost,Leslie Winkle,France,Nikolay  Srodon-Prokulewicz,"$2,100"
+3524,Technical Content Writer,3/28/2019,Application,lost,Leslie Winkle,Poland,Oleg   Rowe,"$1,200"
+3525,Chief Operating Officer,3/28/2019,Profile review,lost,Raj Koothrappali,India,Javier Saez  Bratkovskaya,"$4,200"
+3526,Product Manager,3/28/2019,Application,open,Howard Wolowitz,Ukraine,Olexander  Turbant,"$4,200"
+3528,Operations Manager,3/28/2019,Prescreen call,lost,Raj Koothrappali,Singapore,Joshua  Ciesielski,"$1,400"
+3530,Technical Content Writer,3/28/2019,Offer,won,Leslie Winkle,Singapore,Aleksandra  Lis,"$1,000"
+3510,Data Analyst,3/27/2019,Application,lost,Leslie Winkle,Spain,Sergey  Grandjean,$700
+3511,Product Manager,3/27/2019,Application,lost,Sheldon Cooper,Canada,Bryan  Irlik,"$4,900"
+3512,Operations Manager,3/27/2019,Profile review,lost,Raj Koothrappali,Ukraine,Mariia  SHPAK,"$1,300"
+3513,Technical Content Writer,3/27/2019,Application,lost,Leslie Winkle,United Kingdom,Makesi  Cohen,"$1,600"
+3514,Data Analyst,3/27/2019,Test task,lost,Leslie Winkle,United States,Francesco  Krutilnikow,"$1,800"
+3515,Product Manager,3/27/2019,Application,open,Howard Wolowitz,Singapore,Sergey  Filipska,"$1,800"
+3516,Data Analyst,3/27/2019,Test task,lost,Leslie Winkle,India,Inga  Grandjean,$800
+3517,Data Analyst,3/27/2019,Profile review,lost,Leslie Winkle,South Korea,Nicola  Os,$800
+3518,Operations Manager,3/27/2019,Profile review,lost,Raj Koothrappali,Spain,Olga  Tkachova,"$1,300"
+3519,Operations Manager,3/27/2019,Profile review,lost,Raj Koothrappali,Spain,Ulan  Tomashevsky,"$4,400"
+3520,Product Manager,3/27/2019,Application,lost,Sheldon Cooper,Netherlands,Breno  Hil,"$6,000"
+3500,Full Stack Engineer,3/26/2019,Test task,lost,Sheldon Cooper,Ukraine,Mohit  Helińska,"$2,000"
+3501,Operations Manager,3/26/2019,Profile review,lost,Raj Koothrappali,Spain,Vaishnavi   Levitsky,"$2,900"
+3502,Technical Content Writer,3/26/2019,Test task,lost,Leslie Winkle,Brazil,Manuel  Skorobogataya,$700
+3503,Full Stack Engineer,3/26/2019,Application,lost,Leslie Winkle,India,Mikhail  shishniashvili,"$4,100"
+3504,Full Stack Engineer,3/26/2019,Test task,lost,Sheldon Cooper,Poland,Yulia  Karpenko,"$2,000"
+3505,Data Analyst,3/26/2019,Profile review,lost,Leslie Winkle,United States,Laxmi Narayan  Hernandez,$500
+3506,Operations Manager,3/26/2019,Test task,lost,Raj Koothrappali,Singapore,Sathish  Poole,$800
+3507,Operations Manager,3/26/2019,Profile review,lost,Raj Koothrappali,South Korea,Kyrylo  Miskiv,"$3,300"
+3508,Full Stack Engineer,3/26/2019,Profile review,lost,Sheldon Cooper,United States,Tu  Atsem,$700
+3509,Data Analyst,3/26/2019,Application,lost,Leslie Winkle,South Korea,Alina   Trush,"$3,300"
+3493,Front-End Developer,3/25/2019,Application,lost,Leslie Winkle,Sweeden,Marcin  Ivantsov,"$6,000"
+3495,Data Analyst,3/25/2019,Application,lost,Leslie Winkle,Germany,Daria  Ordonez,"$3,400"
+3496,Operations Manager,3/25/2019,Profile review,lost,Raj Koothrappali,South Korea,Natalya   Mandzak,"$3,900"
+3497,Technical Content Writer,3/25/2019,Profile review,lost,Leslie Winkle,Spain,Dmitro  Lysenko,"$1,200"
+3498,Front-End Developer,3/25/2019,Application,lost,Leslie Winkle,United Kingdom,Olena  Omelyanyuk,$800
+3499,Technical Content Writer,3/25/2019,Test task,lost,Leslie Winkle,Ukraine,Agustín  Kopacki,$700
+3489,Data Analyst,3/24/2019,Application,lost,Leslie Winkle,Germany,Vlad  Tkachova,"$7,200"
+3491,Operations Manager,3/24/2019,Test task,lost,Raj Koothrappali,Netherlands,Sumit  Somalia,"$1,000"
+3492,Data Analyst,3/24/2019,Profile review,lost,Leslie Winkle,United States,Carlos Velasquez  Lysach,$700
+3488,Full Stack Engineer,3/23/2019,Profile review,lost,Sheldon Cooper,Brazil,Maria  Sobol,"$3,300"
+3482,Front-End Developer,3/22/2019,Application,lost,Leslie Winkle,Netherlands,Sivan  Skantsev,"$6,000"
+3483,Operations Manager,3/22/2019,Test task,lost,Raj Koothrappali,Canada,Łukasz   Victorino,"$1,600"
+3485,Chief Operating Officer,3/22/2019,Profile review,lost,Raj Koothrappali,India,Karina   Augustyn,"$3,900"
+3487,Data Analyst,3/22/2019,Profile review,lost,Leslie Winkle,France,Makeda   Dutchak,"$1,600"
+3476,Data Analyst,3/21/2019,Profile review,lost,Leslie Winkle,Canada,Kamil   Mohler,"$1,000"
+3477,Front-End Developer,3/21/2019,Test task,lost,Leslie Winkle,Germany,Yuriy  Hlebiv,"$1,800"
+3478,Operations Manager,3/21/2019,Application,lost,Raj Koothrappali,Canada,Yvonne  Atamanyuk,"$2,000"
+3479,Data Analyst,3/21/2019,Application,lost,Leslie Winkle,Brazil,Kemal  Graniczny,"$2,900"
+3480,Front-End Developer,3/21/2019,Profile review,lost,Leslie Winkle,Spain,Alex  Omurbekov,"$1,300"
+3481,Data Analyst,3/21/2019,Application,lost,Leslie Winkle,United Kingdom,Alla  Mulikov,"$4,600"
+3467,Data Analyst,3/20/2019,Profile review,lost,Leslie Winkle,Germany,Alessandro  Bhagat,$500
+3469,Operations Manager,3/20/2019,Profile review,lost,Raj Koothrappali,India,Anastasia  Simmons,"$3,300"
+3470,Front-End Developer,3/20/2019,Application,lost,Leslie Winkle,Singapore,Mayuri  Ghosh,$500
+3471,Data Analyst,3/20/2019,Application,lost,Leslie Winkle,Canada,Ilya  Dzhavala,"$6,000"
+3472,Data Analyst,3/20/2019,Application,lost,Leslie Winkle,Poland,Andrii  Rybalko,"$2,300"
+3474,Front-End Developer,3/20/2019,Application,lost,Leslie Winkle,Poland,Donovan  Sobański,"$3,000"
+3475,Product Manager,3/20/2019,Application,open,Howard Wolowitz,Ukraine,Alina  Fleszar,"$2,300"
+3461,Data Analyst,3/19/2019,Profile review,lost,Leslie Winkle,Spain,Kseniya  Prydarozhka,"$2,300"
+3462,Front-End Developer,3/19/2019,Test task,lost,Leslie Winkle,Ukraine,Theresia Gloria  Niepokoj,"$1,200"
+3463,Technical Content Writer,3/19/2019,Profile review,lost,Leslie Winkle,Sweeden,Anna-Mariia  Mikhushkin,$800
+3464,Front-End Developer,3/19/2019,Application,lost,Leslie Winkle,Singapore,Jason   Watkinson,$500
+3466,Data Analyst,3/19/2019,Profile review,lost,Leslie Winkle,Singapore,Ulan  Poliakova,"$1,600"
+3457,Data Analyst,3/18/2019,Profile review,lost,Leslie Winkle,Canada,Ivica  Kukharchuk,"$1,000"
+3458,Front-End Developer,3/18/2019,Test task,lost,Leslie Winkle,United Kingdom,Artem  Bhagat,"$1,500"
+3459,Front-End Developer,3/18/2019,Application,lost,Leslie Winkle,India,"Workers Solutions,   Dettrey","$1,300"
+3460,Front-End Developer,3/18/2019,Application,lost,Leslie Winkle,Germany,Donovan  Stan,$600
+3451,Front-End Developer,3/16/2019,Application,lost,Leslie Winkle,Poland,Iryna   Matviienko,"$1,000"
+3452,Data Analyst,3/16/2019,Profile review,lost,Leslie Winkle,France,Dmitriy  Soni,"$2,000"
+3453,Data Analyst,3/16/2019,Profile review,lost,Leslie Winkle,Canada,Konrad  Tokar,"$1,300"
+3454,Product Manager,3/16/2019,Application,lost,Sheldon Cooper,Canada,Yulia  Tracz,"$2,300"
+3455,Data Analyst,3/16/2019,Profile review,lost,Leslie Winkle,India,Piotr  Ahmad,"$2,600"
+3456,Data Analyst,3/16/2019,Test task,lost,Leslie Winkle,Ukraine,Elina  Rudenko,"$1,600"
+3441,Data Analyst,3/15/2019,Profile review,lost,Leslie Winkle,Ukraine,Victoria  Meservey,"$1,300"
+3442,Data Analyst,3/15/2019,Profile review,lost,Leslie Winkle,Netherlands,Armando  Andreychenko,"$1,000"
+3443,Data Analyst,3/15/2019,Profile review,lost,Leslie Winkle,Spain,Ilona  Arosemena,"$1,300"
+3444,Data Analyst,3/15/2019,Test task,lost,Leslie Winkle,France,yawar  Mieszczańczyk,"$1,300"
+3445,Technical Content Writer,3/15/2019,Application,lost,Leslie Winkle,Ukraine,Happy Estrella Estrella -  Reshetniak,$700
+3446,Technical Content Writer,3/15/2019,Application,lost,Leslie Winkle,Ukraine,Valerii  Haziyev,$700
+3447,Technical Content Writer,3/15/2019,Application,lost,Leslie Winkle,Ukraine,Anastasiia  Lysiuk,$700
+3448,Front-End Developer,3/15/2019,Application,lost,Leslie Winkle,France,Ruslana  Yemelianova,$200
+3449,Front-End Developer,3/15/2019,Test task,lost,Leslie Winkle,Sweeden,Sylwia  Morrow,"$1,600"
+3450,Full Stack Engineer,3/15/2019,Profile review,lost,Sheldon Cooper,Germany,Tomasz  Nikolaieva,"$3,900"
+3434,Full Stack Engineer,3/14/2019,Application,lost,Leslie Winkle,South Korea,Edyta   Bekric,"$3,300"
+3435,Operations Manager,3/14/2019,Profile review,lost,Raj Koothrappali,Spain,Paweł  Sereda,"$1,700"
+3436,Full Stack Engineer,3/14/2019,Test task,lost,Sheldon Cooper,Brazil,Avanish  Bieliakov,"$2,200"
+3437,Operations Manager,3/14/2019,Profile review,lost,Raj Koothrappali,France,Svetlana  Fabin,"$2,100"
+3438,Operations Manager,3/14/2019,Profile review,lost,Raj Koothrappali,Singapore,Anna  Omelyanyuk,"$1,600"
+3439,Technical Content Writer,3/14/2019,Test task,lost,Leslie Winkle,Poland,Radosław  Belagod,$800
+3429,Technical Content Writer,3/13/2019,Test task,lost,Leslie Winkle,Canada,Dmitriy  Pérez,$500
+3430,Technical Content Writer,3/13/2019,Application,lost,Leslie Winkle,Brazil,Tushar   Dunn,"$1,600"
+3431,Data Analyst,3/13/2019,Application,lost,Leslie Winkle,Sweeden,Maria  Jafarov,"$1,000"
+3432,Operations Manager,3/13/2019,Profile review,lost,Raj Koothrappali,India,Olga  Baranonvsky,"$2,900"
+3433,Product Manager,3/13/2019,Application,open,Howard Wolowitz,France,Oleksandra   Ushakova,"$2,900"
+3424,Data Analyst,3/12/2019,Offer,won,Raj Koothrappali,France,Vincent  Meesala,"$1,200"
+3425,Operations Manager,3/12/2019,Profile review,lost,Raj Koothrappali,Netherlands,Kate  Tummolo,"$1,000"
+3427,Technical Content Writer,3/12/2019,Profile review,lost,Leslie Winkle,Ukraine,Jason  Meimin Meimin,$300
+3428,Chief Operating Officer,3/12/2019,Profile review,lost,Raj Koothrappali,India,Yehor  Agostino,"$3,300"
+3412,Product Manager,3/11/2019,Application,lost,Sheldon Cooper,Brazil,Anastasiia  Popovychuk,"$6,000"
+3413,Front-End Developer,3/11/2019,RPI,lost,Sheldon Cooper,Poland,Volodymyr  Sevostianova,"$2,000"
+3414,Technical Content Writer,3/11/2019,Test task,lost,Leslie Winkle,Canada,Denys  Kunup,"$1,000"
+3415,Full Stack Engineer,3/11/2019,Application,lost,Leslie Winkle,Canada,Callum   Shabana,"$1,300"
+3416,Front-End Developer,3/11/2019,Application,lost,Leslie Winkle,Sweeden,Ivan  Shamrai,"$2,000"
+3417,Technical Content Writer,3/11/2019,Application,lost,Leslie Winkle,United Kingdom,Przemysław  Pidtykan,"$1,300"
+3418,Chief Operating Officer,3/11/2019,Profile review,lost,Raj Koothrappali,Brazil,Lena  Shpak,"$5,200"
+3419,Data Analyst,3/11/2019,Profile review,lost,Leslie Winkle,Brazil,Maksim  Dziuba,"$1,000"
+3420,Operations Manager,3/11/2019,Profile review,lost,Raj Koothrappali,United States,Giorgos   Railean,"$6,000"
+3421,Front-End Developer,3/11/2019,Application,lost,Leslie Winkle,Canada,Andriy   Waterman,"$3,300"
+3406,Technical Content Writer,3/10/2019,Profile review,lost,Leslie Winkle,Canada,Kalys   Usman,"$1,000"
+3407,Operations Manager,3/10/2019,Culture fit / Skill Matrix,lost,Raj Koothrappali,South Korea,Yuliia   Marchenko,"$2,000"
+3408,Operations Manager,3/10/2019,Profile review,lost,Raj Koothrappali,Brazil,Michał   Krishnan,"$2,400"
+3409,Product Manager,3/10/2019,Application,lost,Sheldon Cooper,France,Anna  Korshun,"$2,100"
+3410,Data Analyst,3/10/2019,Application,lost,Leslie Winkle,France,Jesus  Babbitt,$600
+3411,Chief Operating Officer,3/10/2019,Test task,lost,Raj Koothrappali,Singapore,Aleksandr  Diachenko,"$4,600"
+3401,Data Analyst,3/8/2019,Profile review,lost,Leslie Winkle,Germany,Yvonne  Siereńska,"$2,000"
+3402,Chief Operating Officer,3/8/2019,Profile review,lost,Raj Koothrappali,Netherlands,David  Stavrianaki,"$6,000"
+3404,Chief Operating Officer,3/8/2019,Profile review,lost,Raj Koothrappali,Germany,Carlos Velasquez  Martynenko,"$6,000"
+3405,Recruiter,3/8/2019,Profile review,lost,Raj Koothrappali,Spain,Mendhie Emmanuel  Kolezhniuk,"$2,600"
+3392,Technical Content Writer,3/7/2019,Application,lost,Leslie Winkle,Canada,Eugenia  Mirzazada,"$2,300"
+3393,Operations Manager,3/7/2019,Profile review,lost,Raj Koothrappali,Germany,Dmitro  Tokar,"$1,000"
+3394,Technical Content Writer,3/7/2019,Test task,lost,Leslie Winkle,Singapore,Khrystyna  Bajic,$700
+3395,Front-End Developer,3/7/2019,Application,lost,Leslie Winkle,France,Olga  Burzynski,"$2,900"
+3396,Operations Manager,3/7/2019,Test task,lost,Raj Koothrappali,Canada,Alice  Kvochkin,"$2,000"
+3397,Chief Operating Officer,3/7/2019,Prescreen call,lost,Raj Koothrappali,Brazil,Ekta Dhalkari  Stan,"$4,600"
+3398,Operations Manager,3/7/2019,Profile review,lost,Raj Koothrappali,Spain,Dmytro  Naprienko,"$3,300"
+3400,Full Stack Engineer,3/7/2019,Test task,lost,Sheldon Cooper,France,Lukasz  Kuchmarenko,"$2,300"
+3384,Technical Content Writer,3/6/2019,Test task,lost,Leslie Winkle,Spain,Miguel  Pirowski,"$1,000"
+3385,Operations Manager,3/6/2019,Profile review,lost,Raj Koothrappali,Germany,Olena  Andres  Ramos,$700
+3386,Chief Operating Officer,3/6/2019,RPI,lost,Raj Koothrappali,Poland,Oleh  Tummolo,"$3,800"
+3387,Front-End Developer,3/6/2019,Test task,lost,Leslie Winkle,India,Dmytro  Eremenko,"$1,100"
+3388,Product Manager,3/6/2019,Application,lost,Sheldon Cooper,Ukraine,Gayane  Semakov,"$6,000"
+3389,Operations Manager,3/6/2019,Profile review,lost,Raj Koothrappali,Canada,Kateryna  Ivanov,"$1,600"
+3390,Full Stack Engineer,3/6/2019,Test task,lost,Sheldon Cooper,Singapore,Rais Patel   Vivchar,"$2,600"
+3377,Operations Manager,3/5/2019,Prescreen call,lost,Raj Koothrappali,Poland,Olga  Mikhailets,"$1,800"
+3378,Technical Content Writer,3/5/2019,Application,lost,Leslie Winkle,Ukraine,Olena  Grigoriev,"$1,000"
+3379,Technical Content Writer,3/5/2019,Profile review,lost,Leslie Winkle,Ukraine,Oksana  Matsiuk,"$1,400"
+3380,Product Manager,3/5/2019,Application,lost,Sheldon Cooper,Ukraine,Artur  Belkhojayev,"$2,300"
+3381,Data Analyst,3/5/2019,Profile review,lost,Leslie Winkle,Canada,Serhii  Ramnath Ramnath,"$1,000"
+3382,Full Stack Engineer,3/5/2019,Profile review,lost,Sheldon Cooper,Brazil,Todor  Elumalai,"$4,600"
+3356,Operations Manager,3/4/2019,Test task,lost,Raj Koothrappali,South Korea,Oleksandr  Dzindzibadze,"$1,300"
+3357,Technical Content Writer,3/4/2019,Application,lost,Leslie Winkle,Poland,Ivan  Levitsky,$400
+3358,Technical Content Writer,3/4/2019,Application,lost,Leslie Winkle,Singapore,Mykola  Marchenko,"$3,900"
+3359,Front-End Developer,3/4/2019,Application,lost,Leslie Winkle,Poland,Venkata  Pnivchuk,"$1,600"
+3360,Video Editor,3/4/2019,Test task,lost,Raj Koothrappali,Germany,Omar  Gapanyuk,$100
+3361,Video Editor,3/4/2019,Offer,won,Raj Koothrappali,United Kingdom,Natalia  Homer-Earley,"$1,000"
+3362,Video Editor,3/4/2019,Profile review,lost,Raj Koothrappali,Canada,Eugene  Serbin,"$1,000"
+3363,Video Editor,3/4/2019,Profile review,lost,Raj Koothrappali,Germany,Dmitriy  Tibilashvili,"$1,000"
+3364,Video Editor,3/4/2019,Profile review,lost,Raj Koothrappali,Poland,Delton  Fujak,"$1,000"
+3365,Video Editor,3/4/2019,Test task,lost,Raj Koothrappali,Netherlands,Haseeb  Aminujatto,$200
+3366,Technical Content Writer,3/4/2019,Application,lost,Leslie Winkle,United States,Mateusz  Zdzieba,$600
+3367,Data Analyst,3/4/2019,Profile review,lost,Leslie Winkle,Singapore,Ievgen  Leahy,$300
+3368,Operations Manager,3/4/2019,Test task,lost,Raj Koothrappali,Brazil,Alex  Dmitrenko,"$1,600"
+3369,Technical Content Writer,3/4/2019,Test task,lost,Leslie Winkle,South Korea,Oluwafemi  Iskaziyev,$900
+3370,Product Manager,3/4/2019,Profile review,lost,Sheldon Cooper,Ukraine,Tetiana  Tyutyunov,"$2,600"
+3371,Front-End Developer,3/4/2019,Application,lost,Leslie Winkle,Sweeden,Olena  Campos,"$1,000"
+3372,Technical Content Writer,3/4/2019,Application,lost,Leslie Winkle,Poland,Melwyn  Stasko,"$1,000"
+3373,Technical Content Writer,3/4/2019,RPI,lost,Leslie Winkle,Ukraine,Iryna  Danylovych,"$1,000"
+3374,Product Manager,3/4/2019,Application,lost,Sheldon Cooper,South Korea,Tomasz  Doroschenko,"$2,000"
+3375,Data Analyst,3/4/2019,Profile review,lost,Leslie Winkle,Germany,Elena  Żukowska,$800
+3353,Data Analyst,3/3/2019,Profile review,lost,Leslie Winkle,Poland,Brian  Khrystych,"$2,700"
+3354,Data Analyst,3/3/2019,Test task,lost,Leslie Winkle,United Kingdom,Alicja  Butova,$800
+3355,Product Manager,3/3/2019,Application,lost,Sheldon Cooper,Netherlands,Sebastian  Khodyriev,"$2,300"
+3351,Operations Manager,3/2/2019,Profile review,lost,Raj Koothrappali,Spain,Alicja  Sidor,"$6,000"
+3352,Front-End Developer,3/2/2019,Test task,lost,Sheldon Cooper,Canada,Sebastian  Stryjakiewicz,"$1,200"
+3347,Operations Manager,3/1/2019,Test task,lost,Raj Koothrappali,Ukraine,Jeremy  Abyzov,$700
+3348,Technical Content Writer,3/1/2019,Prescreen call,lost,Leslie Winkle,United States,Ruth  Ewane,$600
+3349,Product Manager,3/1/2019,Application,lost,Sheldon Cooper,Sweeden,Daniel  Kammer,"$1,300"
+3350,Operations Manager,3/1/2019,Test task,lost,Raj Koothrappali,United States,Michał  Matviieva,$900
+3343,Data Analyst,2/28/2019,Profile review,lost,Leslie Winkle,Singapore,Sarah   Poole,$700
+3344,Operations Manager,2/28/2019,Profile review,lost,Raj Koothrappali,United Kingdom,Steven  Dzhavala,"$1,300"
+3345,Operations Manager,2/28/2019,Profile review,lost,Raj Koothrappali,France,Mubeen Tahir  Matthaioudaki,$800
+3346,Operations Manager,2/28/2019,RPI,lost,Raj Koothrappali,South Korea,Swethan  Khan,"$1,700"
+3334,Operations Manager,2/27/2019,Profile review,lost,Raj Koothrappali,Brazil,Tetyana  Kucher,"$1,100"
+3335,Operations Manager,2/27/2019,Test task,lost,Raj Koothrappali,Spain,Bogdan  YILMAZLAR,"$1,400"
+3336,Operations Manager,2/27/2019,Profile review,lost,Raj Koothrappali,Singapore,erekle  Smilsky,$700
+3337,Operations Manager,2/27/2019,Profile review,lost,Raj Koothrappali,Spain,Mehul  Graniczny,"$2,300"
+3338,Technical Content Writer,2/27/2019,Test task,lost,Leslie Winkle,Netherlands,Natalia   Anand,"$1,000"
+3339,Product Manager,2/27/2019,Application,lost,Sheldon Cooper,United States,Svetlana  Gordienco,"$1,700"
+3340,Operations Manager,2/27/2019,Test task,lost,Raj Koothrappali,United Kingdom,Olena  Tytov,"$1,600"
+3341,Data Analyst,2/27/2019,Test task,lost,Leslie Winkle,South Korea,Kate  Maruffi,"$1,200"
+3342,Full Stack Engineer,2/27/2019,Profile review,lost,Sheldon Cooper,Singapore,Karolina  Gartvich,"$1,000"
+3319,Front-End Developer,2/26/2019,Application,lost,Leslie Winkle,United States,Katarzyna  Pidmohylniy,"$2,700"
+3320,Operations Manager,2/26/2019,Profile review,lost,Raj Koothrappali,Germany,Valeriia   Novikov,"$3,300"
+3321,Operations Manager,2/26/2019,Test task,lost,Raj Koothrappali,Sweeden,Yehor  Gaidau,"$1,400"
+3322,Data Analyst,2/26/2019,Profile review,lost,Leslie Winkle,United States,Keifer   Maksymenko,"$1,100"
+3323,Data Analyst,2/26/2019,Profile review,lost,Leslie Winkle,Ukraine,Adharsh   Azuaje,"$1,300"
+3324,Operations Manager,2/26/2019,Test task,lost,Raj Koothrappali,France,Julia   Niepokoj,"$1,800"
+3325,Operations Manager,2/26/2019,Profile review,lost,Raj Koothrappali,Brazil,Katarzyna  MAMMADOVA,$600
+3326,Product Manager,2/26/2019,Application,lost,Sheldon Cooper,France,Ihor  Maleyev,"$3,300"
+3327,Operations Manager,2/26/2019,Profile review,lost,Raj Koothrappali,Brazil,Nasser  Banasik,"$1,400"
+3328,Operations Manager,2/26/2019,Profile review,lost,Raj Koothrappali,Brazil,Sylwia  Pavlova,$500
+3329,Operations Manager,2/26/2019,Profile review,lost,Raj Koothrappali,Germany,Olha  Golovatiuk,"$1,000"
+3330,Operations Manager,2/26/2019,Test task,lost,Raj Koothrappali,South Korea,Karina  Bekish,$700
+3331,Technical Content Writer,2/26/2019,Application,lost,Leslie Winkle,Ukraine,Anna-Mariia  Tereschenko,$300
+3332,Operations Manager,2/26/2019,Test task,lost,Raj Koothrappali,United Kingdom,Olga  Usachev,"$1,600"
+3333,Technical Content Writer,2/26/2019,Test task,lost,Leslie Winkle,Poland,Aravind  Sobol,$400
+3311,Chief Operating Officer,2/25/2019,Profile review,lost,Raj Koothrappali,Brazil,Aneesh  Dad,"$3,300"
+3313,Data Analyst,2/25/2019,Profile review,lost,Leslie Winkle,France,MUHAMMAD   Klimek,"$2,100"
+3314,Technical Content Writer,2/25/2019,Application,lost,Leslie Winkle,Germany,Marcin  Wysocki,"$1,000"
+3315,Chief Operating Officer,2/25/2019,Profile review,lost,Raj Koothrappali,United Kingdom,erekle   Gehrhardt,"$3,900"
+3316,Data Analyst,2/25/2019,Profile review,lost,Leslie Winkle,Singapore,Marcin  Koropenko,"$1,700"
+3317,Data Analyst,2/25/2019,Profile review,lost,Leslie Winkle,India,Andriy  Huk,"$6,000"
+3306,Technical Content Writer,2/24/2019,Application,lost,Leslie Winkle,India,Yvonne  Abyzov,"$1,000"
+3307,Front-End Developer,2/24/2019,Application,lost,Leslie Winkle,Canada,Neil Simon  Khmil,"$2,300"
+3308,Product Manager,2/24/2019,Application,lost,Sheldon Cooper,Poland,Carlos   Bunakov,"$1,700"
+3309,Data Analyst,2/24/2019,RPI,lost,Leslie Winkle,Sweeden,Daniel  Melnyk,"$1,000"
+3310,Front-End Developer,2/24/2019,RPI,lost,Leslie Winkle,Poland,Vika  Filipska,"$2,000"
+3304,Data Analyst,2/23/2019,Test task,lost,Leslie Winkle,United States,Alexander  Pushkar,$800
+3305,Data Analyst,2/23/2019,Profile review,lost,Leslie Winkle,France,Delton  Dhalkari Dhalkari,"$1,800"
+3281,Full Stack Engineer,2/22/2019,Application,lost,Leslie Winkle,United Kingdom,Ilya  Tierieshchienko,"$2,300"
+3282,Data Analyst,2/22/2019,Profile review,lost,Leslie Winkle,Netherlands,Mikita  Durkalec,"$1,000"
+3303,Operations Manager,2/22/2019,Application,lost,Leslie Winkle,Spain,Krzysztof  Lagas,"$1,300"
+3272,Data Analyst,2/21/2019,Profile review,lost,Leslie Winkle,Singapore,Olga  Murteza,"$1,500"
+3273,Technical Content Writer,2/21/2019,Profile review,lost,Leslie Winkle,India,John  Nwanganga,$500
+3274,Data Analyst,2/21/2019,Profile review,lost,Leslie Winkle,United States,Daria  Aulia Nugroho,$700
+3275,Data Analyst,2/21/2019,Profile review,lost,Leslie Winkle,India,Paulina  Rosołowski,"$1,300"
+3276,Technical Content Writer,2/21/2019,Test task,lost,Leslie Winkle,Singapore,Tamir   Kret,$500
+3277,Full Stack Engineer,2/21/2019,Profile review,lost,Sheldon Cooper,United Kingdom,Angelo  Knap,"$1,600"
+3278,Data Analyst,2/21/2019,Test task,lost,Leslie Winkle,South Korea,Arkadiusz   Bekric,"$2,000"
+3279,Data Analyst,2/21/2019,Profile review,lost,Leslie Winkle,Canada,Ilya  Jafarov,"$1,000"
+3280,Operations Manager,2/21/2019,Application,lost,Leslie Winkle,Singapore,Monica   Gutsal,$700
+3265,Data Analyst,2/20/2019,Profile review,lost,Leslie Winkle,Singapore,Serhii  Negrín,"$1,200"
+3266,Front-End Developer,2/20/2019,Application,lost,Leslie Winkle,Spain,Vladimir   Krishnan,$700
+3270,Full Stack Engineer,2/20/2019,Test task,lost,Sheldon Cooper,Sweeden,Vadzim   Yasinski,"$2,400"
+3256,Operations Manager,2/19/2019,Application,lost,Leslie Winkle,India,Zahra Hassan  shishniashvili,"$3,600"
+3259,Front-End Developer,2/19/2019,Application,lost,Leslie Winkle,Germany,Denys  Chumachenko,"$2,200"
+3261,Front-End Developer,2/19/2019,Application,lost,Leslie Winkle,Canada,Shalva  Volkova,"$2,700"
+3262,Data Analyst,2/19/2019,Profile review,lost,Leslie Winkle,Ukraine,Yevhen  Pasko,"$1,100"
+3264,Data Analyst,2/19/2019,Profile review,lost,Leslie Winkle,United States,Ihor  Gloria Simanjuntak,"$2,400"
+3253,Product Manager,2/18/2019,Application,lost,Sheldon Cooper,Germany,Natalia   Levitsky,"$2,400"
+3254,Front-End Developer,2/18/2019,Application,lost,Leslie Winkle,Ukraine,Vasylyna  Kovtun,"$3,300"
+3255,Operations Manager,2/18/2019,Profile review,lost,Raj Koothrappali,India,Serhii  Aslan,"$2,300"
+3250,Technical Content Writer,2/17/2019,Application,lost,Leslie Winkle,India,Zahra Hassan  Gordeev,"$1,000"
+3252,Front-End Developer,2/17/2019,Application,lost,Leslie Winkle,Poland,Grzegorz  Dunn,"$2,600"
+3245,Junior Full Stack Engineer,2/15/2019,Profile review,lost,Sheldon Cooper,Poland,Yehor  Buka,"$1,100"
+3246,Front-End Developer,2/15/2019,Application,lost,Leslie Winkle,Poland,Alise   Moss,"$1,000"
+3248,Full Stack Engineer,2/15/2019,Application,lost,Leslie Winkle,Brazil,Tamir  Haziyev,"$1,000"
+3239,Product Manager,2/14/2019,Application,lost,Sheldon Cooper,Netherlands,Sarah   Sandru,"$2,900"
+3240,Front-End Developer,2/14/2019,Application,lost,Leslie Winkle,Spain,Alexandr  Wold,$400
+3241,Front-End Developer,2/14/2019,Test task,lost,Leslie Winkle,South Korea,Valentine  Millares,"$1,900"
+3242,Front-End Developer,2/14/2019,Test task,lost,Leslie Winkle,France,Orest  Khmel,"$1,800"
+3243,Front-End Developer,2/14/2019,Application,lost,Leslie Winkle,Germany,Ewa  Kryniewska,$700
+3244,Front-End Developer,2/14/2019,Application,lost,Leslie Winkle,United States,Magdalena  Urzyńska,"$3,600"
+3232,Technical Content Writer,2/13/2019,Application,lost,Leslie Winkle,United Kingdom,Mikayel  Poole,"$1,400"
+3233,Full Stack Engineer,2/13/2019,Profile review,lost,Sheldon Cooper,Singapore,Anna   D ghosh,"$6,000"
+3235,Operations Manager,2/13/2019,Profile review,lost,Raj Koothrappali,Ukraine,Svetlana  Nyzhnyk,"$4,600"
+3236,Operations Manager,2/13/2019,Application,lost,Leslie Winkle,Germany,Natalya   Kovalova,"$5,200"
+3237,Chief Operating Officer,2/13/2019,Profile review,lost,Raj Koothrappali,Brazil,Kushagra  Yerin,"$2,300"
+3231,Operations Manager,2/12/2019,Profile review,lost,Raj Koothrappali,Singapore,Marcin  Ramirez,"$2,500"
+3225,Operations Manager,2/11/2019,Application,lost,Leslie Winkle,Sweeden,Ulan  Kartel,"$1,600"
+3226,Technical Content Writer,2/11/2019,Application,lost,Leslie Winkle,Spain,Iaroslav  Gapanyuk,$700
+3228,Technical Content Writer,2/11/2019,Profile review,lost,Leslie Winkle,Canada,Crispin Blasse  Leger,"$1,300"
+3229,Product Manager,2/11/2019,Application,lost,Sheldon Cooper,Ukraine,Mariusz   Quadri,"$3,100"
+3230,Technical Content Writer,2/11/2019,Application,lost,Leslie Winkle,Netherlands,Kirill  Vergun,$700
+3224,Product Manager,2/10/2019,Application,lost,Sheldon Cooper,Sweeden,Vanda  Gibbons,"$5,400"
+3220,Front-End Developer,2/9/2019,Application,lost,Leslie Winkle,United Kingdom,Rodrigue  Patel  Patel,"$1,000"
+3222,Full Stack Engineer,2/9/2019,Application,lost,Leslie Winkle,Germany,Valentyna  Tomashevsky,$700
+3218,Front-End Developer,2/8/2019,Application,lost,Leslie Winkle,Spain,Valentyn  Ivashkiv,"$2,300"
+3219,Front-End Developer,2/8/2019,Test task,lost,Leslie Winkle,India,PAWEL  Yerin,"$1,000"
+3216,Full Stack Engineer,2/7/2019,Application,lost,Leslie Winkle,Canada,Ines  Pourmand,"$1,400"
+3217,Technical Content Writer,2/7/2019,Application,lost,Leslie Winkle,Canada,Elisa  Ibegbulem,$700
+3207,Operations Manager,2/6/2019,Application,lost,Leslie Winkle,India,Dmytro   Anishina,"$2,900"
+3208,Full Stack Engineer,2/6/2019,Application,lost,Leslie Winkle,France,Vasyl  Iakobidze Iakobidze,"$1,600"
+3209,Operations Manager,2/6/2019,Application,lost,Leslie Winkle,Spain,Brian  Kryshevych,"$2,300"
+3210,Full Stack Engineer,2/6/2019,Offer,won,Sheldon Cooper,Netherlands,Serhii  Meservey,"$2,200"
+3211,Operations Manager,2/6/2019,Application,lost,Leslie Winkle,Poland,Varun  khan,"$1,700"
+3212,Full Stack Engineer,2/6/2019,RPI,lost,Sheldon Cooper,Singapore,Roman  Al Nasser,"$2,300"
+3213,Operations Manager,2/6/2019,Profile review,lost,Leslie Winkle,Ukraine,Andrey  Koretsky,"$6,000"
+3214,Technical Content Writer,2/6/2019,Profile review,lost,Leslie Winkle,Spain,Yevhen   Ahmad,$500
+3215,Full Stack Engineer,2/6/2019,Profile review,lost,Sheldon Cooper,Spain,Elnur  Thomson,"$4,200"
+3205,Technical Content Writer,2/5/2019,Profile review,lost,Leslie Winkle,Brazil,Anton  Joniec,$800
+3206,Technical Content Writer,2/5/2019,Test task,lost,Leslie Winkle,Ukraine,Kaushal Doshi  Carter,$600
+3199,Technical Content Writer,2/4/2019,Application,lost,Leslie Winkle,Canada,Roman  Chumachenko,"$1,300"
+3200,Operations Manager,2/4/2019,Profile review,lost,Raj Koothrappali,Singapore,Daria  Brańka,"$3,100"
+3202,Chief Operating Officer,2/4/2019,Prescreen call,lost,Raj Koothrappali,Singapore,Jarosław  Tretiak,"$5,200"
+3203,Front-End Developer,2/4/2019,Test task,lost,Leslie Winkle,India,Marina  Saladra,"$1,400"
+3204,Front-End Developer,2/4/2019,Profile review,lost,Leslie Winkle,Poland,Alex  Kovner,"$2,400"
+3198,Full Stack Engineer,2/3/2019,Profile review,lost,Sheldon Cooper,France,Anshu    PAUL,"$2,000"
+3197,Front-End Developer,2/2/2019,Application,lost,Leslie Winkle,Sweeden,Alina  Malenkov,"$3,300"
+3193,Operations Manager,1/31/2019,Profile review,lost,Raj Koothrappali,Germany,Alina  Kisilyov,"$6,000"
+3194,Junior Full Stack Engineer,1/31/2019,Test task,lost,Sheldon Cooper,United States,Vyacheslav   Yannos,"$2,300"
+3195,Technical Content Writer,1/31/2019,Profile review,lost,Leslie Winkle,Brazil,Vasylyna  Yankovska,"$1,500"
+3196,Front-End Developer,1/31/2019,Test task,lost,Leslie Winkle,Sweeden,Denis  ILNICKI,"$2,700"
+3191,Operations Manager,1/30/2019,Application,lost,Leslie Winkle,Ukraine,Sujith  Khrabrov,"$5,900"
+3192,Product Manager,1/30/2019,Profile review,lost,Sheldon Cooper,Netherlands,Mohammad  Garg,"$3,300"
+3186,Technical Content Writer,1/29/2019,Application,lost,Leslie Winkle,Sweeden,Mykola  Wilson,"$1,700"
+3187,Product Manager,1/29/2019,Profile review,lost,Sheldon Cooper,Sweeden,Vladislav  Ilyash,"$6,000"
+3188,Technical Content Writer,1/29/2019,Application,lost,Leslie Winkle,Singapore,Daryna  Drugova,"$1,600"
+3189,Technical Content Writer,1/29/2019,Profile review,lost,Leslie Winkle,Canada,Grygorii  Ghosh,$800
+3190,Operations Manager,1/29/2019,Profile review,lost,Raj Koothrappali,Germany,Rostyslav  Kityk,"$1,700"
+3182,Chief Operating Officer,1/28/2019,Profile review,lost,Raj Koothrappali,United States,Dmitry  Lobanova,"$5,900"
+3183,Operations Manager,1/28/2019,Profile review,lost,Raj Koothrappali,Singapore,Hassan  Yusko,"$3,100"
+3184,Full Stack Engineer,1/28/2019,Profile review,lost,Sheldon Cooper,Ukraine,Konrad  Stasko,"$2,200"
+3181,Operations Manager,1/27/2019,Profile review,lost,Raj Koothrappali,France,Olga  Sushchuk,"$4,200"
+3179,Technical Content Writer,1/26/2019,Application,lost,Leslie Winkle,Spain,Krystal   Davydov,"$4,200"
+3180,Operations Manager,1/26/2019,Profile review,lost,Raj Koothrappali,Canada,Maximilian  Verkunich,"$2,700"
+3174,Product Manager,1/25/2019,Profile review,lost,Sheldon Cooper,India,Aditya   Shah,"$3,900"
+3175,Junior Full Stack Engineer,1/25/2019,Profile review,lost,Sheldon Cooper,Canada,Łukasz  Zhukov,$500
+3176,Full Stack Engineer,1/25/2019,Offer,won,Sheldon Cooper,United States,Oleg  Kulakov,"$2,300"
+3177,Front-End Developer,1/25/2019,Application,lost,Leslie Winkle,Poland,Chrystyna  Arenas,$600
+3178,Technical Content Writer,1/25/2019,Application,lost,Leslie Winkle,Canada,nishanth  Kulgawczuk,"$1,000"
+3167,Front-End Developer,1/24/2019,Profile review,lost,Sheldon Cooper,Poland,Jatin  Blasse Blasse,"$3,900"
+3168,Technical Content Writer,1/24/2019,Application,lost,Leslie Winkle,Netherlands,Zahra Hassan   Rodousakis,"$1,300"
+3169,Operations Manager,1/24/2019,Profile review,lost,Raj Koothrappali,Germany,Jamie  singh,"$2,900"
+3170,Product Manager,1/24/2019,Profile review,lost,Sheldon Cooper,Netherlands,Nikita  Wen,"$2,900"
+3171,Operations Manager,1/24/2019,Profile review,lost,Raj Koothrappali,Brazil,Oleg  Tomaszewski-Guillon,"$3,300"
+3173,Full Stack Engineer,1/24/2019,Profile review,lost,Sheldon Cooper,Poland,Anton   Szewczyk,"$1,600"
+3163,Technical Content Writer,1/23/2019,Test task,lost,Leslie Winkle,Spain,Anastasia   Maximov,$500
+3164,Front-End Developer,1/23/2019,Test task,lost,Leslie Winkle,Singapore,Piotr  Papoutsellis,"$2,400"
+3166,Front-End Developer,1/23/2019,Application,lost,Leslie Winkle,Sweeden,Akshit  Gyrenko,$700
+3159,Full Stack Engineer,1/22/2019,Profile review,lost,Sheldon Cooper,United States,Anna   Floyd,"$5,500"
+3160,Technical Content Writer,1/22/2019,Application,lost,Leslie Winkle,India,Nina   Santos,$700
+3161,Operations Manager,1/22/2019,Profile review,lost,Raj Koothrappali,Spain,Chandni Verma   Holca,"$7,800"
+3162,Front-End Developer,1/22/2019,Profile review,lost,Sheldon Cooper,Germany,Olena  Levaneuski-Peravozchykau,$600
+3148,Operations Manager,1/21/2019,Profile review,lost,Raj Koothrappali,Ukraine,karthikeyan   Uridia,"$1,500"
+3149,Technical Content Writer,1/21/2019,Application,lost,Leslie Winkle,Brazil,Igor   Zaleski,"$1,000"
+3152,Full Stack Engineer,1/21/2019,Test task,lost,Sheldon Cooper,Singapore,Cedric  Khrystych,"$3,300"
+3154,Technical Content Writer,1/21/2019,Test task,lost,Leslie Winkle,Ukraine,Tamer Al  Sankowska Sankowska,$600
+3155,Front-End Developer,1/21/2019,Application,lost,Leslie Winkle,Spain,Karina  Deundiak,$400
+3156,Technical Content Writer,1/21/2019,Profile review,lost,Leslie Winkle,United Kingdom,Alexander  Pai,$600
+3157,Technical Content Writer,1/21/2019,Profile review,lost,Leslie Winkle,South Korea,Obodugo  Tiwari,$800
+3158,Technical Content Writer,1/21/2019,Application,lost,Leslie Winkle,France,Melwyn  Marchenko,"$1,100"
+3146,Operations Manager,1/20/2019,Profile review,lost,Raj Koothrappali,Brazil,Olexander  Shemet,$900
+3143,Front-End Developer,1/19/2019,Application,lost,Leslie Winkle,Germany,Tatiana  Didukh,"$1,300"
+3144,Front-End Developer,1/19/2019,Application,lost,Leslie Winkle,Netherlands,Jozef  Bibik,"$1,000"
+3145,Technical Content Writer,1/19/2019,Application,lost,Leslie Winkle,Sweeden,Karina  Haziyev,"$2,000"
+3141,Operations Manager,1/18/2019,Profile review,lost,Raj Koothrappali,Brazil,Andriy  Melnychuk,"$3,300"
+3142,Technical Content Writer,1/18/2019,Application,lost,Leslie Winkle,Canada,Michael  Zdybel,"$3,300"
+3138,Technical Content Writer,1/17/2019,Application,lost,Leslie Winkle,Germany,Iryna  Kadzielawa,"$1,300"
+3139,Operations Manager,1/17/2019,Profile review,lost,Raj Koothrappali,Poland,Anna  Malikzada,"$1,500"
+3140,Product Manager,1/17/2019,Profile review,lost,Sheldon Cooper,Ukraine,Bartosz  Gutsal,"$1,800"
+3128,Front-End Developer,1/16/2019,Profile review,lost,Leslie Winkle,Netherlands,Alex  Tyshchenko,"$2,600"
+3129,Front-End Developer,1/16/2019,Profile review,lost,Leslie Winkle,South Korea,Anna   Leon,"$1,600"
+3131,Front-End Developer,1/16/2019,Application,lost,Leslie Winkle,Ukraine,Valentina  Kasian,$700
+3132,Front-End Developer,1/16/2019,Application,lost,Leslie Winkle,Netherlands,Navin  Martynenko,"$1,300"
+3135,Operations Manager,1/16/2019,Profile review,lost,Raj Koothrappali,Netherlands,Justyna  Djamanbalaev,"$1,600"
+3136,Technical Content Writer,1/16/2019,Application,lost,Leslie Winkle,South Korea,Mario  Zymovets,"$1,600"
+3137,Technical Content Writer,1/16/2019,Application,lost,Leslie Winkle,Brazil,VLADYSLAV  Bratun,$700
+3121,Operations Manager,1/15/2019,Profile review,lost,Raj Koothrappali,India,Andrew Troukha  Torn,"$2,600"
+3122,Operations Manager,1/15/2019,Profile review,lost,Raj Koothrappali,Singapore,Shashank   Kachan,"$6,000"
+3123,Front-End Developer,1/15/2019,Application,lost,Leslie Winkle,Spain,Khrystyna  Vergun,"$2,000"
+3125,Operations Manager,1/15/2019,Profile review,lost,Raj Koothrappali,Germany,António  Khmil,"$3,300"
+3126,Operations Manager,1/15/2019,Profile review,lost,Raj Koothrappali,Sweeden,Diogo  Walusiak,"$6,000"
+3127,Chief Operating Officer,1/15/2019,Profile review,lost,Raj Koothrappali,Netherlands,Oleksandr  Lapin,"$1,900"
+3109,Product Manager,1/14/2019,Application,lost,Leslie Winkle,United States,Olexander   Akauba,"$6,000"
+3110,Technical Content Writer,1/14/2019,Profile review,lost,Leslie Winkle,Germany,Tihmene Baliński,$500
+3111,Full Stack Engineer,1/14/2019,Test task,lost,Sheldon Cooper,Netherlands,Kirill  Zakhozhyi,"$2,600"
+3112,Operations Manager,1/14/2019,Profile review,lost,Raj Koothrappali,Netherlands,Igor  Gudzenko,"$2,300"
+3113,Product Manager/Project Manager,1/14/2019,Profile review,lost,Sheldon Cooper,South Korea,Iryna  Bondarets,"$2,500"
+3114,Operations Manager,1/14/2019,Profile review,lost,Raj Koothrappali,Canada,Kseniia  Miniailenko,"$1,000"
+3115,Front-End Developer,1/14/2019,Application,lost,Leslie Winkle,Poland,Javier Saez  Deundiak,"$6,000"
+3116,Front-End Developer,1/14/2019,Application,lost,Leslie Winkle,Netherlands,Valerii  Trachim,"$2,600"
+3117,Operations Manager,1/14/2019,Profile review,lost,Raj Koothrappali,Poland,Piotr  Kuznietsov,$300
+3118,Chief Operating Officer,1/14/2019,Profile review,lost,Raj Koothrappali,South Korea,Kirill  Gafinov,"$6,500"
+3119,Operations Manager,1/14/2019,Profile review,lost,Raj Koothrappali,United States,Maciej  Risteska Taseski,$800
+3105,Front-End Developer,1/13/2019,Application,lost,Leslie Winkle,United States,Eugenia  Hassan Hassan,"$1,300"
+3106,Operations Manager,1/13/2019,Profile review,lost,Raj Koothrappali,France,Nicholas  Noel De Leon,$800
+3107,Front-End Developer,1/13/2019,Application,lost,Leslie Winkle,South Korea,Anatolii  Zhukov,$700
+3108,Operations Manager,1/13/2019,Profile review,lost,Raj Koothrappali,Spain,Daniel  McDonald,"$6,000"
+3100,Link Building And Outreach Specialist,1/12/2019,Application,lost,Leslie Winkle,Sweeden,Marek  Borzykh,"$2,900"
+3102,Product Manager,1/12/2019,Profile review,lost,Sheldon Cooper,Germany,Muhammad Rajib  Yanchiy,"$3,300"
+3103,Technical Content Writer,1/12/2019,Application,lost,Leslie Winkle,Spain,Artem   Maximov,"$6,000"
+3104,Front-End Developer,1/12/2019,Application,lost,Leslie Winkle,Germany,Yevhen  Stasko,"$2,900"
+3092,Full Stack Engineer,1/11/2019,Test task,lost,Sheldon Cooper,Spain,Anastasiia  Jakubowska,"$2,000"
+3093,Technical Content Writer,1/11/2019,Application,lost,Leslie Winkle,Ukraine,Olga  Golovtseva,"$2,900"
+3094,SEO Expert,1/11/2019,Application,lost,Leslie Winkle,Germany,Monika  Homer-Earley,"$1,300"
+3095,Front-End Developer,1/11/2019,Application,lost,Leslie Winkle,France,Matteo  Majewski,"$1,900"
+3096,Operations Manager,1/11/2019,Profile review,lost,Raj Koothrappali,United States,Kamil  Geval,"$2,600"
+3097,Chief Operating Officer,1/11/2019,Profile review,lost,Raj Koothrappali,Sweeden,Alina   Novozhylova,"$3,300"
+3098,Operations Manager,1/11/2019,Profile review,lost,Raj Koothrappali,South Korea,Ilya  Souidi,"$1,300"
+3099,Technical Content Writer,1/11/2019,Application,lost,Leslie Winkle,Spain,Anna-Mariia  Rudzevcih,"$1,000"
+3088,Full Stack Engineer,1/10/2019,Test task,lost,Sheldon Cooper,Brazil,Yevhen  Burson,"$1,000"
+3091,Full Stack Engineer,1/10/2019,Profile review,lost,Sheldon Cooper,Poland,Paulina  Hussain,"$2,100"
+3082,Full Stack Engineer,1/9/2019,Profile review,lost,Sheldon Cooper,France,Andrey  Antnonova,"$1,400"
+3083,Technical Content Writer,1/9/2019,Profile review,lost,Leslie Winkle,Poland,Oleksandr   Obrzut,$800
+3084,Front-End Developer,1/9/2019,Test task,lost,Leslie Winkle,South Korea,Oleksandra  Shevchenko,"$1,500"
+3085,Front-End Developer,1/9/2019,Profile review,lost,Leslie Winkle,Singapore,Anna  O,"$1,400"
+3076,Full Stack Engineer,1/8/2019,Test task,lost,Sheldon Cooper,India,Kateryna  Kushnaryov,"$2,000"
+3077,Product Manager,1/8/2019,Profile review,lost,Leslie Winkle,Canada,Yaroslav  Rusiecka Azgour,"$5,900"
+3078,Product Manager,1/8/2019,Profile review,lost,Sheldon Cooper,Canada,Mikołaj  Bolat,"$3,300"
+3079,Product Manager,1/8/2019,Profile review,lost,Sheldon Cooper,Canada,Irina  Khrabrov,$300
+3080,Front-End Developer,1/8/2019,Application,lost,Leslie Winkle,United States,Nikita  Varnin,"$1,000"
+3081,Front-End Developer,1/8/2019,Profile review,lost,Leslie Winkle,United Kingdom,Osegbemoh  Iuzikov,"$1,600"
+3073,Front-End Developer,1/7/2019,Application,lost,Leslie Winkle,India,Sergey  Rodriguez,"$1,000"
+3074,Technical Content Writer,1/7/2019,Application,lost,Leslie Winkle,Canada,Mary  Botelho,"$4,200"
+3075,Product Manager/Project Manager,1/7/2019,Profile review,lost,Sheldon Cooper,Singapore,Anton   Krzysztofek,"$3,100"
+3070,Technical Content Writer,1/4/2019,Profile review,lost,Leslie Winkle,Sweeden,Kostya  Agostino,"$1,100"
+3071,Technical Content Writer,1/4/2019,Profile review,lost,Leslie Winkle,Spain,Magdalena  Dhalkari Dhalkari,$800
+3068,Link Building And Outreach Specialist,1/3/2019,Profile review,lost,Leslie Winkle,Brazil,Dima  Arosemena,$600
+3069,Technical Content Writer,1/3/2019,Test task,lost,Leslie Winkle,Sweeden,Miguel   Kumar,"$1,000"
+3065,Full Stack Engineer,1/2/2019,Profile review,lost,Leslie Winkle,United Kingdom,Mohsun  Anzel,"$6,000"
+3066,Technical Content Writer,1/2/2019,Application,lost,Leslie Winkle,Singapore,Olga  Koretsky,$500
+3067,Technical Content Writer,1/2/2019,Profile review,lost,Leslie Winkle,Spain,Serhii  Gapanyuk,$700
+3063,Operations Manager,1/1/2019,Profile review,lost,Raj Koothrappali,India,Yuliia  Stadnichenko,"$2,300"
+3062,Operations Manager,12/31/2018,Profile review,lost,Raj Koothrappali,Poland,Nikolay  Duklewski,"$3,300"
+3059,Product Manager,12/30/2018,Profile review,lost,Leslie Winkle,India,Mariusz  Kruhlikova,"$3,900"
+3061,Chief Operating Officer,12/30/2018,Profile review,lost,Raj Koothrappali,Netherlands,Paulina  Fediaiev,"$6,000"
+3056,Technical Content Writer,12/28/2018,Profile review,lost,Leslie Winkle,Germany,Andriy  Vorobyova,"$1,000"
+3057,Full Stack Engineer,12/28/2018,Application,lost,Leslie Winkle,Ukraine,Heidi  Lishchynovskyi,"$2,300"
+3058,Link Building And Outreach Specialist,12/28/2018,Profile review,lost,Leslie Winkle,Germany,Anatolii  Leusenko,"$1,300"
+3053,Full Stack Engineer,12/27/2018,Profile review,lost,Leslie Winkle,South Korea,Ilya  Manuylov,"$2,000"
+3054,Operations Manager,12/27/2018,Test task,lost,Raj Koothrappali,Netherlands,Vladimir  Beliyeva,"$1,300"
+3055,Technical Content Writer,12/27/2018,Application,lost,Leslie Winkle,India,Vasyl  Gurjar,"$6,000"
+3052,Operations Manager,12/25/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Alina   Hrynchuk,"$2,000"
+3049,Operations Manager,12/24/2018,Profile review,lost,Raj Koothrappali,Canada,Alexandre  Truskavetska,"$3,900"
+3050,Technical Content Writer,12/24/2018,Profile review,lost,Leslie Winkle,United States,Sergey  Shulgesterova,$500
+3051,Full Stack Engineer,12/24/2018,Profile review,lost,Sheldon Cooper,United States,Anna  Sudan,"$3,300"
+3048,Front-End Developer,12/23/2018,Application,lost,Leslie Winkle,Sweeden,Sana  Gilbertson,$700
+3046,Front-End Developer,12/22/2018,Application,lost,Leslie Winkle,Netherlands,Anthony  Badyka,$500
+3042,Front-End Developer,12/20/2018,Test task,lost,Sheldon Cooper,United States,Ievgen  Zambrano,"$3,300"
+3045,Product Manager,12/20/2018,Profile review,lost,Sheldon Cooper,Poland,Mykhailo  Okeke,"$1,700"
+3038,Technical Content Writer,12/19/2018,Profile review,lost,Leslie Winkle,South Korea,Andrii  Tsaruk,"$1,000"
+3039,Technical Content Writer,12/19/2018,Prescreen call,lost,Leslie Winkle,Poland,Alina  Martynenko,"$1,100"
+3040,Technical Content Writer,12/19/2018,Application,lost,Leslie Winkle,United States,Pawel  Shevchenko,$500
+3041,Technical Content Writer,12/19/2018,Application,lost,Leslie Winkle,Brazil,VladaV  Brynza,"$1,300"
+3035,Full Stack Engineer,12/18/2018,Profile review,lost,Sheldon Cooper,Singapore,Tamara   Shchukin,"$1,300"
+3036,Operations Manager,12/18/2018,Profile review,lost,Raj Koothrappali,Spain,Yevhen   Savytska,"$3,900"
+3037,Technical Content Writer,12/18/2018,Profile review,lost,Leslie Winkle,United States,Yana  Khusuma,$500
+3033,Full Stack Engineer,12/17/2018,Profile review,lost,Leslie Winkle,Poland,Elina  Rippa,"$6,000"
+3034,Full Stack Engineer,12/17/2018,Full Day,lost,Sheldon Cooper,Spain,Tushar   Chikunova,"$2,800"
+3030,Front-End Developer,12/16/2018,Profile review,lost,Leslie Winkle,United Kingdom,Oleksii  Sidko,"$4,600"
+3032,Product Manager,12/16/2018,Profile review,lost,Sheldon Cooper,Spain,Paweł  Zhylina,"$3,300"
+3027,Product Manager,12/14/2018,Profile review,lost,Leslie Winkle,Singapore,Dmitriy  Gothi,"$6,000"
+3029,Chief Operating Officer,12/14/2018,Profile review,lost,Raj Koothrappali,Sweeden,Oleksandra  Chekh,"$3,400"
+3025,Link Building And Outreach Specialist,12/13/2018,Profile review,lost,Leslie Winkle,South Korea,Michał  Susiak,$700
+3026,Product Manager,12/13/2018,Profile review,lost,Sheldon Cooper,Germany,Anna  saleba,"$3,300"
+3024,Technical Content Writer,12/12/2018,Profile review,lost,Leslie Winkle,United Kingdom,Yaroslav   Zamula,"$6,000"
+3013,Full Stack Engineer,12/11/2018,Test task,lost,Sheldon Cooper,India,Andrey  Herashchenko,"$2,900"
+3009,Full Stack Engineer,12/10/2018,RPI,lost,Sheldon Cooper,Ukraine,Eduard  Buka,"$1,600"
+3010,Chief Operating Officer,12/10/2018,Profile review,lost,Raj Koothrappali,Netherlands,Zlatan   Tiwari,"$6,500"
+3011,Operations Manager,12/10/2018,Profile review,lost,Raj Koothrappali,France,Dmitry  Aleem,"$2,700"
+3012,Full Stack Engineer,12/10/2018,Test task,lost,Sheldon Cooper,Sweeden,Oleh   Fytsyk,"$3,100"
+3008,Front-End Developer,12/9/2018,Profile review,lost,Leslie Winkle,Ukraine,Sumit  Tertyshnyi,"$2,300"
+3007,Front-End Developer,12/8/2018,Profile review,lost,Sheldon Cooper,United Kingdom,Onat  Bodlev,"$2,600"
+3003,Full Stack Engineer,12/7/2018,Profile review,lost,Sheldon Cooper,Canada,Srivalli  Bletsas,"$1,300"
+3004,Front-End Developer,12/7/2018,Profile review,lost,Leslie Winkle,Singapore,Michael  Rao,"$3,500"
+3005,Front-End Developer,12/7/2018,Application,lost,Leslie Winkle,Spain,Olga  Rysdahl,"$1,600"
+3006,Full Stack Engineer,12/7/2018,Profile review,lost,Sheldon Cooper,Ukraine,Iuliia  Khodyriev,"$1,600"
+2999,Link Building And Outreach Specialist,12/6/2018,Test task,lost,Leslie Winkle,Singapore,Victoria   Hrynchuk,$800
+3000,Link Building And Outreach Specialist,12/6/2018,Profile review,lost,Leslie Winkle,Poland,Vladimir  Kpemi-Ogokimi,"$1,000"
+3001,Front-End Developer,12/6/2018,Application,lost,Leslie Winkle,Brazil,Victoria  Rajib Hassan,"$1,000"
+3002,Chief Operating Officer,12/6/2018,Test task,lost,Raj Koothrappali,United States,Nikolay  Omelyanyuk,"$3,400"
+2996,SEO Expert,12/5/2018,Profile review,lost,Leslie Winkle,Brazil,Umer  Yefimova,"$2,000"
+2997,Full Stack Engineer,12/5/2018,Full Day,lost,Sheldon Cooper,United States,Denis  ali,"$2,700"
+2998,SEO Expert,12/5/2018,Profile review,lost,Leslie Winkle,Spain,Imtiaz Aziz  Iorgacheva,$700
+2987,Full Stack Engineer,12/4/2018,Test task,lost,Sheldon Cooper,France,Tetiana   Dadashi,"$2,900"
+2990,Chief Operating Officer,12/4/2018,Profile review,lost,Raj Koothrappali,Ukraine,Anton  Dzhavala,"$9,800"
+2991,Front-End Developer,12/4/2018,Application,lost,Leslie Winkle,South Korea,Robert  Tustanovska,$700
+2992,Product Manager,12/4/2018,Profile review,lost,Sheldon Cooper,Sweeden,Alyona  singh,"$2,900"
+2978,Chief Operating Officer,12/3/2018,Profile review,lost,Raj Koothrappali,Sweeden,Michał  Popov,"$6,000"
+2979,Full Stack Engineer,12/3/2018,Test task,lost,Sheldon Cooper,United States,António  Kovner,"$1,400"
+2980,Product Manager,12/3/2018,Profile review,open,Sheldon Cooper,United States,Kushagra  ZAI,"$3,900"
+2981,Full Stack Engineer,12/3/2018,Profile review,lost,Sheldon Cooper,Netherlands,Vladyslav   Tyulpa,"$3,900"
+2982,SEO Expert,12/3/2018,Profile review,lost,Leslie Winkle,India,Sebastian  Al Nasser,"$1,700"
+2983,Front-End Developer,12/3/2018,Profile review,lost,Leslie Winkle,Canada,Lillian  Yusko,"$2,100"
+2984,Full Stack Engineer,12/3/2018,Profile review,lost,Leslie Winkle,United Kingdom,Iuliia  Navarro,"$5,400"
+2985,Front-End Developer,12/3/2018,Profile review,lost,Leslie Winkle,Canada,Ras  Barrientos,"$2,000"
+2975,SEO Expert,12/2/2018,Profile review,lost,Leslie Winkle,France,Piotr  Shport,"$2,000"
+2976,Product Manager,12/2/2018,Profile review,lost,Leslie Winkle,Ukraine,Elvin  M. Ortiz,"$4,200"
+2977,SEO Expert,12/2/2018,Profile review,lost,Leslie Winkle,Canada,Katerina Risteska   Tymoshenko,"$1,600"
+2973,Chief Operating Officer,12/1/2018,Profile review,lost,Raj Koothrappali,Ukraine,Kushagra  R,"$6,500"
+2974,Technical Content Writer,12/1/2018,Profile review,lost,Leslie Winkle,South Korea,Sergey  Ievdokymenko,"$6,000"
+2969,Chief Operating Officer,11/30/2018,Profile review,lost,Raj Koothrappali,Netherlands,Victor  Risteska Taseski,"$4,600"
+2970,SEO Expert,11/30/2018,Profile review,lost,Leslie Winkle,United Kingdom,Olha  Zhytnyk,"$3,300"
+2972,SEO Expert,11/30/2018,Profile review,lost,Leslie Winkle,Canada,Vitaliy  D ghosh,"$3,300"
+2965,Full Stack Engineer,11/29/2018,Offer,won,Sheldon Cooper,France,Brandon  Shapirenko,"$2,700"
+2966,SEO Expert,11/29/2018,Test task,lost,Leslie Winkle,Germany,Mariusz   Bibik,"$1,100"
+2967,Full Stack Engineer,11/29/2018,Profile review,lost,Sheldon Cooper,Singapore,Goran  Trachim,"$4,600"
+2968,Front-End Developer,11/29/2018,Profile review,lost,Leslie Winkle,United Kingdom,Ewa  Jackson,"$1,000"
+2959,Full Stack Engineer,11/28/2018,RPI,lost,Sheldon Cooper,Singapore,Vasileios  Urzyńska,"$6,000"
+2961,Front-End Developer,11/28/2018,RPI,lost,Leslie Winkle,Brazil,Liubov  Simon Dino,"$1,300"
+2963,SEO Expert,11/28/2018,RPI,lost,Leslie Winkle,Spain,Jeffrey  Martynenko,"$2,400"
+2954,Chief Operating Officer,11/27/2018,Prescreen call,lost,Raj Koothrappali,Ukraine,Alexander  Negrín,"$5,200"
+2955,Front-End Developer,11/27/2018,Profile review,lost,Leslie Winkle,Singapore,Oleksandra  Arosemena,"$1,000"
+2957,Full Stack Engineer,11/27/2018,RPI,lost,Sheldon Cooper,Canada,Alan  Hudz,"$3,300"
+2958,Chief Operating Officer,11/27/2018,RPI,lost,Raj Koothrappali,France,Andrii  Maksymets,"$3,300"
+2944,Front-End Developer,11/26/2018,Profile review,lost,Leslie Winkle,United Kingdom,Mendhie Emmanuel  Davidson,"$2,600"
+2945,Full Stack Engineer,11/26/2018,RPI,lost,Sheldon Cooper,India,Oksana  Matviieva,"$1,600"
+2946,Front-End Developer,11/26/2018,Test task,lost,Leslie Winkle,Canada,Andrii  Belani,"$1,000"
+2947,Front-End Developer,11/26/2018,Application,lost,Leslie Winkle,Singapore,Mikhail  Ivantsova,$800
+2948,Operations Manager,11/26/2018,Profile review,lost,Raj Koothrappali,Spain,Valeria  Orlova,"$3,300"
+2949,Front-End Developer,11/26/2018,Test task,lost,Leslie Winkle,India,Vadim  Polishchuk,"$1,600"
+2952,Full Stack Engineer,11/26/2018,Offer,lost,Sheldon Cooper,India,Aliona  Chmel,"$2,800"
+2953,Front-End Developer,11/26/2018,Profile review,lost,Leslie Winkle,Singapore,Kirill  Ras,"$1,000"
+2939,SEO Expert,11/25/2018,Profile review,lost,Leslie Winkle,Poland,Karthikeyan   Skorobogataya,"$1,300"
+2940,Front-End Developer,11/25/2018,Application,lost,Leslie Winkle,Germany,Olena   Yu,$300
+2941,Link Building And Outreach Specialist,11/25/2018,Profile review,lost,Leslie Winkle,Sweeden,Patrycja   Sharma,"$3,900"
+2943,Full Stack Engineer,11/25/2018,Offer,won,Sheldon Cooper,Spain,Euvhen  Navarro,"$1,800"
+2934,Front-End Developer,11/24/2018,Profile review,lost,Leslie Winkle,South Korea,Lyu  Rashevska,"$1,600"
+2935,Front-End Developer,11/24/2018,Profile review,lost,Leslie Winkle,Poland,Olga  Zdorik,"$1,000"
+2936,Front-End Developer,11/24/2018,Profile review,lost,Leslie Winkle,Brazil,Alina   Saloid,"$2,500"
+2937,SEO Expert,11/24/2018,Profile review,lost,Leslie Winkle,Brazil,Alexander  Sowa,"$1,000"
+2932,Chief Operating Officer,11/23/2018,Profile review,lost,Raj Koothrappali,France,Michael  Kovalov,"$9,100"
+2933,Chief Operating Officer,11/23/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Anshu   Ciesielski,"$9,800"
+2929,SEO Expert,11/22/2018,Test task,lost,Leslie Winkle,France,Karina  Suprunenko,"$1,400"
+2930,Operations Manager,11/22/2018,Profile review,lost,Raj Koothrappali,Poland,Shashank  REDDY MARAPELLI,"$1,400"
+2931,Operations Manager,11/22/2018,Profile review,lost,Raj Koothrappali,Netherlands,Roman  Pai,"$2,300"
+2926,Link Building And Outreach Specialist,11/21/2018,Test task,lost,Leslie Winkle,Netherlands,Timothy  Atamanyuk,"$1,000"
+2928,Full Stack Engineer,11/21/2018,Profile review,lost,Sheldon Cooper,United States,Andrew  Priyadharshini  M,"$5,200"
+2922,Chief Operating Officer,11/20/2018,Profile review,lost,Raj Koothrappali,France,Petro  Khatnyuk,"$6,500"
+2923,Chief Operating Officer,11/20/2018,Profile review,lost,Raj Koothrappali,Ukraine,Syed   Rybarski,"$3,300"
+2924,SEO Expert,11/20/2018,Application,lost,Leslie Winkle,United States,Malhar  Zhukov,"$2,000"
+2925,Product Manager,11/20/2018,Profile review,lost,Sheldon Cooper,Germany,Olga  Pankratov,"$3,600"
+2919,SEO Expert,11/19/2018,Application,lost,Leslie Winkle,Canada,Aleksandra  Borys,$700
+2921,Product Manager,11/19/2018,Profile review,lost,Sheldon Cooper,Singapore,Lucas  Tretiak,"$2,800"
+2915,Full Stack Engineer,11/18/2018,Test task,lost,Sheldon Cooper,Singapore,Olga  Bielanska,$800
+2917,Technical Content Writer,11/18/2018,Profile review,lost,Sheldon Cooper,Germany,Muhammad Rajib  Morrow,"$6,000"
+2918,Full Stack Engineer,11/18/2018,Profile review,lost,Sheldon Cooper,Netherlands,Olena  Maruniak,"$1,000"
+2908,Technical Content Writer,11/16/2018,Profile review,lost,Leslie Winkle,Singapore,Shubham  Fedorenko,"$1,200"
+2909,Product Manager,11/16/2018,Profile review,lost,Sheldon Cooper,United Kingdom,Anna  Lyakh,"$1,300"
+2912,Link Building And Outreach Specialist,11/16/2018,Application,lost,Leslie Winkle,Ukraine,Andriy  Holoborodko,"$1,600"
+2913,Chief Operating Officer,11/16/2018,Profile review,lost,Raj Koothrappali,Canada,Edward  Bugaievskyi,"$4,400"
+2906,Chief Operating Officer,11/15/2018,Profile review,lost,Raj Koothrappali,United States,Aleksandr  Irlik,"$6,500"
+2907,SEO Expert,11/15/2018,Application,lost,Leslie Winkle,Germany,Alexandra  Gartvich,"$6,000"
+2890,Chief Operating Officer,11/14/2018,Test task,lost,Raj Koothrappali,Brazil,JAVIER  Primov,"$2,700"
+2901,Full Stack Engineer,11/14/2018,Test task,lost,Sheldon Cooper,Brazil,Manuel  kudale,"$2,600"
+2902,Chief Operating Officer,11/14/2018,Profile review,lost,Raj Koothrappali,Spain,Anwar   Forma,"$6,900"
+2903,Chief Operating Officer,11/14/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Matteo   Usman,"$1,300"
+2904,Technical Content Writer,11/14/2018,Application,lost,Leslie Winkle,United Kingdom,Vitaliy  Ropotan,"$2,900"
+2905,Chief Operating Officer,11/14/2018,Profile review,lost,Raj Koothrappali,Germany,Andrey  Lisovol,"$3,300"
+2883,Link Building And Outreach Specialist,11/13/2018,Profile review,lost,Leslie Winkle,Canada,Dmitriy  Wysocki,"$1,100"
+2884,Link Building And Outreach Specialist,11/13/2018,Profile review,lost,Leslie Winkle,Brazil,Anton   Kuznetsov,"$4,000"
+2885,Link Building And Outreach Specialist,11/13/2018,Profile review,lost,Leslie Winkle,Brazil,Karolina   Boiko,"$1,000"
+2886,SEO Expert,11/13/2018,Profile review,lost,Leslie Winkle,Singapore,Max  Streletska,"$1,000"
+2887,Link Building And Outreach Specialist,11/13/2018,Profile review,lost,Leslie Winkle,Ukraine,Ashish  Miskiv,"$2,300"
+2888,Product Manager,11/13/2018,Profile review,lost,Sheldon Cooper,United States,Iryna  Eid,"$3,300"
+2889,SEO Expert,11/13/2018,Application,lost,Leslie Winkle,Ukraine,Anubhav  Primov,"$6,000"
+2875,Link Building And Outreach Specialist,11/12/2018,Profile review,lost,Leslie Winkle,Netherlands,Maciej  Leger,"$2,000"
+2876,Technical Content Writer,11/12/2018,Application,lost,Leslie Winkle,France,Roman  Nallathambi,"$1,600"
+2877,Link Building And Outreach Specialist,11/12/2018,Profile review,lost,Leslie Winkle,United States,Shwetha Ramnath  Arosemena,$700
+2878,SEO Expert,11/12/2018,Profile review,lost,Leslie Winkle,Brazil,Alexandra  Pirus,"$2,600"
+2879,Chief Operating Officer,11/12/2018,Profile review,lost,Raj Koothrappali,Singapore,Yu  Sedletsky,"$6,200"
+2880,Chief Operating Officer,11/12/2018,Profile review,lost,Raj Koothrappali,Singapore,Vladyslav  Perek,"$6,000"
+2881,SEO Expert,11/12/2018,Profile review,lost,Leslie Winkle,Poland,Zaal  Gartvich,"$3,300"
+2882,SEO Expert,11/12/2018,Profile review,lost,Leslie Winkle,Sweeden,Chaz  Lysiuk,$700
+2872,Chief Operating Officer,11/10/2018,Test task,lost,Raj Koothrappali,South Korea,Dipakkumar  Gutsal,"$3,800"
+2873,Full Stack Engineer,11/10/2018,Test task,lost,Sheldon Cooper,Brazil,Dmytro  Ivashkiv,"$1,600"
+2867,Chief Operating Officer,11/9/2018,Prescreen call,lost,Raj Koothrappali,France,Olga  Sowa,"$4,600"
+2868,Chief Operating Officer,11/9/2018,Profile review,lost,Raj Koothrappali,Spain,Viktor  Kaya,"$3,600"
+2869,Ruby Engineer/Analyst,11/9/2018,Profile review,lost,Sheldon Cooper,Poland,Precious  Palden,"$2,000"
+2871,Chief Operating Officer,11/9/2018,Test task,lost,Raj Koothrappali,Poland,Bryan  Pankratova,"$4,200"
+2862,SEO Expert,11/8/2018,Test task,lost,Leslie Winkle,South Korea,Piotr  Kunin,"$2,300"
+2863,Link Building and Outreach Specialist,11/8/2018,Profile review,lost,Raj Koothrappali,United States,Jakub  Gudzenko,$600
+2865,Chief Operating Officer,11/8/2018,Profile review,lost,Raj Koothrappali,Germany,Yurii  Urmantsev,"$8,500"
+2866,SEO Expert,11/8/2018,Offer,won,Leslie Winkle,United Kingdom,Daniel  Melnychuk,"$1,600"
+2852,Technical Content Writer,11/7/2018,Profile review,lost,Leslie Winkle,India,Svetlana  Sani,"$1,600"
+2856,Full Stack Engineer,11/7/2018,Profile review,lost,Sheldon Cooper,Netherlands,Valerii  Hnidenko,"$4,900"
+2857,Chief Operating Officer,11/7/2018,Profile review,lost,Raj Koothrappali,Brazil,Sivan  Singh,"$3,300"
+2858,Chief Operating Officer,11/7/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Alina  Krukovets,"$1,000"
+2859,Chief Operating Officer,11/7/2018,Profile review,lost,Raj Koothrappali,Netherlands,Janusz  Nikitiuk,"$6,500"
+2846,Chief Operating Officer,11/5/2018,Prescreen call,lost,Raj Koothrappali,Poland,Srivalli  Przada,"$3,900"
+2847,Chief Operating Officer,11/5/2018,Test task,lost,Raj Koothrappali,Canada,Rafal  ramakrishnan,"$2,900"
+2848,Chief Operating Officer,11/5/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Kirill  Moroz,"$4,600"
+2844,Chief Operating Officer,11/4/2018,Prescreen call,lost,Raj Koothrappali,India,Ievgeniia  Kushnarenko,"$3,900"
+2845,Chief Operating Officer,11/4/2018,Test task,lost,Raj Koothrappali,Canada,Tim  Tous Bercovich,"$3,300"
+2839,Chief Operating Officer,11/2/2018,Test task,lost,Raj Koothrappali,Spain,Serhiy  Kornieieva,"$6,000"
+2840,Chief Operating Officer,11/2/2018,Profile review,lost,Raj Koothrappali,India,Robert  Roshkovych,"$6,000"
+2841,Chief Operating Officer,11/2/2018,Profile review,lost,Raj Koothrappali,Ukraine,Ihor   Bekric,"$6,000"
+2842,SEO Expert,11/2/2018,Profile review,lost,Leslie Winkle,Poland,Rudolf  Świszcz,"$1,600"
+2837,Full Stack Engineer,11/1/2018,Profile review,lost,Sheldon Cooper,Ukraine,Roberto  Maleyev,"$4,200"
+2838,Chief Operating Officer,11/1/2018,Profile review,lost,Raj Koothrappali,India,Sergey   Sharma,"$6,500"
+2833,Full Stack Engineer,10/31/2018,Application,lost,Sheldon Cooper,Brazil,Natalia  Kamińska,"$7,200"
+2835,Product Manager,10/31/2018,Profile review,lost,Sheldon Cooper,Netherlands,Vitaliy  Burzynski,"$6,000"
+2832,Product Manager,10/30/2018,Profile review,lost,Sheldon Cooper,Spain,Bogusia  Marchenko,"$2,300"
+2820,Technical Content Writer,10/29/2018,Profile review,lost,Leslie Winkle,India,Maryna  Kozlowski,"$6,000"
+2821,Link Building And Outreach Specialist,10/29/2018,RPI,lost,Leslie Winkle,Germany,Michael   Palinchak,$800
+2822,Link Building And Outreach Specialist,10/29/2018,Test task,lost,Leslie Winkle,Germany,Igor  Sahu,$500
+2823,Link Building And Outreach Specialist,10/29/2018,Application,lost,Leslie Winkle,France,Franco  Primov,$700
+2826,Full Stack Engineer,10/29/2018,Profile review,lost,Sheldon Cooper,Poland,Valeriia  Iwaszuk,"$3,300"
+2818,SEO Expert,10/28/2018,Test task,lost,Leslie Winkle,South Korea,Tania  Deev,"$1,000"
+2817,Product Designer,10/27/2018,Profile review,lost,Raj Koothrappali,Ukraine,Elzbieta  Ahieieva,"$6,000"
+2816,SEO Expert,10/26/2018,Test task,lost,Leslie Winkle,India,Ashish  Brown,"$1,600"
+2811,Technical Content Writer,10/25/2018,Profile review,lost,Leslie Winkle,Ukraine,Yacoub  Wąsowicz,$200
+2812,SEO Expert,10/25/2018,Prescreen call,lost,Leslie Winkle,Netherlands,Priyanka  Filatov,$500
+2813,Full Stack Engineer,10/25/2018,Offer,lost,Sheldon Cooper,Poland,Mark  Wicher,"$2,900"
+2814,SEO Expert,10/25/2018,Application,lost,Leslie Winkle,Germany,Victoria  Ustymenko,"$1,300"
+2806,Full Stack Engineer,10/23/2018,Test task,lost,Sheldon Cooper,Poland,Diana  Ilczyniak,"$3,000"
+2804,Technical Content Writer,10/22/2018,Profile review,lost,Leslie Winkle,Spain,Dmytro  Efimov,"$3,300"
+2805,Product Designer,10/22/2018,Application,open,Howard Wolowitz,Spain,Volodymyr  Klepacki,"$3,300"
+2801,Product Designer,10/20/2018,Profile review,lost,Leslie Winkle,Ukraine,Petya  Matviienko,"$6,000"
+2800,Product Manager,10/18/2018,Profile review,lost,Sheldon Cooper,Ukraine,Makesi  Ropotan,"$1,600"
+2794,Customer Success Manager,10/15/2018,Application,lost,Leslie Winkle,United Kingdom,Alina   Rao,"$2,000"
+2793,Full Stack Engineer,10/13/2018,Full Day,lost,Sheldon Cooper,United States,Deeksha  Walczak,"$2,700"
+2791,Full Stack Engineer,10/12/2018,Offer,won,Sheldon Cooper,Sweeden,Haseeb  Yerebakan,"$3,100"
+2780,Technical Content Writer,10/11/2018,Profile review,lost,Sheldon Cooper,Sweeden,Oleksii  Knap,"$1,000"
+2771,Product Designer,10/10/2018,Profile review,lost,Raj Koothrappali,Germany,Sasha  Durkalec,"$2,000"
+2772,Product Designer,10/10/2018,Application,open,Howard Wolowitz,Brazil,Kinga  Polishchuk,"$2,500"
+2773,Customer Success Manager,10/10/2018,Application,lost,Leslie Winkle,France,Viktor  Klacz,$800
+2774,Product Designer,10/10/2018,Test task,lost,Raj Koothrappali,Sweeden,Filimowicz  Lysach,"$2,000"
+2775,Customer Success Manager,10/10/2018,Application,lost,Leslie Winkle,Spain,Andrii  Partyko,"$1,300"
+2776,Customer Success Manager,10/10/2018,Application,lost,Leslie Winkle,Canada,Alessandro  Andreichenko,$500
+2768,Full Stack Engineer,10/9/2018,Profile review,lost,Sheldon Cooper,Poland,Andriy  Byno,$800
+2769,Recruiter,10/9/2018,Profile review,lost,Raj Koothrappali,United States,Alyona  Aslanov,"$2,900"
+2770,Customer Success Manager,10/9/2018,Application,lost,Leslie Winkle,India,Alexander  Amoah,$800
+2762,Recruiter,10/8/2018,Profile review,lost,Raj Koothrappali,South Korea,MALGORZATA  Sobko,"$1,000"
+2763,Product Manager/Project Manager,10/8/2018,Profile review,lost,Sheldon Cooper,South Korea,Feby Elsa  Varnin,"$2,700"
+2764,Full Stack Engineer,10/8/2018,RPI,lost,Sheldon Cooper,France,Neil Simon  Álvarez Solano,"$2,200"
+2766,Customer Success Manager,10/8/2018,Application,lost,Leslie Winkle,Ukraine,Halyna  Kovalchuk,$700
+2767,Full Stack Engineer,10/8/2018,Offer,won,Sheldon Cooper,United Kingdom,Grzegorz   Kovalivska,"$2,500"
+2754,Recruiter,10/7/2018,Profile review,lost,Raj Koothrappali,Germany,Karolina  Kochina,"$1,300"
+2755,Full Stack Engineer,10/7/2018,Test task,lost,Sheldon Cooper,South Korea,Dmytro  Wold,"$2,600"
+2753,Recruiter,10/6/2018,Profile review,lost,Raj Koothrappali,United Kingdom,Yaroslav  Damian,"$1,800"
+2752,Product Manager,10/5/2018,Profile review,lost,Sheldon Cooper,United States,Yurii  Deundiak,"$1,900"
+2744,Product Designer,10/3/2018,Application,open,Howard Wolowitz,Canada,Oleksii  Rutledge,"$1,300"
+2745,Full Stack Engineer,10/3/2018,Profile review,lost,Sheldon Cooper,Poland,Katarzyna  Korshun,"$3,600"
+2746,Full Stack Engineer,10/3/2018,Test task,lost,Sheldon Cooper,Brazil,David  Łagodzińska,"$2,800"
+2747,Customer Success Manager,10/3/2018,Application,lost,Leslie Winkle,France,Mark Anthony  Raso,"$1,000"
+2742,Head Of Product Design,10/2/2018,Profile review,lost,Raj Koothrappali,Poland,Rudolf  Usen,$100
+2737,Recruiter,10/1/2018,Profile review,lost,Raj Koothrappali,India,Samuel  Arinushkina,"$1,700"
+2738,Full Stack Engineer,10/1/2018,Test task,lost,Sheldon Cooper,Sweeden,jagjit  Pawłowski,"$1,300"
+2740,Customer Success Manager,10/1/2018,Application,lost,Leslie Winkle,South Korea,Anton Trukhanov  Kucherenko,"$1,000"
+2734,Customer Success Manager,9/29/2018,Application,lost,Leslie Winkle,United States,Aman  Pulia,$800
+2732,Customer Success Manager,9/28/2018,Application,lost,Leslie Winkle,India,Faheem  Habuda,"$1,000"
+2733,Customer Success Manager,9/28/2018,Test task,lost,Leslie Winkle,Netherlands,Ilya  Soliman,$500
+2716,Customer Success Manager,9/27/2018,Application,lost,Leslie Winkle,Germany,Maksim  Sobański,"$2,500"
+2728,Full Stack Engineer,9/27/2018,Application,lost,Sheldon Cooper,India,Mateusz  Kolisnyk,"$1,100"
+2692,Customer Success Manager,9/26/2018,Test task,lost,Leslie Winkle,Poland,Andriy  Taran,"$1,200"
+2697,Full Stack Engineer,9/26/2018,Offer,won,Sheldon Cooper,United States,Kamil  Melnykovych,"$1,400"
+2711,Finance and Administration Manager,9/26/2018,Profile review,lost,Raj Koothrappali,Poland,Anna    Yankovska,"$1,000"
+2713,Finance and Administration Manager,9/26/2018,Profile review,lost,Raj Koothrappali,Ukraine,Duy  Saladra,"$1,000"
+2714,Customer Success Manager,9/26/2018,Application,lost,Leslie Winkle,Germany,Olena  Katsovets,"$1,600"
+2715,Full Stack Engineer,9/26/2018,Profile review,lost,Sheldon Cooper,Poland,Sherif  Krishchuk,"$1,600"
+2690,Product Manager,9/25/2018,Profile review,lost,Sheldon Cooper,Poland,Oleksandra  Sevostianova,"$4,200"
+2691,Finance and Administration Manager,9/25/2018,Profile review,lost,Raj Koothrappali,Ukraine,Tadeusz  Savchuk,"$1,300"
+2682,Product Designer,9/24/2018,Profile review,lost,Raj Koothrappali,United States,Alexis  Hudz,"$6,500"
+2683,Customer Success Manager,9/24/2018,Application,lost,Leslie Winkle,United States,Kirill  Hordii,"$1,000"
+2684,Technical Content Writer,9/24/2018,Application,lost,Sheldon Cooper,Netherlands,Eugene  Soares,$400
+2685,Customer Success Manager,9/24/2018,Application,lost,Leslie Winkle,United Kingdom,Alan  Lykhouzova,"$1,600"
+2687,Product Manager,9/24/2018,Profile review,lost,Sheldon Cooper,United States,Nardo  Pirowski,"$6,000"
+2688,Customer Success Manager,9/24/2018,Application,lost,Leslie Winkle,United Kingdom,Oleksandr  Azam Ansari,$500
+2681,Junior Full Stack Engineer,9/23/2018,Profile review,lost,Sheldon Cooper,United Kingdom,Olena  Smagin,$200
+2673,Head Of Product Design,9/21/2018,Profile review,lost,Raj Koothrappali,Ukraine,Navin  Zięba,"$7,800"
+2674,Full Stack Engineer,9/21/2018,Test task,lost,Sheldon Cooper,Canada,Mikhail  Levaneuski-Peravozchykau,"$2,700"
+2675,Finance and Administration Manager,9/21/2018,Profile review,lost,Raj Koothrappali,Canada,Piotr  Strukov,"$1,300"
+2676,Customer Success Manager,9/21/2018,Test task,lost,Leslie Winkle,India,Aman  Brovdi,$400
+2677,Customer Success Manager,9/21/2018,Profile review,lost,Leslie Winkle,Singapore,Viktoriia  Kucherenko,$300
+2678,Technical Content Writer,9/21/2018,Profile review,lost,Sheldon Cooper,South Korea,Swapnil   Tereschenko,"$1,800"
+2679,Customer Success Manager,9/21/2018,Offer,won,Leslie Winkle,Ukraine,Vladyslav  Bunakov,$700
+2680,Customer Success Manager,9/21/2018,Test task,lost,Leslie Winkle,United States,Daryna   Mahato,$700
+2672,Full Stack Engineer,9/20/2018,Prescreen call,lost,Sheldon Cooper,Canada,Yulia  Bourgeois,"$4,600"
+2670,Customer Success Manager,9/19/2018,Test task,lost,Leslie Winkle,Spain,Corin  Miniailenko,"$1,000"
+2671,Customer Success Manager,9/19/2018,Application,lost,Leslie Winkle,Canada,Oleg  Abramov,"$1,000"
+2669,Customer Success Manager,9/18/2018,RPI,lost,Leslie Winkle,Spain,Brian  Ronenko,$800
+2662,Product Designer,9/17/2018,Application,open,Howard Wolowitz,Brazil,Alex  Hsu,"$2,000"
+2663,Customer Success Manager,9/17/2018,Application,lost,Leslie Winkle,Sweeden,Alex  Kucherenko,"$1,400"
+2664,Product Manager,9/17/2018,Profile review,lost,Sheldon Cooper,Sweeden,Sana  Shamrai,"$3,600"
+2665,Full Stack Engineer,9/17/2018,Profile review,lost,Sheldon Cooper,South Korea,Karina  Baidak,"$2,300"
+2667,Customer Success Manager,9/17/2018,Test task,lost,Leslie Winkle,Poland,Stanislav  Badyka,$800
+2660,Customer Success Manager,9/16/2018,Profile review,lost,Leslie Winkle,Sweeden,Shawn  Kityk,"$1,000"
+2661,Customer Success Manager,9/16/2018,Test task,lost,Leslie Winkle,United States,Aleksandr  Rybchenko,"$1,000"
+2657,Customer Success Manager,9/15/2018,Application,lost,Leslie Winkle,Canada,Hassan  Serbin,$300
+2658,Customer Success Manager,9/15/2018,Application,lost,Leslie Winkle,Brazil,Karina  Tantono,"$1,600"
+2656,Head Of Product Design,9/14/2018,Profile review,lost,Raj Koothrappali,United States,Tomasz   Victorino,"$2,000"
+2644,Customer Success Manager,9/12/2018,Application,lost,Leslie Winkle,Sweeden,Paulina  Milutinovic,"$2,900"
+2645,Customer Success Manager,9/12/2018,Profile review,lost,Leslie Winkle,United States,Tania  Magas,"$1,000"
+2647,Full Stack Engineer,9/12/2018,Offer,won,Sheldon Cooper,South Korea,Piotr  Palli,"$2,600"
+2648,Head Of Product Design,9/12/2018,Application,open,Howard Wolowitz,Canada,António  Meimin Meimin,"$1,300"
+2649,Customer Success Manager,9/12/2018,RPI,lost,Leslie Winkle,Spain,Kirill  Shevchuk,"$1,000"
+2650,Head Of Product Design,9/12/2018,Profile review,lost,Raj Koothrappali,Spain,Mark Anthony   Sharma,"$2,200"
+2639,Customer Success Manager,9/11/2018,Profile review,lost,Leslie Winkle,Singapore,Marek   Yasinski,$800
+2631,Technical Content Writer,9/10/2018,Profile review,lost,Sheldon Cooper,Poland,Anthony   Rosenblatt,$300
+2632,Product Manager,9/10/2018,Profile review,lost,Sheldon Cooper,Brazil,Anton  Omelchenko,"$1,600"
+2633,Customer Success Manager,9/10/2018,Application,lost,Leslie Winkle,Netherlands,Iryna  Vakulchik,"$2,000"
+2634,Product Manager,9/10/2018,Profile review,lost,Sheldon Cooper,South Korea,Tugba  Aggarwal,"$1,600"
+2635,Customer Success Manager,9/10/2018,Application,lost,Leslie Winkle,Brazil,Victoria  Masalsky,$800
+2636,Head Of Product Design,9/10/2018,Profile review,lost,Raj Koothrappali,Germany,Kamil  Szewczyk,"$2,500"
+2637,Product Manager,9/10/2018,Profile review,lost,Sheldon Cooper,Spain,Hossein  Miller,"$1,300"
+2638,Technical Content Writer,9/10/2018,Profile review,lost,Sheldon Cooper,Spain,Michael  Vergeichik,"$2,600"
+2630,Head Of Product Design,9/9/2018,Profile review,lost,Raj Koothrappali,India,Olena  Athimoolam,"$1,000"
+2628,Head Of Product Design,9/7/2018,Profile review,lost,Raj Koothrappali,Netherlands,Karolina   Shabana,"$3,300"
+2629,Customer Success Manager,9/7/2018,Profile review,lost,Leslie Winkle,France,Lena  Chetak,$900
+2624,Head Of Product Design,9/6/2018,Profile review,lost,Raj Koothrappali,France,Max  Novytskyi,"$2,600"
+2625,Customer Success Manager,9/6/2018,Application,lost,Leslie Winkle,Brazil,Serhii  Wilson,"$1,600"
+2626,Customer Success Manager,9/6/2018,Application,lost,Leslie Winkle,Spain,Paulina  Babilia,$800
+2627,Head Of Product Design,9/6/2018,Profile review,lost,Raj Koothrappali,France,Roman  Hsu,"$1,000"
+2620,Product Designer,9/5/2018,Profile review,lost,Leslie Winkle,United States,Serhiy  Ociepa,"$6,000"
+2622,Customer Success Manager,9/5/2018,Application,lost,Leslie Winkle,Sweeden,Osegbemoh  Kadzielawa,"$1,800"
+2618,Product Designer,9/4/2018,Application,open,Howard Wolowitz,France,Piotr  Mikhushkin,"$1,100"
+2619,Full Stack Engineer,9/4/2018,Test task,lost,Sheldon Cooper,Canada,Iurii   Holca,"$2,300"
+2613,Head Of Product Design,9/3/2018,Profile review,lost,Raj Koothrappali,Germany,Viktor  Zhvalyuk,"$2,600"
+2614,Product Designer,9/3/2018,Application,open,Howard Wolowitz,Germany,Kateryna  Kovero,"$2,400"
+2615,Head Of Product Design,9/3/2018,Profile review,lost,Raj Koothrappali,France,Max  Laskowska,"$1,200"
+2616,Recruiter,9/3/2018,Profile review,lost,Raj Koothrappali,India,Predrag  Tahir Mubeen,"$1,000"
+2617,Customer Success Manager,9/3/2018,Application,lost,Raj Koothrappali,France,Tomasz  Dania,$600
+2609,Product Manager,9/2/2018,Profile review,lost,Sheldon Cooper,Brazil,Vlad  Czarnik,"$2,900"
+2610,Customer Success Manager,9/2/2018,Application,lost,Leslie Winkle,India,Oleksii  Diakonov,"$1,200"
+2606,Product Manager,8/31/2018,Profile review,lost,Sheldon Cooper,India,Olena  Pavlova,"$1,200"
+2607,Customer Success Manager,8/31/2018,Application,lost,Leslie Winkle,Poland,Mariana  Anand,"$1,000"
+2599,Customer Success Manager,8/30/2018,Profile review,lost,Leslie Winkle,Spain,Dmytrii  Haleniuk,$500
+2600,Head Of Product Design,8/30/2018,Profile review,lost,Raj Koothrappali,Spain,Maksym  Kovalov,"$1,300"
+2601,Product Designer,8/30/2018,Application,open,Howard Wolowitz,Germany,Magdalena  Shemet,"$1,300"
+2602,Product Manager,8/30/2018,Profile review,lost,Sheldon Cooper,Germany,Mayuri   Cosara,$800
+2603,Customer Success Manager,8/30/2018,Profile review,lost,Leslie Winkle,Sweeden,Paweł  Ahmad,$700
+2604,Full Stack Engineer,8/30/2018,Offer,lost,Sheldon Cooper,France,Gireesh Kumar  Hsu,"$3,300"
+2598,Customer Success Manager,8/29/2018,Profile review,lost,Leslie Winkle,United States,Karolina  Joniec,"$1,100"
+2592,Customer Success Manager,8/28/2018,Test task,lost,Leslie Winkle,United States,Ilya  Malikzada,"$1,000"
+2593,Customer Success Manager,8/28/2018,Test task,lost,Leslie Winkle,France,Arin  Rejman,"$1,300"
+2594,Product Manager,8/28/2018,Profile review,lost,Sheldon Cooper,Germany,Siva  Teczar,"$2,600"
+2597,Full Stack Engineer,8/28/2018,RPI,lost,Sheldon Cooper,United States,Anatolii  Gavryshchuk,"$2,700"
